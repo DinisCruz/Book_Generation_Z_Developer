@@ -1,0 +1,9 @@
+{{ partial "flex/before-content/body-header"         . }}
+<article>
+  {{ partial "flex/before-content/menu.html"         . }}
+  <section class="page">
+
+    {{ partial "flex/before-content/navigation.html" . }}
+    {{ partial "flex/before-content/search.html"     . }}
+
+    {{if not .IsHome}}<h1>{{.Title}}</h1>{{end}}
