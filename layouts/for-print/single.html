@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+      {{ partial "flex/head.html" . }}
+  </head>
+
+  <body data-url="{{ .RelPermalink }}">
+      <section class="page">
+        <h1 class="alert alert-info">
+          <a href="/">{{ .Site.Title }}
+            </a></h1>
+        {{- range .Site.Home.Sections.ByWeight}}
+          <h3 class="alert alert-warning">{{ .Params.title }}</h3>
+          {{range .Pages.ByWeight }}
+            <div>
+              <h4>{{.Params.title}}</h4>
+
+              {{ .Content }}
+            </div>
+          {{ end }}
+
+        {{- end}}
+      </section>
+  </body>
+</html>
