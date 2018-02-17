@@ -7,20 +7,21 @@
 
   <body data-url="{{ .RelPermalink }}">
       <section class="page">
-        <h1 class="alert alert-info">
-          <a href="/">{{ .Site.Title }}
-            </a></h1>
-        {{- range .Site.Home.Sections.ByWeight}}
-          <h3 class="alert alert-warning">{{ .Params.title }}</h3>
-          {{range .Pages.ByWeight }}
-            <div>
-              <h4>{{.Params.title}}</h4>
+        <h2 class="alert alert-info">
+          <a href="/">{{ .Site.Title }}</a></h2>
+          {{ range .Site.Home.Sections.ByWeight}}
+            <h3 class="alert alert-warning">{{ .Params.title }}</h3>
 
-              {{ .Content }}
-            </div>
+            {{ .Content }}
+
+            {{range .Pages.ByWeight }}
+              <div>
+                <h4>{{.Params.title}}</h4>
+                {{ .Content }}
+              </div>
           {{ end }}
 
-        {{- end}}
+        {{ end}}
       </section>
   </body>
 </html>

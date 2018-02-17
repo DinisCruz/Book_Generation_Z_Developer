@@ -1,6 +1,15 @@
+<style>
+    .shortcuts input {
+        margin-left: 50%;
+        width:200px;
+    }
+</style>
 <header>
     <div class="logo">
         {{ partial "header.html" . }}
+    </div>
+    <div class="shortcuts">
+        {{ partial "flex/before-content/search.html"     . }}
     </div>
     <div class="burger"><a href="javascript:void(0);" style="font-size:15px;">&#9776;</a></div>
     {{- with .Site.Menus.shortcuts}}

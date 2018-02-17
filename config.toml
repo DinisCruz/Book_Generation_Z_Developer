@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 [params]
-editURL             = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+editURL             = "https://github.com/DinisCruz/Book_Generation_Z_Developer/"
 showVisitedLinks    = true # default is false
 themeStyle          = "flex" # "original" or "flex" # default "flex"
 themeVariant        = "" # choose theme variant "green", "gold" , "gray", "blue" (default)

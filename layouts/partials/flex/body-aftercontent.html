@@ -1,10 +1,24 @@
-<div class="chevrons">
-    {{ partial "next-prev-page.html" . }}
-</div>
+
+    <hr/>
+    {{ partial "flex/before-content/navigation.html" . }}
+    <!--{{ partial "flex/before-content/search.html"     . }}-->
+
+
+    <div class="chevrons">
+        {{ partial "next-prev-page.html" . }}
+    </div>
 
 </section>
 </article>
 
+<style>
+    footer p {
+        font-size: 10px;
+    }
+    footer hr {
+        margin: 0px;
+    }
+</style>
 <footer>
 
     <div class="footline">
@@ -29,13 +43,14 @@
         {{end}}
 
         <div class="github-link">
-            <a href="{{ .Site.Params.editURL }}{{ replace .File.Dir "\\" "/" }}{{ .File.LogicalName }}" target="blank"><i class="fa fa-code-fork"></i>
-            {{T "Edit-this-page"}}</a>
+            <a href="{{ .Site.Params.editURL }}/edit/master/content/{{ replace .File.Dir "\\" "/" }}{{ .File.LogicalName }}" target="blank"><i class="fa fa-code-fork"></i>
+            edit this page</a>
         </div>
     </div>
 
-
+    <hr/>
     <div>
+
         {{ $footer := print "_footer." .Lang }}
         {{ range where .Site.Pages "Source.BaseFileName" $footer }}
         {{ .Content }}
