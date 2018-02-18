@@ -1,0 +1,21 @@
+{{ .RawContent }}
+
+{{- range .Site.Home.Sections.ByWeight}}
+    {{ if .Params.Title }}
+
+# {{ .Params.Title}}
+
+{{ .RawContent }}
+    {{ end }}
+
+    {{range .Pages.ByWeight }}
+
+## {{.Params.title}}
+
+{{ .RawContent }}
+
+
+    {{ end }}
+
+
+{{- end }}

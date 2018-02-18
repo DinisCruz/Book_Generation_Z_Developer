@@ -18,5 +18,7 @@ title: Stories to tell
  - Bret Victor's inventing on principle (https://vimeo.com/36579366)
  - "you are the product" - you need to regain control of your data
 
+ - "Great minds discuss ideas; average minds discuss events; small minds discuss people."
+
 
 {{% /panel %}}

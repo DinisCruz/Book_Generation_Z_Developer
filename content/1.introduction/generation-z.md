@@ -14,3 +14,7 @@ title: Generation Z
  - I have two daughters (12 and 14) that on the tail end of this Generation
 
 {{% /panel %}}
+
+
+notes:
+ - infographic of the multiple Generations https://twitter.com/PaoliCGPI/status/961121404048601088

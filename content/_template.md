@@ -2,9 +2,10 @@
 title:
 ---
 
+...
 
-{{% panel theme="success" header="Topics to cover" %}}
+---
 
- - ...
+**Topics to cover and ideas**
 
-{{% /panel %}}
+ -
