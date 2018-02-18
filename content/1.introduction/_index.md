@@ -4,7 +4,7 @@ weight    : 1
 alwaysopen: true
 ---
 
-...Introduction
+Hi Generation Z Developer, if you are passional 
 
 Here is the slide that started it all:
 
