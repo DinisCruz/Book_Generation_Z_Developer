@@ -1,11 +1,10 @@
 ---
-title: Defcon
+title: GDPR
 ---
 
 
 {{% panel theme="success" header="Topics to cover" %}}
 
- - Defcon
- - relation with Blackhat
+ - Know your rights. What does it mean for you
 
 {{% /panel %}}

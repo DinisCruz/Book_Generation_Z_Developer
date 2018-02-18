@@ -1,11 +1,10 @@
 ---
-title: Defcon
+title: Thinking as programmer
 ---
 
 
 {{% panel theme="success" header="Topics to cover" %}}
 
- - Defcon
- - relation with Blackhat
+ - Elon Musk "cost of rocket's atoms"
 
 {{% /panel %}}
