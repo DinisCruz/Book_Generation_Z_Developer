@@ -3,7 +3,7 @@ title: aws
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - What is it
  - History
@@ -22,5 +22,3 @@ title: aws
  - AWS today is as complex as an OS (windows or linux). It can only be managed in a programmatic way. But today the testing capabilities of AWS (and other cloud providers is very basic)
 
  - if you have an AWS account, go a try AWS
-
-{{% /panel %}}
