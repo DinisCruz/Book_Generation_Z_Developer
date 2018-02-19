@@ -3,8 +3,10 @@ title: raspberry-pi
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - why was it created
-
-{{% /panel %}}
+    - https://en.wikipedia.org/wiki/Raspberry_Pi_Foundation
+    - https://www.makeuseof.com/tag/raspberry-pi-creditcard-sized-arm-computer-25/
+ - use a raspberry PI to connect to a hardware (get one of the starter kits (add link). Make a led blink, create a mobile phone, etc..
+ - connected to maker movement and IOT world

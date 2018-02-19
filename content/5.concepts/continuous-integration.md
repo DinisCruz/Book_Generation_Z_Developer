@@ -3,7 +3,7 @@ title: Continuous Integration
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - why it matters
  - how it works
@@ -17,6 +17,4 @@ title: Continuous Integration
        - ZAP (to generate attack traffic)
        - ELK (to visualise traffic)
        - Write security tests that execute against site
-
-
-{{% /panel %}}
+ - compare with CD (Continuous Delivery)O
