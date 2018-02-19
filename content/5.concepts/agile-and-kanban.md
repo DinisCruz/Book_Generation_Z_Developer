@@ -9,4 +9,6 @@ title: Agile and Kanban
  - why it worked
  - Anton cords
 
+ - [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+
 {{% /panel %}}

@@ -27,3 +27,8 @@ Another powerful feature of books (in addition of rendering contentin HD with re
 My undestanding (and please correct me if I'm wrong) is that most books these are are printed from either recycled paper or from sustainable forrests (i.e. forests where they plant at least as many new trees as they cut).
 
 This mean that the impact of books on the environment is minimal.
+
+**The power of the bookbook**
+
+...add story about the Ikea add called "Experience the power of a bookbook" "At only 8mm thin, and weighing in at less than 400g, the 2015 IKEA Catalogue comes pre-installed with thousands of home furnishing ideas"  https://www.youtube.com/watch?v=MOXQo7nURs0 ...
+

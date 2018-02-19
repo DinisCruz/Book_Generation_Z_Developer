@@ -1,5 +1,5 @@
 ---
-title: aws
+title: AWS
 ---
 
 

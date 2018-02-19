@@ -3,7 +3,7 @@ title: Stories to tell
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - Monkey in cake
  - My dad's "Building a university in field story"
@@ -19,5 +19,7 @@ title: Stories to tell
 
  - "Great minds discuss ideas; average minds discuss events; small minds discuss people."
 
+ - "Mathematician's Lament"
 
-{{% /panel %}}
+ - https://waitbutwhy.com/ references
+

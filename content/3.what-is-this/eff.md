@@ -9,7 +9,10 @@ title: EFF (Electronic Frontier Foundation)
  - brief history
  - major success stories
  - why is it important
- - why you should support them
+ - why you should support them (add link)
+ - net neutrality
+ - hackers it defended in court (and other privacy related cases)
+    - ones they won and lost
 
 
 {{% /panel %}}

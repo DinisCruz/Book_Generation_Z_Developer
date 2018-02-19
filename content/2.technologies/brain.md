@@ -1,5 +1,5 @@
 ---
-title: brain
+title: Brain
 ---
 
 How well do you know your brain? Do you know how it works? What areas it is really strong at, what areas it is weak and how to maximise its capabilities?
