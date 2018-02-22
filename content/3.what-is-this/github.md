@@ -3,7 +3,7 @@ title: Github
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - use github as your personal back up and time machine
  - build on top of Open source
@@ -12,5 +12,3 @@ title: Github
    - GitLab
    - Gogs https://github.com/gogits
  - amazing innovation, how many times it pushes to production everyday. GH is one of the best development teams in the world
-
-{{% /panel %}}

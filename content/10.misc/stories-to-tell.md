@@ -5,7 +5,7 @@ title: Stories to tell
 
 **Topics to cover and ideas**
 
- - Monkey in cake
+ - Monkey in cage that don't get the bananas from celling
  - My dad's "Building a university in field story"
  - FISH! 4 concepts
     - Be present
@@ -23,3 +23,4 @@ title: Stories to tell
 
  - https://waitbutwhy.com/ references
 
+ - https://haveibeenpwned.com/

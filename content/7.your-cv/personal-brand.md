@@ -12,5 +12,12 @@ title: Personal Brand
  - What do you represent
  - What is your voice
  - Follow up (remember how busy the others are, so keep following up)
+ - how can you be found
+ - SEO optimise your name and your published research
+
+ - use GA and Google Data Studio
+    - Data analytics
+ - get a domain name for your blog or site
+    - host a hugo based site on S3 buckets (add https)
 
 {{% /panel %}}

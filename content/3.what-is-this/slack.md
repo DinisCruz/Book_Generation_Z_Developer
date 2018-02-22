@@ -2,12 +2,11 @@
 title: Slack
 ---
 
+Slack is how we communicate daily (just like we used to using ICQ, MSN Messenger, Skype, etc...)
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - Slack bots
  - Why slack one
  - Integrations
  - Copy and paste of images
-
-{{% /panel %}}

@@ -12,5 +12,12 @@ title: blogs
  - view it as an exercise
  - any feedback is healthy
  - amazing feeling when one post gain traction (and it referenced in sites like redit'
+ - comments are gold (get rid of any kind of spam or link-bait in comments)
+ - use you blog to ask questions (with data behind your question and the paths you have tried)
+ - write about things you are doing on the day-to-day. explain your path and personal stories about making it to work
+ - write for your future self
+ - key concept: "answer questions made to you with a blog" (great way to write good/relevant content and scale your time (specially important when you get asked the same question by multiple people/coleagues))
+ - Blog titles are very important (since they help with SEO a lot)
+
 
 {{% /panel %}}

@@ -3,7 +3,7 @@ title: EFF (Electronic Frontier Foundation)
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - https://www.eff.org/ (one of the logos for the cover)
  - brief history
@@ -14,5 +14,3 @@ title: EFF (Electronic Frontier Foundation)
  - hackers it defended in court (and other privacy related cases)
     - ones they won and lost
 
-
-{{% /panel %}}

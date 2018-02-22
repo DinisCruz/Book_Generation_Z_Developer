@@ -10,5 +10,8 @@ title: LinkedIn
  - build your network
  - get recommendations
  - Graph database
+ - bought by Microsoft
+ - low signal/noise ration (and they have a really bad email/messaging system)
+
 
 {{% /panel %}}
