@@ -2,7 +2,7 @@
 title: Slack
 ---
 
-Slack is how we communicate daily (just like we used to using ICQ, MSN Messenger, Skype, etc...)
+Slack is how we communicate daily (just like we used to using ICQ, MSN Messenger, Skype, Phone, Smoke Signals, etc...)
 
 **Topics to cover and ideas**
 

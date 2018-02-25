@@ -15,6 +15,10 @@ I really like the Gen Z realization that a job is something that should be rewar
 
 Find what you are passionate for, what you really care about, and align your carrer with those ideas. The best part is that this is a massive win-win situation, since the more passionate you are about a particular topic, the more you care about it, and the more valuable you are the company that is employing you to work on those topics.
 
+**Having one competitive advantage**
+
+The best way to get a job is to have 1 (one) competitive advantage. One activity or task that you can do better than the person/company hiring you. For example in the 1990s for a lot of companies it was using a computer, in the 2000s is was using the internet. For development or security, for a while all it took was good programming or hacking experience. Although it might look that the bar was lower those days, the reality is that the ones that could do it, where the ones that proactively embraced those technologies and learned them agaist all odds (at the time when most companies, including technological companies, where ignoring it). These days, it is thinks like: ML/AI, Graphs, Chaos Engineering, GitHub, Git, Jira, Creative Commons, Continuous Integration, AWS, WallabyJs and the other technologies/ideas covered in this book :)
+
 **Own your carer development**
 
 You are the one that is in change of your carer. Don't let anybody tell you what you should be doing and what paths to follow. You need to discover these paths by yourself (via trial and error), and a great way to do that is to work for companies that are alligned with those paths

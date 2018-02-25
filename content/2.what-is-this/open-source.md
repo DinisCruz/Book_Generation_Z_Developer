@@ -1,5 +1,6 @@
 ---
 title: Open Source
+status: draft
 weight: 5
 ---
 
@@ -14,6 +15,30 @@ weight: 5
  - open source business models
  - I was called a communist many times (in early open source conversations)
  - "Open source as won, but Gen Z is not aware of it"
+ - When you open source an app or code, what will happen next is : Nothing!
+    - it is veru hard to create a community around an open source project
+    - what you will have done (with adding the license file to your code (which is all it takes, assuming you wrote all the code so far)), is to create future opportunities for that code and sent a strong message about your agenda (i.e. you are not going to lock in the future the users that are using your current code today).
+       - you are allowing somebody (which could be you) in the future to use your code
+       - you are also protecting your research, so that if you move companies, you can still use that code (there is nothing worse for a programmer than to having to rewrite something that was working ok (specially when it is a framework that supports a particular workflow)
+
+ - big success of companies collaborating internally externally (i.e. internal collaboration between different teams via open source code)
+    - although most devs have access to all code, the number of cross-team pull requests is very low (open source license help a lot with this)
+    - allowing other to use your code is a great way to find programmers to hire or companies to buy
+    - the myth of the company that will take your code and just run with it (they will be massive locked to your code)
+        - example of team that created a fork of Chrome (to add security features) and couldn't keep up with Chrome's development speed
+        - the open source tax (when you don't contribute back your changes)
+  - companies should pay developers to work on open source apps/modules that are used in the company.
+    - my experience with helping an open source project (that we used), and then getting help from a key developer from that project in a hard problem that we were having
+
+ - Question: "Why don't you open source your code?"
+    - I bet the answer is a combination of:
+        - "I don't think my code is good enough"
+        - "I'm embarrassed about my code"
+        - "Nobody will want to use my code"
+    - the first thing to understand is that I have heard these same excuses from all sorts of developers and companies, for code in all sorts of quality and completeness.
+    - this is your [Lizard brain](https://facilethings.com/blog/en/lizard-brain) in action (making excuses of why you shouldn't do something)
+    - the key is to just do it (add the license and slowly staring building the community)
+
 
 
 **The Cathedral and the Bazaar

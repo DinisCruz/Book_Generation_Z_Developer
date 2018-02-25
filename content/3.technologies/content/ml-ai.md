@@ -10,7 +10,7 @@ This is not about an [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator))
 
 This is about the next major revolution in technology and whether you are going to be a player or a pawn in what is happening next.
 
-I highly recomend that you read Kevin Kelly's [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089] book where he provides a really clean mapping of what (most likely) will happen next.
+I highly recomend that you read Kevin Kelly's [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089) book where he provides a really clean mapping of what (most likely) will happen next.
 
 One area that Kevin talks in detail and you can already see it happening around us is the introduction of AI capabilities in all sort of devices and business activities.
 
@@ -24,4 +24,7 @@ As a developer, you will be soon be asked to write code that integrates with Mac
 
 **Where are we going**
 
-For a nice view of what could be happening next see [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/024123719X/) and [What Technology Wants](https://www.amazon.co.uk/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
+For a nice view of what could be happening next see
+  - [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/024123719X/)
+  - [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1910701874)
+  - [What Technology Wants](https://www.amazon.co.uk/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
