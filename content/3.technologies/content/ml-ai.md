@@ -1,5 +1,7 @@
 ---
-title: Machine Learning and AI
+title  : Machine Learning and AI
+status : content
+weight : 30
 ---
 
 One of the most important areas that you need to gain a strong understaning in the next 5 years is Machine Learning and Artificial Intelligence (AI).

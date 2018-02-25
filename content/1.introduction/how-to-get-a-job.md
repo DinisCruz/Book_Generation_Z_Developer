@@ -1,8 +1,13 @@
 ---
-title: How to get a job
+title : How to get a job
+status: content
 ---
 
-One of my objectives with his book is to help you to find a job. There is a lot of competition out there and if you look at what is coming next (namely AI and the next billion of internet users), you need to maximise your changes
+One of my objectives with his book is to help you to find a great job, one that you will love to go everyday, one where you are in a steep learning curve and one that aligns what you passionate about with what your employeer is happy to pay for.
+
+It is very important to realise that if you are in an job (or school) where your learning curve is not off-the-charts, you are short-changing your life and your career. Nobody cares as much about your carer as you do, and you are the only one that has full control over your attitude to learning. You can chose everyday on how engaged and receptive you are to learn and to help others to help you learn. It is not exaggeration to say that you decide your future's direction and path with every decision that you make everyday.
+
+There is a lot of competition out there and if you look at what is coming next (namely AI and the next billion of internet users), you need to maximise your changes and opportunities.
 
 I really like the Gen Z realization that a job is something that should be rewarding and not just a way to make money. After all the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, that didn't happened by accident. I made a number of key decisions in my life (some with very short-term negative implications) that allowed me to align what I love to do with what the market wants to pay.
 
@@ -12,15 +17,15 @@ Find what you are passionate for, what you really care about, and align your car
 
 **Own your carer development**
 
-You are the one tha is in change of your carer. Don't let anybody tell you what you should be doing and what paths to follow. You need to discover these paths by yourself (via trial and error), and a great way to do that is to work for companies that are alligned with those paths
+You are the one that is in change of your carer. Don't let anybody tell you what you should be doing and what paths to follow. You need to discover these paths by yourself (via trial and error), and a great way to do that is to work for companies that are alligned with those paths
 
 And how do you start working with those companies?
 
-Easy, start collaborating on their Open Source projects. Act like you are part of the company (understand its values, and behave in was that add value to that company, namely the tech stack)
+Easy, start collaborating on their Open Source projects. Act like you are part of the company (understand their values, and behave in ways that that add value to that company, namely the tech stack)
 
-Start meeting key individuals (and developers) from those companies, and build relationships that not only will teach you a lot, but can potentially lead to very interesting job offers (or references). Start learning how to add value and how to become really good at proactively solving problems (which is one of the most valuable assets you can bring to a company)
+Start by meeting offline and online the key individuals (and developers) from those companies and communities in a way that adds value to them                                                                                                                                                              . Build relationships that will teach you a lot, and potentially lead to very interesting job offers (or references). Start learning how to add value and how to become really good at proactively solving problems (which is one of the most valuable assets you can bring to a company)
 
-What is interesting is that there is nothing stopping you from doing this?
+What is interesting is that there is nothing stopping you from doing this!
 
 So why don't you?
 

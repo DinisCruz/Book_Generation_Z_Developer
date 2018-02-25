@@ -32,6 +32,8 @@ title: Git
     - best way to learn this is to clone a repo with lots of files and versions, and just checkout different branches (each with a different file structure). What is impressive in this example is how we can see major directories changes in seconds (i.e. with each branch checkout))
  - explain why git cannot store empty folders
  - by now (2018) we should have git based file systems
-
+ - git is also great for site deployment
+    - explain pattern of having a special web method that listen for github webhooks and triggers a pull (updating the site in seconds)
+    - git deployment also works great for binaries (for example we one setup an git deployment workflow for .Net binaries). Upgrades and rollbacks become a simple fact of doing a git checkout
 
 {{% /panel %}}

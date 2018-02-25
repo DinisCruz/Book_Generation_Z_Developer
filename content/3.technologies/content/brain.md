@@ -1,5 +1,7 @@
 ---
-title: Brain
+title : Brain
+status: content
+weight: 20
 ---
 
 How well do you know your brain? Do you know how it works? What areas it is really strong at, what areas it is weak and how to maximise its capabilities?
@@ -27,7 +29,7 @@ The [Predictably Irrational: The Hidden Forces That Shape Our Decisions](https:/
  When self analysing how I think (from an engineering point of view), I found that I have two types of thinking techniques.
 
    - A slow(ish) type of thinking - where I'm basically taking to myself in my head. This is also how I tend to read (I heard the text I'm reading in my head)
-   - A fast type of thinking - where I 'somehow' and making a large number of analysis and decisions, and 'know' what I'm thinking without really needing to articulate in my head all the explanations of what I'm doing. This is the kind of thinking that one tends to get when in 'the Zone' (which is that magical place where ideas 'just flow' and we are hyper productive)
+   - A fast type of thinking - where I 'somehow' am making a large number of analysis and decisions, and 'know' what I'm thinking without really needing to articulate in my head all the explanations of what I'm doing. This is the kind of thinking that one tends to get when in 'the Zone' (which is that magical place where ideas 'just flow' and we are hyper productive)
 
 I've also found that although my brain is able to hold a large amount of hyperlilnked information (creating a graph of linked data that I'm working on), it is not good at all at multi-tasking (i.e. working on multiple domain problems at the same time).
 

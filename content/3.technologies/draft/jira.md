@@ -1,5 +1,6 @@
 ---
 title: Jira
+status: draft
 ---
 
 [Jira](https://www.atlassian.com/software/jira) is a web application that is widely used by development, engineering and technical teams to manage they day to day tasks/activities.

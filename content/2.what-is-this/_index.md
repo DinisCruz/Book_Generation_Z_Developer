@@ -4,6 +4,6 @@ weight    : 15
 alwaysopen: true
 ---
 
-Here is how it all started
+Important ideas and technologies to understand what they are that why they where created in the first place.
 
 

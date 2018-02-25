@@ -1,5 +1,7 @@
 ---
-title: Pen and Paper
+title : Pen and Paper
+status: content
+weight: 15
 ---
 
 Another powerful technology that seems to be going out of fashion is the pen and paper (pencil is also a great option).

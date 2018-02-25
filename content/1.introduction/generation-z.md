@@ -1,17 +1,19 @@
 ---
-title: Generation Z
+title : Generation Z
+status: content
 ---
 
 Generation Z is the generation that was [born after 1996](https://twitter.com/PaoliCGPI/status/961121404048601088) and represents a very interesting mix of great values and digital capabilities.
 
-The older members of this generation at about 22 years old at the moment, where 11 when the first iPhone come out (2007) and are the first real digital/online generation (they never experienced a world without internet or without google). This is the generation that is entering the market place at the moment.
+The older members of this generation at about 22 years old at the moment (2018), they where 11 when the first iPhone come out (2007) and are the first real digital/online generation (they never experienced a world without internet or without google). This is the generation that is entering the market place at the moment.
 
-In addition to having personal experience with this generation (I have two daughters with 12 and 14 years old), I have been involved (professionally) in a number of projects with this generation (for example teaching High School kids in the UK how to 'hack' and working with projects that aim at teaching developers coding skills usable in the real-world).
+In addition to having personal experience with this generation (I have two daughters aged 12 and 14), I have been involved (professionally) in a number of projects with this generation (for example teaching High School kids in the UK how to 'hack' and working with projects that aim at teaching developers coding skills usable in the real-world).
 
 The reason I'm focusing on this Generation, due to my realization that they missed a number of key revolutions (in the technology space) whose history understanding is fundamental (in order to be competitive in the market place).
 
 In hindsight this is normal, since we (as a society) still don't do a very good job at explaining why things happened and why did they where needed in the first place.
 
+Without an understanding of the past, we only learn from shadows and curated versions of reality.
 
 **I'm worried about Gen Z**
 
@@ -28,3 +30,5 @@ My hope with this book is to break through those gaps, and provide context and r
 What I hope to provide is a couple moments where you get this overwhelming curiosity to just learn more about topic, where you start to follow link after link about a particular topic, and that you get a number of 'WOW, that is fr**** awesome!' moments
 
 If you are lucky enough to find yourself in this place, congratulations, you just found 'the zone' which is this amazing enviroment when you are single minded and 100% focused learning (which is the best way to learn)
+
+Whenever you find yourself with this headspace, dont stop! Fololow it as long as your brain allows it, and don't stop for anything (namely social events, eat or sleep). This 'zone' is a magical place to be , so learn to recognize when you are inside it and explore it as much as you can.
