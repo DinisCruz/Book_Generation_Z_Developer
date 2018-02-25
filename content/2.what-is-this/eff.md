@@ -1,7 +1,8 @@
 ---
-title: EFF (Electronic Frontier Foundation)
+title: EFF
 ---
 
+EFF (Electronic Frontier Foundation)
 
 **Topics to cover and ideas**
 

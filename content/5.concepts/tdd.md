@@ -14,3 +14,9 @@ title: TDD (Test-Driven Development)
  - everything should be tested
     - history of a site that went down for hours because of a one char (pipe) change in a nginx config file
  - explain BDD and Gherkin language
+
+
+ ** bugs as features**
+
+  - replicate bugs first (before trying to fix them)
+  - link my slideshare presentation on this topic

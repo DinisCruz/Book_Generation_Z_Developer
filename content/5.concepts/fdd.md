@@ -21,4 +21,4 @@ title: FDD (Feedback-Driven Development)
 
  - the FDD applies to much more than just coding (see chapter on "Inventing on Principle") it is also related to how we learn
 
-
+  - Power of Feedback loops

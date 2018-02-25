@@ -1,9 +1,9 @@
 ---
-title: blogs
+title : Blogs
+status: draft
 ---
 
-
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - Workpress, medium, Blogger
  - find your voice
@@ -19,5 +19,3 @@ title: blogs
  - key concept: "answer questions made to you with a blog" (great way to write good/relevant content and scale your time (specially important when you get asked the same question by multiple people/coleagues))
  - Blog titles are very important (since they help with SEO a lot)
 
-
-{{% /panel %}}

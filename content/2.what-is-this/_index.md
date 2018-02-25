@@ -1,6 +1,6 @@
 ---
 title     : What is this
-weight    : 20
+weight    : 15
 alwaysopen: true
 ---
 

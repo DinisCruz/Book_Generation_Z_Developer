@@ -1,5 +1,5 @@
 ---
-title :
+title : graphs
 status: draft
 ---
 

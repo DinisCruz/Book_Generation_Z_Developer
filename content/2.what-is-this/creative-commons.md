@@ -1,5 +1,6 @@
 ---
-title: Creative Commons
+title : Creative Commons
+weight: 5
 ---
 
 https://en.wikipedia.org/wiki/Creative_Commons
