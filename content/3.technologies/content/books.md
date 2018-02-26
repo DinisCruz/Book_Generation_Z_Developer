@@ -4,6 +4,8 @@ status: content
 weight: 10
 ---
 
+I love books, the ‘real world’ physical ones, the [BookBook](https://medium.com/r/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMOXQo7nURs0)(s). Not the digital alternatives who are a shadow of a book and are not good technologies to consume knowledge.
+
 I love books, and for a while I too had the a guilty feeling of 'holding on to legacy technology', as the world moved into consuming more and more digital content (including digital books). 
 
 For reference I buy hundreds of books per year and spend far too much money than I should on books. Have I read them all, no of course not! Have I found amazing books to read every year that improved my skills and knowledge, absolutely yes!!! The reason I buy so many books (multiple per topic) is because until I start reading them, I don't know which one is perfect (at that moment in time)
@@ -33,8 +35,3 @@ Another powerful feature of books (in addition of rendering contentin HD with re
 My undestanding (and please correct me if I'm wrong) is that most books these are are printed from either recycled paper or from sustainable forrests (i.e. forests where they plant at least as many new trees as they cut).
 
 This mean that these days, the impact of books on the environment is minimal.
-
-**The power of the bookbook**
-
-...add story about the Ikea add called "Experience the power of a bookbook" "At only 8mm thin, and weighing in at less than 400g, the 2015 IKEA Catalogue comes pre-installed with thousands of home furnishing ideas"  https://www.youtube.com/watch?v=MOXQo7nURs0 ...
-
