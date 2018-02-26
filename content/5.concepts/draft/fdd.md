@@ -1,5 +1,7 @@
 ---
-title: FDD (Feedback-Driven Development)
+title  : FDD (Feedback-Driven Development)
+status : draft
+weight : 25
 ---
 
 

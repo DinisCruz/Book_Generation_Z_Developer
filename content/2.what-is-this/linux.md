@@ -13,6 +13,6 @@ title: linux
     - git was created to manage the linux code development
  - you need to learn it, how to install kernel drivers, how to hack it, how to rebuilt it
  - power of raspberry pi is that it gives you a linux environment for you to play with
- - Mac is linux under the hood (same heritage)
+ - Mac is 'just about' linux under the hood (same heritage), but with a better UI and integrations
 
 

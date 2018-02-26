@@ -3,8 +3,6 @@ title: leanpub
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
-
  - reference leanpub manifest
  - more than just a website
  - great culture
@@ -17,6 +15,5 @@ title: leanpub
     b) lots more readers: and a significant percentage is not paying
  - publish early and often
     - email readers on new versions
- - ability to get a print-ready pdf (who can be used to print on amazon
-
-{{% /panel %}}
+ - ability to get a print-ready pdf (who can be used to print on amazon.com or amazon.co.uk)
+    - there are print on demand books, with no cost to you

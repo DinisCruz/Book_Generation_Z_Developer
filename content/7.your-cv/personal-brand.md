@@ -1,9 +1,9 @@
 ---
-title: Personal Brand
+title . : Personal Brand
+weight : 10
 ---
 
-
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - What is your personal brand
  - What is your online avatar (how do you want people to think about you)
@@ -19,5 +19,3 @@ title: Personal Brand
     - Data analytics
  - get a domain name for your blog or site
     - host a hugo based site on S3 buckets (add https)
-
-{{% /panel %}}

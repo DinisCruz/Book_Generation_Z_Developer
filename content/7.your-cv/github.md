@@ -19,4 +19,5 @@ title: Github
     - number of people/projects using your tools ia validation of your skills (much better than LinkedIn recommentation system)
   - you should have a long tail of projects and forks (altough beware of the polution caused by forks that you don't contribute to). Keep this curated, since after all it is your research playground
   - Github Bug Bounty programme (Gamification)
+  - use Github commit dashboard (a box for everyday that you did a commit) as a way to check 'how am I doing' (since you don't want to see big periods with no commits (warning: don't go over the top and try to have a commit EVERY day, sometimes it is good to rest and not commit anything)
 

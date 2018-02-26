@@ -2,8 +2,7 @@
 title: Upwork
 ---
 
-
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - what is it
  - how it works
@@ -15,5 +14,3 @@ title: Upwork
  - use upwork to scale up your tasks
     - make good ecoconmic decisions (who is faster and more cost effective to do particular task)
     - delegating to a freelancer is really hard (and one that you need to learn)
-
-{{% /panel %}}

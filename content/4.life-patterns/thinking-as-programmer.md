@@ -3,8 +3,6 @@ title: Thinking as programmer
 ---
 
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - Elon Musk "cost of rocket's atoms"
-
-{{% /panel %}}

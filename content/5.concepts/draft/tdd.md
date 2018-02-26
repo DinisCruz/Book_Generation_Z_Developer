@@ -1,5 +1,7 @@
 ---
 title: TDD (Test-Driven Development)
+status : draft
+weight : 20
 ---
 
 
@@ -13,7 +15,6 @@ title: TDD (Test-Driven Development)
  - if you don't have 100% code coverage, what are those bits of code not covered by tests? (what happens if that code changes)
  - everything should be tested
     - history of a site that went down for hours because of a one char (pipe) change in a nginx config file
- - explain BDD and Gherkin language
 
 
  ** bugs as features**

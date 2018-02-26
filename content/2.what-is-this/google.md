@@ -15,3 +15,5 @@ title: google
  - why google won
  - what makes google algorithm work
  - show how google tracks all clicks (why you can't just copy an google's url)
+
+ - Google move to graphs (see what happens when you search for a movie)

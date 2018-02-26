@@ -3,8 +3,6 @@ title: Karma Points
 ---
 
 
----
-
 **Topics to cover and ideas**
 
  - "Luck is when oportunity meets the prepared"

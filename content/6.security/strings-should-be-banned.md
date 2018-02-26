@@ -4,7 +4,6 @@ title: Strings should be banned
 
 ...
 
----
 
 **Topics to cover and ideas**
 
@@ -13,3 +12,4 @@ title: Strings should be banned
  - Strings are 4Gb monsters
  - What happens is some fields are given 100k of data (what is the impact on the back end
  - Each layer needs to validate all data that it receives and consumes
+ - add link to John W article

@@ -4,7 +4,6 @@ title: Bug Bounties
 
 ...
 
----
 
 **Topics to cover and ideas**
 
