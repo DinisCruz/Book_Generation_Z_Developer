@@ -41,7 +41,7 @@ weight: 5
 
 
 
-**The Cathedral and the Bazaar
+**The Cathedral and the Bazaar**
 
   - https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 
