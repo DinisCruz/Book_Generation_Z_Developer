@@ -37,9 +37,11 @@
         {{range $other }}
 
             {{ if .Params.Title }}
+                {{ if ne .Params.hidden true }}
 ## {{.Params.title}}
 
 {{ .RawContent }}
+                {{ end }}
             {{ end }}
         {{ end }}
     {{ end }}

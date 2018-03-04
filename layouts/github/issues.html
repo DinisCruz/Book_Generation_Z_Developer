@@ -1,0 +1,13 @@
+{{ $label  := "show-in-book" }}
+{{ $url    := printf "https://api.github.com/repos/diniscruz/Book_Generation_Z_Developer/issues?labels=%s" $label }}
+{{ $issues := getJSON $url }}
+
+{{ .RawContent }}
+
+### Issues list
+
+Using GitHub api on **{{ dateFormat "02 Jan 2006" now }}** the following **{{len $issues }}** issues had the **{{ $label }}** label:
+
+{{ range $index, $item := $issues }}
+- {{ $item.title }} : [#{{ $item.number }}]({{ $item.url }})
+{{- end }}
