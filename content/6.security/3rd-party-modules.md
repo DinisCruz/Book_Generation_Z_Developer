@@ -25,6 +25,7 @@ status: draft
         - for example what if JQuery did this and it took 0.1% of the user's CPU (or %1% of the QA servers) and used these funds to support the develpment of the next version (and pay for example for dedicated developers or security reviews)
         - this could solve the problem of how to fund the development of popular open source frameworks
         - maybe the browsers or servers could even support this natively (with 5% or 10% of CPU allocated for 3rd party services bitcoin mining)
+        - Add story behind the developers that were thinking of doing this using the sleep function
 
 
 
