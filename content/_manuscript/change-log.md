@@ -5,8 +5,9 @@ hidden: true
 
 **v0.31**
     - Added initial section which shows issues from GitHub
-    - New/Improved chapters (moved into the content section)
-        - "The future needs you" , "Backup your life"
+    - New/Improved chapters
+        - "The future needs you"
+        - "Backup your life"
 
 **v0.30**
     - Split content so that chapter with text show first and chapters with ideas/bullet-points show in a 'drafts' section
