@@ -8,6 +8,8 @@ hidden: true
       - "Threat Modeling"
       - "Talking to yourself digitally"
       - "Gen Z digital environment"
+      - "Feedback Loops"
+      - "How this book is being created"
 
 **v0.31**
     - Added initial section which shows issues from GitHub
