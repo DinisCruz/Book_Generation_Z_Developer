@@ -6,7 +6,7 @@ hidden: true
 **v0.32**
    - New/Improved chapters
       - "Threat Modeling"
-      - "talking to yourself"
+      - "Talking to yourself digitally"
       - "Gen Z digital environment"
 
 **v0.31**
