@@ -3,6 +3,12 @@ title : Change log
 hidden: true
 ---
 
+**v0.32**
+   - New/Improved chapters
+      - "Threat Modeling"
+      - "talking to yourself"
+      - "Gen Z digital environment"
+
 **v0.31**
     - Added initial section which shows issues from GitHub
     - New/Improved chapters
