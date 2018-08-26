@@ -12,3 +12,4 @@ Similar to WhatsApp Slack is how we communicate daily inside companies and commu
  - Integrations using Zapier or ITTT
  - Copy and paste of images
  - there are large numbers of Slack communities that you can join, for example OWASP or the Open Security Summit one
+ 

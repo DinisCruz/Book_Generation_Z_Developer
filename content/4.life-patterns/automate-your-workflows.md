@@ -10,4 +10,4 @@ status: draft
  - Checkout technologies like Zapier and ITTT (If This Then That)
  - Key to make you scale
  - Task: Write ITTT to automatically write a tweet when you publish a blog 
- - This is related to the concepts of thinking in graphs and getting rid of spreedsheets
+ - This is related to the concepts of thinking in graphs and getting rid of spreadsheets
