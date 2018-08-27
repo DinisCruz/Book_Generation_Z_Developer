@@ -1,6 +1,7 @@
 ---
 title : How this book is being created
 status: content
+weight : 30
 ---
 
 This book is being created using the principles and technologies described in this book :)

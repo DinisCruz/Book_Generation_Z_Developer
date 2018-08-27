@@ -10,6 +10,7 @@ hidden: true
       - "Gen Z digital environment"
       - "Feedback Loops"
       - "How this book is being created"
+      - "IDE"
 
 **v0.31**
     - Added initial section which shows issues from GitHub

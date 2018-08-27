@@ -1,5 +1,6 @@
 ---
 title: Thinking as programmer
+status: draft
 ---
 
 

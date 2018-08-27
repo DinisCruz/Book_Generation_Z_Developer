@@ -1,5 +1,6 @@
 ---
 title: Netflix Culture
+status: draft
 ---
 
 Read this https://jobs.netflix.com/culture

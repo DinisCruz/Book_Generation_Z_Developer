@@ -1,6 +1,7 @@
 ---
 title : Generation Z
 status: content
+weight : 10
 ---
 
 Generation Z is the generation that was [born after 1996](https://twitter.com/PaoliCGPI/status/961121404048601088) and represents a very interesting mix of great values and digital capabilities.

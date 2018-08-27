@@ -1,5 +1,6 @@
 ---
 title     : Python
+status: draft
 ---
 
 ...

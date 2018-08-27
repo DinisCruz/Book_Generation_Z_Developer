@@ -1,5 +1,6 @@
 ---
 title: Functional Programming
+status: draft
 ---
 
 ...

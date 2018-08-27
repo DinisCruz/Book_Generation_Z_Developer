@@ -1,4 +1,3 @@
-
 ---
 title : Deadlines
 status: draft

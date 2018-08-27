@@ -1,6 +1,7 @@
 ---
 title : How to get a job
 status: content
+weight : 20
 ---
 
 One of my objectives with his book is to help you to find a great job, one that you will love to go everyday, one where you are in a steep learning curve and one that aligns what you passionate about with what your employer is happy to pay for.

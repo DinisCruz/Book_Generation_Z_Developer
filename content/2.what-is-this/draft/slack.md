@@ -1,5 +1,6 @@
 ---
 title: Slack
+status: draft
 ---
 
 Similar to WhatsApp Slack is how we communicate daily inside companies and communities (just like we used to using ICQ, MSN Messenger, Skype, Phone, Smoke Signals, etc...) 

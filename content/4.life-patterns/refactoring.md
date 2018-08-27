@@ -1,11 +1,11 @@
 ---
 title: Refactoring
+status: draft
 ---
 
-{{% panel theme="success" header="Topics to cover" %}}
+**Topics to cover and ideas**
 
  - What is it
  - How to apply to your life
-{{% /panel %}}
 
 

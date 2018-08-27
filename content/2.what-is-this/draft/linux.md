@@ -1,5 +1,6 @@
 ---
 title: linux
+status: draft
 ---
 
 

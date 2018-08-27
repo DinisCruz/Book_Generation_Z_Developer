@@ -1,5 +1,6 @@
 ---
 title: The Zone
+status: draft
 ---
 
 
@@ -18,5 +19,6 @@ title: The Zone
  - learn to trust that the next Zone will occur and learn with the periods when you are not in the Zone
     - what is scary is when 'ideas stop flowing'
  - there are ways to try to get into the Zone (professional athletes and musicians do it all the time)
+ - add reference to 'Mindset' book
 
 

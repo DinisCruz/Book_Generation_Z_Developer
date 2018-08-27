@@ -1,5 +1,6 @@
 ---
 title: EFF
+status: draft
 ---
 
 EFF (Electronic Frontier Foundation)

@@ -1,5 +1,6 @@
 ---
 title: GDPR
+status: draft
 ---
 
 
