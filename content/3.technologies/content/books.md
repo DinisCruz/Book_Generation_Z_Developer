@@ -26,12 +26,12 @@ The same happens with reviewing materials. It not coincidence that we all have e
 
 Yes, the fact that books are offline is one of the book's main competitive advantanges! 
 
-The boook's _'features'_ of not being interrupted by a constant stream of apps/websites notifications and not having a browser at hand, does wonders for your ability to focus and to consume information.
+The book's _'features'_ of not being interrupted by a constant stream of apps/websites notifications and not having a browser at hand, does wonders for your ability to focus and to consume information.
 
 Another powerful feature of books (in addition of rendering contentin HD with real-time refresh rate), is that they allow your brain to consume information in a 3D format and with more senses. For example, notice how when you flick back pages looking for a particular passage or diagram, your eyes will be looking at a particular section of the page. This means that your brain not only is capturing the content that it is reading, it is also capturing (and storing) the location of that content, and how it relates to the rest of the page. One of the reasons that lead me to the epiphany of the value of books was how I noticed that it was bothering me the fact that the kindle reorders paragraphs and pages when you flick back (and how it was affecting my ability to find content I've already read)
 
 **Environmental impact of books**
 
-My undestanding (and please correct me if I'm wrong) is that most books these are are printed from either recycled paper or from sustainable forrests (i.e. forests where they plant at least as many new trees as they cut).
+My understanding (and please correct me if I'm wrong) is that most books these are are printed from either recycled paper or from sustainable forests (i.e. forests where they plant at least as many new trees as they cut).
 
 This mean that these days, the impact of books on the environment is minimal.

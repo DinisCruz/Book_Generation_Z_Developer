@@ -24,7 +24,8 @@ As a developer, you will be soon be asked to write code that integrates with Mac
 
 **Where are we going**
 
-For a nice view of what could be happening next see
+For a nice view of what could be happening next see:
+
   - [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/024123719X/)
   - [Homo Deus: A Brief History of Tomorrow](https://www.amazon.co.uk/Homo-Deus-Brief-History-Tomorrow/dp/1910701874)
   - [What Technology Wants](https://www.amazon.co.uk/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
