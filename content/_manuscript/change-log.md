@@ -14,6 +14,7 @@ hidden: true
     - "IDE"
     - "Creative Commons License"
  - Renamed 2nd section from 'What is this' to 'MVP for Gen Z Dev'  
+ - Added new dynamic table to MVP section (dynamically created using Hugo from content on the MVP pages )
 
 **v0.31**
 
