@@ -16,6 +16,7 @@ title: Stories to tell
  - the dip
  - "disagree and commit"
  - "you are the product" - you need to regain control of your data
+ - 4 hour work week fisherman story
 
  - "Great minds discuss ideas; average minds discuss events; small minds discuss people."
 

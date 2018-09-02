@@ -16,12 +16,11 @@
         {{ end }}
         {{range $content }}
 
-## {{.Params.title}} 
-
             {{ if eq .Params.title "MVP table" }}
 {{ partial "mvp-table.html" .Site }}
-{{ .Render ".Params.title" }} 
+
             {{ else }}
+## {{.Params.title}}             
 {{ safeHTML  .RawContent }}
 
             {{ end }}

@@ -19,9 +19,3 @@ In this section I will try to give you ideas on practical steps you can take, an
 Drop me a link to these posts so that you have at least one reader :)
 
 Note: Best way to do it is via a twitter mention (i.e. tweet with a link to the article and my twitter handle tag `@DinisCruz`)
-
-### MVP 
-
-Here is the synopsis of the are MVP ideas and workflows
-
-{{% mvp-table %}}

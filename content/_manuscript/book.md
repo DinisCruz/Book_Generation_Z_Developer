@@ -1,4 +1,5 @@
 ---
 type: book
+layout: leanpub
 ---
 
