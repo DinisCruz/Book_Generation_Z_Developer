@@ -3,7 +3,7 @@ title : Change log
 hidden: true
 ---
 
-**v0.32**
+**v0.35**
    - New/Improved chapters
       - "Threat Modeling"
       - "Talking to yourself digitally"
@@ -11,6 +11,7 @@ hidden: true
       - "Feedback Loops"
       - "How this book is being created"
       - "IDE"
+      - "Creative Commons License"
 
 **v0.31**
     - Added initial section which shows issues from GitHub
