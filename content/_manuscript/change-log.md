@@ -5,11 +5,8 @@ hidden: true
 
 **v0.35**
 
- - New/Improved chapters
-    - "Threat Modeling"
-    - "Talking to yourself digitally"
-    - "Gen Z digital environment"
-    - "Feedback Loops"
+ - New/Improved chapters    
+    - "Talking to yourself digitally"        
     - "How this book is being created"
     - "IDE"
     - "Creative Commons License"

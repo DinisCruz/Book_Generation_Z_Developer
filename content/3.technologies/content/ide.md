@@ -27,8 +27,3 @@ The IDE is like a car in a race that you are the driver. You really need to spen
 At the moment the only place where I have seen those features happening is in NCrunch (for .NET) and WallabyJS (for node/javascript). The auto test execution capability that some IDEs have, are a decent compromise, but not as effective (and productive as those two tools)
 
 The key point is that you need to take the time and care to chose your IDE, since it has the power to dramatically increase your productivity   
-
-
-**Topics to cover and ideas**
-
- 
