@@ -1,0 +1,54 @@
+{{ .RawContent }}
+
+
+-# Generation Z Developers
+
+{{- range .Site.Home.Sections.ByWeight}}
+
+    {{ $content := where .Pages.ByWeight ".Params.status" "==" "content"}}
+
+    {{ if gt (len $content) 0 }}
+        {{ if .Params.Title }}
+
+# {{ .Params.Title}}  
+{{ safeHTML .RawContent }}
+
+        {{ end }}
+        {{range $content }}
+
+## {{.Params.title}} 
+
+            {{ if eq .Params.title "MVP table" }}
+{{ partial "mvp-table.html" .Site }}
+{{ .Render ".Params.title" }} 
+            {{ else }}
+{{ safeHTML  .RawContent }}
+
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{- end }}
+
+
+
+-# Draft Chapters
+
+{{- range .Site.Home.Sections.ByWeight}}
+    {{ $other   := where .Pages.ByWeight ".Params.status" "!=" "content"}}
+    {{ if gt (len $other) 0 }}
+
+        {{ if .Params.Title }}
+# {{ .Params.Title}}
+        {{ end }}
+        {{range $other }}
+
+            {{ if .Params.Title }}
+                {{ if ne .Params.hidden true }}
+## {{.Params.title}}
+
+{{ safeHTML .RawContent }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{- end }}

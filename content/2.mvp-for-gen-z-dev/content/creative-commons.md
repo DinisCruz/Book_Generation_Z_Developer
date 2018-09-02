@@ -1,7 +1,11 @@
 ---
-title : Creative Commons License
+title : Creative Commons
 status: content
 weight: 5
+what  : Copyright License to release content under
+task  : Release a blog post or other content under a CC license
+price : zero
+image : images/logo-creative-commons.png
 ---
 
 Choosing which license you chose to share your work is one of the most important decisions you make in your professional life.
@@ -12,7 +16,7 @@ In the first path you are afraid that your ideas will be copied and you don't sh
 
 The best way to share your ideas and way of thinking is to release your content and ideas under an Create Commons Copyright License 
 
-So what is Create Commons?
+**So what is Create Commons?**
 
 Let's start by looking at the definition of [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) from Wikipedia:
 

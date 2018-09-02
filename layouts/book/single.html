@@ -1,48 +1,13 @@
-{{ .RawContent }}
 
-
--# Generation Z Developers
-
-{{- range .Site.Home.Sections.ByWeight}}
-
-    {{ $content := where .Pages.ByWeight ".Params.status" "==" "content"}}
-
-    {{ if gt (len $content) 0 }}
-        {{ if .Params.Title }}
-
-# {{ .Params.Title}}
-{{ .RawContent }}
-
-        {{ end }}
-        {{range $content }}
-
-## {{.Params.title}}
-{{ .RawContent }}
-
-        {{ end }}
-    {{ end }}
-{{- end }}
-
-
-
--# Draft Chapters
+{{ $page_title := "MVP table"}}
+# Generation Z Developers
 
 {{- range .Site.Home.Sections.ByWeight}}
-    {{ $other   := where .Pages.ByWeight ".Params.status" "!=" "content"}}
-    {{ if gt (len $other) 0 }}
-
-        {{ if .Params.Title }}
-# {{ .Params.Title}}
-        {{ end }}
-        {{range $other }}
-
-            {{ if .Params.Title }}
-                {{ if ne .Params.hidden true }}
-## {{.Params.title}}
-
-{{ .RawContent }}
-                {{ end }}
-            {{ end }}
+    {{- range .Pages }} 
+        {{- if eq .Params.title $page_title }}
+## {{.Params.title}} 
+{{ partial "mvp-table.html" .Site }}
+{{ .Render ".Params.title" }} 
         {{ end }}
     {{ end }}
 {{- end }}

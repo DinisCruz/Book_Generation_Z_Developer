@@ -1,6 +1,10 @@
 ---
-title: Jira
+title : Jira
 status: content
+what  : Issue tracking (can be used as Graph Database)
+task  : Create an free account at atlassian.com and try it out
+price : 0 to you
+image : images/logo-creative-commons.png
 ---
 
 [Jira](https://www.atlassian.com/software/jira) is a web application that is widely used by development, engineering and technical teams to manage they day to day tasks/activities.

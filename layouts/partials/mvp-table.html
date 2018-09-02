@@ -1,0 +1,11 @@
+MVP Table 
+
+| name | what | task | price | image | status | wc  |
+|------|------|------|-------|-------|--------| ----|
+{{- range .Pages}}
+    {{- if ne .Params.title "MVP table"}}    
+    {{- if in .Dir "2.mvp-for-gen-z-dev/" }}    
+|  {{ .Params.title }} | {{ .Params.what }} | {{ .Params.task }} | {{ .Params.price }} | ![]({{ .Params.image }}) | {{ .Params.status }} | {{ .WordCount }} |
+    {{- end }}  
+    {{- end }}
+{{- end }}

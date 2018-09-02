@@ -1,0 +1,5 @@
+{{ range .Page.Pages }}
+    {{ if eq .Params.status "content" }}
+        <li>{{ .Params.title}} </li>
+    {{ end }}
+{{ end}}
