@@ -1,7 +1,11 @@
 ---
-title   : Hugo
-status  : content
-weight  : 30
+title : Hugo
+status: content
+weight: 30
+what  : 
+task  : 
+price : zero
+image : 
 ---
 
 [Hugo IO](https://gohugo.io) is a Static Website Generator (SWG) and represents a very interesting twist on the development stack of a website (another popular Static Website Generator is [Jekyll](https://jekyllrb.com/) )
