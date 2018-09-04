@@ -3,6 +3,11 @@ title : Change log
 hidden: true
 ---
 
+**v0.36**
+
+ - New/Improved chapters    
+    - "Docker"
+
 **v0.35**
 
  - New/Improved chapters    

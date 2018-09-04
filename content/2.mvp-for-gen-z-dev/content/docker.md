@@ -68,7 +68,7 @@ If I was you, this would definitely be an area I would focus my research (while 
 
 Another great research area is the visualization and mapping of kubernetes environment (i.e. who is speaking to who, and how is that traffic authentication and authorized)
 
-You would have big competitive advantage in the market place if you understand these concepts and had practical experience at solving them.
+You would have big competitive advantage in the market place if you understood these concepts and had practical experience at solving them.
 
 ### It all stated with physical containers
 
