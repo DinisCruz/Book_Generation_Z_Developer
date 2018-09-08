@@ -7,6 +7,8 @@ hidden: true
 
  - New/Improved chapters    
     - "Docker"
+    - "Hugo"
+    - "Jira"
 
 **v0.35**
 
