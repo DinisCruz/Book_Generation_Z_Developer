@@ -9,6 +9,8 @@ hidden: true
     - "Docker"
     - "Hugo"
     - "Jira"
+    - "Learning"
+    - "Open Source"
 
 **v0.35**
 
