@@ -5,6 +5,10 @@ hidden: true
 
 **v0.36**
 
+ - Assembly and Bytecode
+
+**v0.36**
+
  - New/Improved chapters    
     - "Docker"
     - "Hugo"

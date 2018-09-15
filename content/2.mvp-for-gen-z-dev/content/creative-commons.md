@@ -26,7 +26,7 @@ This license is basically defining the rules of the game that are applied to the
 
 ### Creative Commons license variations and this book
 
-This book is released under the (Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en_US) will defines the following teams (see website):
+This book is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en_US) which defines the following terms (see website):
 
 > You are free to:
 >
