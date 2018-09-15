@@ -6,6 +6,7 @@ hidden: true
 **v0.36**
 
  - Assembly and Bytecode
+ - OWASP
 
 **v0.36**
 
