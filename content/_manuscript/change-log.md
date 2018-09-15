@@ -7,6 +7,7 @@ hidden: true
 
  - Assembly and Bytecode
  - OWASP
+ - Python
 
 **v0.36**
 
