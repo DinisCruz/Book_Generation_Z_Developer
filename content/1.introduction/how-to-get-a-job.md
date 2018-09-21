@@ -22,7 +22,7 @@ The best way to get a job is to have 1 (one) competitive advantage. One activity
 
 **Own your carer development**
 
-You are the one that is in change of your carer. Don't let anybody tell you what you should be doing and what paths to follow. You need to discover these paths by yourself (via trial and error), and a great way to do that is to work for companies that are aligned with those paths
+You are the one that is in change of your carer. Don't let anybody tell you what you should be doing and what paths to follow. You need to discover these paths by yourself (via trial and error), and a great way to do that is to work for companies that are aligned with those paths.
 
 And how do you start working with those companies?
 
