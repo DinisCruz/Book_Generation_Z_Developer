@@ -28,7 +28,7 @@ And how do you start working with those companies?
 
 Easy, start collaborating on their Open Source projects. Act like you are part of the company (understand their values, and behave in ways that that add value to that company, namely the tech stack)
 
-Start by meeting offline and online the key individuals (and developers) from those companies and communities in a way that adds value to them                                                                                                                                                              . Build relationships that will teach you a lot, and potentially lead to very interesting job offers (or references). Start learning how to add value and how to become really good at proactively solving problems (which is one of the most valuable assets you can bring to a company)
+Start by meeting offline and online the key individuals (and developers) from those companies and communities in a way that adds value to them. Build relationships that will teach you a lot, and potentially lead to very interesting job offers (or references). Start learning how to add value and how to become really good at proactively solving problems (which is one of the most valuable assets you can bring to a company)
 
 What is interesting is that there is nothing stopping you from doing this!
 
