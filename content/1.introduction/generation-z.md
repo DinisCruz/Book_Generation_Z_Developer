@@ -28,7 +28,7 @@ My hope with this book is to break through those gaps, and provide context and r
 
 **Overwhelming curiosity**
 
-What I hope to provide is a couple moments where you get this overwhelming curiosity to just learn more about topic, where you start to follow link after link about a particular topic, and that you get a number of 'WOW, that is fr**** awesome!' moments
+What I hope to provide is a couple moments where you get this overwhelming curiosity to just learn more about topic, where you start to follow link after link about a particular topic, and that you get a number of 'WOW, that is fr**** awesome!' moments.
 
 If you are lucky enough to find yourself in this place, congratulations, you just found 'the zone' which is this amazing enviroment when you are single minded and 100% focused learning (which is the best way to learn)
 
