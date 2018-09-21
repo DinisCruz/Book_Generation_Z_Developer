@@ -3,7 +3,7 @@ title : Generation Z
 status: content
 weight : 10
 ---
-
+test.....
 Generation Z is the generation that was [born after 1996](https://twitter.com/PaoliCGPI/status/961121404048601088) and represents a very interesting mix of great values and digital capabilities.
 
 The older members of this generation at about 22 years old at the moment (2018). They where 11 when the first iPhone come out (2007) and are the first real digital/online generation (they never experienced a world without internet or without google). This is the generation that is entering the market place at the moment.
