@@ -30,4 +30,4 @@ Easy, start collaborating on their Open Source projects. Act like you are part o
 
 Start by approaching the key individuals and developers from those companies and communities, offline and online, in a way that adds value to them. Build relationships that will teach you a lot, and potentially lead to very interesting job offers, or at least references. Start learning how to add value and how to become good at proactively solving problems, which is one of the most valuable assets you can bring to a company.
 
-What's interesting is that there is nothing stopping you from doing this! We are in a very open and collaborative time in history. You have nothing to lose by giving it all you've got, and all to gain.
+What's interesting is that there is nothing stopping you from doing this! We are in very open, collaborative and creative times. You have nothing to lose by giving it all you've got, and all to gain.
