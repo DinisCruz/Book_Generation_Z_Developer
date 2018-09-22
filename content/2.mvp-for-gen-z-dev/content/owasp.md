@@ -19,7 +19,7 @@ Next step is to check out the [OWASP projects](https://www.owasp.org/index.php/C
 
 Check out the main [OWASP Conferences](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference) and events like the [Open Security Summit](https://open-security-summit.org/) which are amazing places to learn and meet highly talented professionals, all happy to share knowledge and teach.
 
-Finally, join up OWASP Slack where you will find everybody and 100s of channels dedicated to everything OWASP related (projects, chapters, conferences, topics)
+Finally, join up [OWASP Slack](http://owaspslack.com) where you will find everybody and 100s of channels dedicated to everything OWASP related (projects, chapters, conferences, topics)
 
 ### Find jobs via OWASP contributions
 
