@@ -1,6 +1,7 @@
 ---
 title : OWASP
 status: content
+weight: 20
 what  : Worldwide community focused on Application Security
 task  : Attend a chapter meeting and contribute to an project
 price : free

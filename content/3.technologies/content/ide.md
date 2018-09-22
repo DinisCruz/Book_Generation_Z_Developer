@@ -1,6 +1,7 @@
 ---
 title : IDE
 status: content
+weight: 20
 ---
 
 We need to talk about your IDE! (Integrated development environment) 

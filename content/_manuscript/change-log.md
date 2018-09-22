@@ -9,7 +9,8 @@ hidden: true
     - Assembly and Bytecode
     - OWASP
     - Python
-    - Slack
+    - Slack and ChatOps
+    - Xcode and Swift
 
 **v0.36**
 

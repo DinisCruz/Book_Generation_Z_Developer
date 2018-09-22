@@ -1,6 +1,7 @@
 ---
 title: Slack and ChatOps
 status: content
+weight: 20
 what  : Communication and decision making platform
 task  : Create Slack Workspace and write a Slack bot integration
 price : free

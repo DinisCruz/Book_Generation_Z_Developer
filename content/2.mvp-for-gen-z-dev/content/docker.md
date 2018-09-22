@@ -1,11 +1,11 @@
 ---
-title : Docker
-status: content
+title  : Docker
+status : content
 weight : 20
-what  : Containerization technology that is super fast at applications or micro-services execution
-task  : Install docker and try the ubuntu, apache, elk and gogs images 
-price : free
-image : images/logo_docker.png
+what   : Containerization technology that is super fast at applications or micro-services execution
+task   : Install docker and try the ubuntu, apache, elk and gogs images 
+price  : free
+image  : images/logo_docker.png
 ---
 
 As a developer it is critical that you understand how docker works and how it became so successful and widely used. Docker is one of those revolutions that occur regularly in the IT industry where the right product comes at the right time and meets a number of very specific pain points that developers have.

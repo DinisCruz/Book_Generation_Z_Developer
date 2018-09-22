@@ -1,6 +1,7 @@
 ---
 title: Assembly and Bytecode
 status: content
+weight: 20
 ---
 
 Assembly code is a representation of what the machine code that the CPUs actually execute. It is the lowest level of abstraction that you can program.

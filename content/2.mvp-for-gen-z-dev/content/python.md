@@ -1,6 +1,7 @@
 ---
 title : Python
 status: content
+weight: 20
 what  : Programming language that all developers should master
 task  : Create and publish an Python tool
 price : free
