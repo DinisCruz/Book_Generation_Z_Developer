@@ -1,6 +1,9 @@
 ---
 title: Slack and ChatOps
-status: draft
+status: content
+what  : Communication and decision making platform
+task  : Create Slack Workspace and write a Slack bot integration
+price : free
 ---
 
 It is easy to underestimate [Slack](https://slack.com/)'s capabilities, not realise that Slack is a massive agent for change, and that Slack's empowered workflows will play a  big  part in your future as a developer. 
@@ -106,21 +109,21 @@ Your first step is to [create a Slack workspace](https://slack.com/create) so th
 
 Make sure you invite your friends and colleagues to participate, so that you have a wide set of scenarios to play with.
 
-To get you going here are a couple scenarios 
+To get you going here are a couple scenarios: 
   
-  - write code that sends messages to a slack channel (really easy since it is only an HTTP post request)
-  - follow of GitHub's footsteps and deploy and customize [Hubot](https://hubot.github.com/). [Errbot](http://errbot.io/) is a Python alternative, and Slack's tutorial shows an integration using [Botkit](https://api.slack.com/tutorials/easy-peasy-bots)
-  - write integrations with api integrations services like [Zapier](https://zapier.com/) or [IFTTT](https://ifttt.com/). See Zapier's '[How to Build Your Own Slack Bot in 5 minutes](https://zapier.com/blog/how-to-build-chat-bot/)'
+  - write code that sends messages to a slack channel (simple HTTP POST requests with your Slack API key)
+  - follow GitHub's footsteps and deploy and customize [Hubot](https://hubot.github.com/). [Errbot](http://errbot.io/) is a Python alternative, and Slack's tutorial shows an integration using [Botkit](https://api.slack.com/tutorials/easy-peasy-bots)
+  - write bot integrations with services like [Zapier](https://zapier.com/) or [IFTTT](https://ifttt.com/). See Zapier's _[How to Build Your Own Slack Bot in 5 minutes](https://zapier.com/blog/how-to-build-chat-bot/)_ guide
   - write a serverless Slack integration using AWS API Gateway and Lambda functions
-  - write a Slack integration that automates one area of your life and daily workflow (maybe something to do with an) 
+  - write a Slack integration that automates one area of your life (maybe something to do with a task you do every day) 
 
 ### Join the OWASP Slack Community
 
-OWASP (Open Web Application Security Project) is very friendly open source community that has migrated a large part of its digital interactions to Slack (see [OWASP chapter](https://github.com/DinisCruz/Book_Generation_Z_Developer/blob/master/content/2.mvp-for-gen-z-dev/content/owasp.md) for more details).
+OWASP (Open Web Application Security Project) is an very friendly open source community that has migrated a large part of its digital interactions to Slack (see [OWASP chapter](https://github.com/DinisCruz/Book_Generation_Z_Developer/blob/master/content/2.mvp-for-gen-z-dev/content/owasp.md) for more details).
 
 I strongly advise you to join the Owasp Slack using the http://owaspslack.com/ registration form. 
 
-Not only you will see examples of these integrations in place, in that workspace you will find a multiple Slack experts, who will be more than happy to help you. You can also find multiple opportunities (in OWASP project or chapters) to put your Slack integration skills in action
+Not only you will see examples of these integrations in real-world scenarios, in that workspace you will find a multiple Slack experts, who will be more than happy to help you. You can also find multiple opportunities (in OWASP project or chapters) to put your Slack integration skills in action.
 
 When you join in, drop me a message saying Hi. I should be easy to find :)
 
@@ -129,30 +132,49 @@ When you join in, drop me a message saying Hi. I should be easy to find :)
 
 As I mention in the [Talking to yourself digitally](https://github.com/DinisCruz/Book_Generation_Z_Developer/blob/master/content/4.life-patterns/content/talking-to-yourself.md) chapter, the practice of capturing your thoughts and workflows is super important.
 
-Slack is a great medium to do this, since it empowers to the workflow that we we usually have in when using Word docs (or evernote) to capture notes about what we are doing. Here is the workflow:
+Slack is a great medium to do this, since it massively improves the workflow that we we usually have when using Word docs (or services like [Evernote](https://evernote.com/)) to capture notes about what we are doing. 
 
- 1. do something
- 2. take screenshot of the latest change
- 3. go to Slack: Write (if needed) a bit of text about what is it, and paste the screenshot
- 4. go back to 1.
+Here is the workflow I usually use:
 
-This workflow is really powerful, because what you are doing is capturing how you are thinking (and failing fast) about the problem you are solving. This not only will be super useful one day to your future self, but it will help others to understand the steps you took, the challenges you had, the solutions that didn't work, the solutions that work and how to finally go to the final result.
+ 1. in Slack describe what I am going to try next
+ 2. do it
+ 3. take screenshot of the latest change
+ 4. in Slack paste the screenshot
+ 5. go back to 1.
 
-A simpler version of this pattern is when you ask a question in Slack and then once you have the answer, you add the solution (ideally a link to a confluence page where you also capture it)
+This workflow is really powerful, because what you are doing is capturing how you are thinking about the problem you are solving (including all the tangents that you tried and didn't work). And yes, very often, you will find that it is only you that (initially): asks questions, provides answers, learn from failures and celebrates successes.
+
+One way to keep sanity is to remember that this information will be super useful one day to your _'future self'_, and that you now have the raw data / screenshots for a great blog post. This will help others to understand the steps you took, the challenges you had, the solutions that didn't work, the solutions that did work, and how to arrived at the final result/conclusion. 
+
+This is also how you scale your knowledge and avoid having to answer the same question twice (specially when you create a blog post which makes it really easy to find that content)
+
+A simpler version of this pattern is when you:
+
+1. ask a question in Slack
+2. find the answer
+3. reply to your own message with the solution
 
 ### Use Slack when debugging code (as a log collector)
 
 When you have a bug in your code that you don't understand the root cause, a common practice is to use a [Debugger](https://en.wikipedia.org/wiki/Debugger), which will provide features like breakpoints and code stepping.
 
-This just about works when you have direct access to the execution environment and you are looking at simple code bases. But as soon as you more to distributed systems with lots of moving parts (web services and serverless) you start to have the ability to understand what is happening on what sequence of events. Slack gives you an environment that is able to receive logs/messages from internal parts of the execution flow, which can be super powerful if you create helper APIs that make it super easy to do (and provide all sorts of metadata and metrics)
+This just about works when you have direct access to the execution environment and you are looking at simple applications. 
 
-As simple example I use this technique to undertand/debug AWS Lambda functions execution:
+But as soon as you start working on distributed systems with lots of moving parts (for example with multiple web services and serverless functions), you stop having the ability to realy understand what is going on (namely the exact sequence of events and what the data looks like in those intermediate states) 
+
+Slack gives you an environment to receive logs/messages from those internal execution flow and states. To make this scale, you should create helper APIs that make it easy to send and receive data from Slack.
+
+As simple example, here is a Python method that I wrote to help me understand and debug AWS Lambda function's execution:
 
 ```
 send_to_slack('there are {0} missing ips'.format(len(missing)))
-...
+
+    ...(do something)...
+
 send_to_slack('resolving {0} missing ips'.format(len(missing)))
-...
+
+   ...(do something)...
+
 send_to_slack('resolved {0} ipdata ips'.format(len(ipdatas)))
 ```
 

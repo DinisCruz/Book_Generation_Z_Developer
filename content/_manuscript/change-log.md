@@ -5,9 +5,11 @@ hidden: true
 
 **v0.36**
 
- - Assembly and Bytecode
- - OWASP
- - Python
+- New/Improved chapters    
+    - Assembly and Bytecode
+    - OWASP
+    - Python
+    - Slack
 
 **v0.36**
 
