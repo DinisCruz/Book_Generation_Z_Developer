@@ -34,9 +34,10 @@ Here are some of the features that Slack added that (in aggregation) made a mass
  - **Auto previews of links dropped** - like web pages, twitter links, videos
  - **Buttons and forms to drive actions** - which allow the expansion/improvement of Slack's UI by 3rd party apps/services
  - **3rd party integrations** and **Native support for Bots**
- - **Smooth and regular deployment of new features** (audio and voice conferencing, single channel users, message reminders, message threads)
+ - **Smooth and regular deployment of new features** (audio and voice conferencing, single channel users, message reminders, message threads). Here is an example of a [_Same day fix_](https://twitter.com/p0cket/status/784141207601614848) which highlights the power of DevOps and Continuous Deployment
  - **Scalable backend with very few outages**
  - **Application Security** and **Security usability**
+ - **Great culture and focus** - see the _[Dear Microsoft](https://slackhq.com/dear-microsoft)_ Ad they run in Nov 2016 and the internal memo from July 2013 _[We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)_
 
 All of the above combined (can) create a super productive environment. Your task is to be a 'Slack master' and lead the revolution :)
 
@@ -95,7 +96,7 @@ Bots are basically applications (ideally setup in a serverless pipeline) that re
 4. gets response from user (simple acknowledgement or action)
 5. reacts to that response
 
-The concept that clearly explains this workflow is the '_ChatOps_' idea, which was initially shared in the amazing '[Chatops At GitHub](https://speakerdeck.com/jnewland/chatops-at-github) presentation (see video [here](https://www.youtube.com/watch?v=NST3u-GjjFw)) 
+The concept that clearly explains this workflow is the '_ChatOps_' idea, which was initially shared in the amazing '[Chatops At GitHub](https://speakerdeck.com/jnewland/chatops-at-github) presentation (see video [here](https://www.youtube.com/watch?v=NST3u-GjjFw)). For more recent presentations see [Real World ChatOps](https://www.slideshare.net/VictorOps/real-world-chatops) , [Revolutionize Your Workflow with ChatOps](https://www.slideshare.net/Tessa99/revolutionize-your-workflow-with-chatops) and [Accelerating DevOps with ChatOps](https://www.slideshare.net/rohanrath/accelerating-devops-with-chatops-91945690)
 
 One of the definitions of ChatOps is  _"a collaboration model that connects people, tools, process, and automation into a transparent workflow"_ that creates a  _Culture of Automation, Measurement and Sharing_ (CAMS). This basically means that ChatOps is at the epicenter of information and decisions flows.
 
