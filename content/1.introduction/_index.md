@@ -13,17 +13,15 @@ Here is the slide that started it all, how many do you recognize?
 
 ![](/images/list-of-icons.png)
 
-My presentation started by me asking the audience if they recognized those logos, and then realising that not only they didn't recognized most of the logos, they didn't knew the history behind them. More importantly **why** they where created, and what was the problem (or itch) they addressed
+My presentation started by my asking the audience if they recognized those logos, and then realising that not only did they not recognize most of the logos, they didn't know the history behind them. More importantly, they didn't understand the story of **why** they where created, and what the problem (or itch) was they originally addressed.
 
-All these icons where 'catalysts of change' and it is important to understand the history behind them, why they occured, and what happened next
+Why is the **why** important? All these icons were 'catalysts of change', and it is important to understand the history behind them, why they occurred, and what happened next. Each one of these icons changed the world of technology, and the paradigms shifts that they created still impact our world today.
 
-Each one of these icons changed the world of technology, and the paradigms shifts that they created and still impacting our world today.
+For example, one of these really significant changes was the introduction of the Creative Commons license - an adaption of a traditional copyright, that was one of my _'WFT you don't know what that means'_ realizations. Creative Commons gives a number of rights to the consumer of creations (rather than the originator of a creation holding onto the rights). This allows ideas, creations and concepts to spread easily and without limitation. This book is released under a 'Creative Commons Attribution 4.0 International License'. This license means, amongst other things, that you are free (as in freedom, as opposed to money) to use all the material and content from this book, with the only requirement being that you should provide acknowledgement and attribution of the source. You can even sell other books and derived work based on content from this book.
 
-For example one of these changes/revolutions was the Creative Commons copyright license, which was one of my _'WFT you don't know what that means'_ realizations. Creative Commons gives a number of  rights to the consumer of creations. This book is released under an 'Creative Commons Attribution 4.0 International License.' license, which basically means you are free (as in freedom) to use all the materials and content from this book (only requirements are that you provide some acknowledgement of the source). You can even sell books based on content from this book.
+Fundamentally, the freedom of knowledge isn't a new idea, but the real impact of Creative Commons was how it have been applied to a technology industry often dominated by purely commercial interests. It, and ideas like it, have shaped the technology and systems that, for better or worse, dominate the world today. As you will seen through the book, what I find interesting is not that that a particular technology or ideas allowed something to happen. Ultimately what matters to me are the ways in which those ideas change how we act, how we think and how we behave.
 
-As you will seen thorough the book, what I find interesting, is not that that a particular technology or ideas allowed X to happen. What matters to me are the ways those ideas change how we act, how we think and how we behave.
-
-We are in the middle of a massive technological and cultural revolution and you need to decide if you want to be a pawn, a player or even a play-maker in this new world. If you don't understand the past, you are bound to not only repeat its mistakes, but you will not even understand what game is being played.
+We are in the middle of a massive technological and cultural revolution and you have the opportunity to decide if you want to be a pawn, a player or even a play-maker in this new world. By understanding the history, thinking and mechanics of this change you will be in the best position to adapt and thrive. If you don't understand the past, you are bound to not only repeat its mistakes but miss opportunities you may not even know you have.
 
 Please join me in this interesting trip down memory lane, where I will try to explain how I understand and learned from a multitude number of technologies, ideas and events.
 
