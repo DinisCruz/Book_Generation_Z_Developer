@@ -3,7 +3,7 @@ title : Change log
 hidden: true
 ---
 
-**v0.36**
+**v0.40**
 
 - New/Improved chapters    
     - Assembly and Bytecode
@@ -11,6 +11,7 @@ hidden: true
     - Python
     - Slack and ChatOps
     - Xcode and Swift
+    - Wallaby and NCrunch
 
 **v0.36**
 
