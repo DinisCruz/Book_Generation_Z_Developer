@@ -134,22 +134,35 @@ The tragedy of the lack of focus in making technology easy to test (in an Wallab
 
 For example who is writing tests for their 'Infrastructure as Code' scripts? How do we know that this code (for example used to setup an cloud environment) is actually working as expected?
 
-For example who is writing tests for t
+For example who is writing tests for Serverless functions, for example Lambdas? I don't mean tests that run locally, I mean tests that actually run on the Serverless environment?
 
-example of how I execute lambdas in less than 1 sec
+What is really nice about making the paradigm shifts mentioned in the chapter, is that your brain will refuse to program any other way. So when recently I had to write some Lambda functions in Python, after realising that the maturity of the Lambda TDD environment was really low, I spend a bit of time creating an environment where using the AWS `boto3`'s API (which wraps most AWS capabilites in easy to use Python functions) I was able to create an environment in PyCharm where I could execute lambdas (written locally) in AWS  in less than 1 sec. Since PyCharm has a feature to auto execute the last test after a couple seconds of a code change, I was able to create an workflow where 2 seconds after making a code change, the affected Lambda was executed in AWS (with execution times under 1 second). Ok it is not as smooth as wallabyJS and I don't get code coverage, but it is much better than anything else I saw (from the tools that created local simulated AWS Lambda environments in Docker, to tools like Serverless that used CloudFormation to deploy the Lambdas and took almost 1 minute to run)
 
 ### The problem of switching context
 
-- the zone
+Part of the reason WallabyJS-Driven-Development makes such a difference, is because it prevents your brain from doing Context Switching.
+
+Our brains are not very good at switching context, which is why even a couple seconds interruption can be so damaging. 
+
+When we program, what we are doing is creating in our brains a whole set of model models about the problem/issue we are addressing. This is why sometimes we can be super productive, and other times, we just can't make it work. This is key in programing since the impact of bad/inefficient code can be enormous. Sometimes it's much better not to code, than to write code that will cause so many side-effects at later stage, that those code changes actually had a negative value (i.e. like when somebody is trying to help, but they are actually 'anti-help').
+
+This is also why it is very important to have un-interrupted periods of time for coding (ideally blocks of 2 or 4 hours), since it takes a while to build these mental models and gain speed.
+
+When we code in an non WallabyJS-Driven-Development environnement, what happens is that we are forced to switch context every time we want to test the code changes. Even if that is a couple seconds where  mouse clicks or keyboard inputs, the compound effect of that interruption is enormous. This is way worse when the time that it takes to test the code changes is more than 10 seconds or even minutes (the impact of productivity is enormous)
+
+With WallabyJS-Driven-Development environnement what happens is that you get into a groove, and you get just about 100% focus on the code changes that you are doing, and start to use the visual feedback that you get as part of your development. You need to experience this to understand but, when you get this right, this is what being the 'coding zone' really feels like, and the productivity that you achieve is really something incredible.
+
+One question I'm asked quite a lot is _How can I code and learn so fast_. The answer is in how I code and the time I spend in creating productive environments that allow me to code in the 'Zone'.
+
+As a developer if you can behave like this, you will have a massive competitive advantage in the marketplace and when applying for new jobs. It is very common these days to ask job applicants to write some tests during an job interview. When I review those applications, the first thing I look at is the test workflow and environment that they create.
 
 
 
+### One to watch: LightTable 
 
-
-### LightTable (one to watch)
+As a final idea, If I was you, I would spend some time with the experimental LightTable Open Source IDE (ideally even becoming a contributor)
 
 I need to give this tool a better test drive since it has implemented a number of the features presented in Bret Victor's "Inventing in Principle", namely the real time feedback of code changes and showing the values in the IDE. 
 
-The area I would like to see more is how to apply that to testing.
+One area I would like to see more example is how LightTable can be to applied to testing, which is a good area for you to focus your research on :)
 
-If I was you, I would spend some time with this tool, and ideally try to be a contributor.
