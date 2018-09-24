@@ -3,6 +3,11 @@ title : Change log
 hidden: true
 ---
 
+**v0.41**
+
+- Content fixes and contributions by: Mark Regensberg and Sarah Cruz
+- New/Improved chapters 
+
 **v0.40**
 
 - New/Improved chapters    

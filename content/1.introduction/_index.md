@@ -13,11 +13,15 @@ Here is the slide that started it all, how many do you recognize?
 
 ![](/images/list-of-icons.png)
 
-My presentation started by my asking the audience if they recognized those logos, and then realising that not only did they not recognize most of the logos, they didn't know the history behind them. More importantly, they didn't understand the story of **why** they where created, and what was the problem (or itch) they originally addressed.
+My presentation started by asking the audience if they recognized those logos, and then realising that not only did they not recognize most of the logos, they didn't know the history behind them. More importantly, they didn't understand the story of **why** they where created, and what was the problem (or itch) they originally addressed.
 
 Why is the **why** important? All these icons were 'catalysts for change'. It is important to understand the history behind them, why they occurred, and what happened next. Each one of these icons changed the world of technology, and created paradigms shifts that still impact our world today.
 
-For example, the adaption of a traditional copyright called Creative Commons license was a really significant change. This was one of my _'WFT you don't know what that means'_ realizations. Creative Commons gives a number of rights to the consumer of creations (rather than the originator of a creation holding onto the rights). It allows ideas, creations and concepts to spread easily and without limitation. This book is released under a 'Creative Commons Attribution 4.0 International License'. This license means, amongst other things, that you are free (as in freedom) to use all the material and content from this book, with the only requirement being that you should provide acknowledgement and attribution of the source. You can even sell other books and derived work based on content from this book.
+For example, one of the really significant innovations was the creation of the Creative Commons license - an adaption of a traditional copyright license. This was one of my _'WFT! you don't know what Creation Commons is???'_ realizations. 
+
+Creative Commons gives a number of rights to the consumer of creations (rather than the originator of a creation holding onto the rights). It allows ideas, creations and concepts to spread easily and without limitation. 
+
+This book is released under a 'Creative Commons Attribution 4.0 International License'. This license means, amongst other things, that you are free (as in freedom) to use all the material and content from this book, with the only requirement being that you should provide acknowledgement and attribution of the source. You can even sell other books and derived work based on content from this book.
 
 Fundamentally, the freedom of knowledge isn't a new idea, but the real impact of Creative Commons was how it have been applied to a technology industry often dominated by purely commercial interests. It, and ideas like it, have shaped the technology and systems that, for better or worse, dominate the world today. As you will seen through the book, what I find interesting is not a particular technology or idea but the ways in which those ideas change how we act, how we think and how we behave.
 
