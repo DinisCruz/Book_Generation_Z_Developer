@@ -7,16 +7,19 @@ In the age of Google being a verb, where you 'google something', how much do you
 
 Google is one of the best Software engineering companies in the world, one of the first companies to do 'Scale' well. 
 
+
 ---
 
 **Topics to cover and ideas**
-
+ 
  - angular JS and Kubernetes, Chrome, Android
  - Google open source https://opensource.google.com/   Python founder and lead developer worked at Google
  - do you know how to use google?
     - show examples of powerful google searches
     - google docks (and finding vulns and credentials via google)
- - google's history
+ - google's history 
+    - clean UI
+    - redirected traffic from other engines
  - why google won
  - what makes google algorithm work
  - How google tests software
@@ -35,4 +38,7 @@ Google is one of the best Software engineering companies in the world, one of th
 - explain adworks
 
 - task: programmatically detect changes in google's behavior. Once you have a script that is able to use Google.com to search for results, you need to capture the responses (namely title and links) into an json file, and then compare it
+- mention Alphabet
+- explain how Google Links works (how they capture the link that you clicked)
+- How Google Analytics works (gs.js)
 
