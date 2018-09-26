@@ -12,19 +12,19 @@ Image you where employee #4 and you really cared deeply about the company you cu
 
 Ask yourself:
 
- _**"If I was a founder of the company/department/section I work now, with the responsibilities that I have at the moment: ?"**_
+ _**"If I was a founder of the company/department/section I work now, with the responsibilities that I have at the moment: "**_
 
    - _"Wow would I behave everyday?"_
    - _"What needs to be done now, that will make a big difference?"_
    - _"What can I do that will help?"_
-   - _"What would I do differently?"
+   - _"What would I do differently?"_
    - _"What values and principles would I fight for?"_
 
 Hopefully you will get some interesting ideas and actions (from this mental exercise)
 
-The question now is: "_what is stopping you from doing just that?"_
+The question now is: _"what is stopping you from doing just that?"_
 
-How is telling you "Don't do it"?
+Who is telling you _"Don't do it"_?
 
 At the moment it is just you!
 
