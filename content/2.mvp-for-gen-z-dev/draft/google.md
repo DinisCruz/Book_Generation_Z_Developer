@@ -1,7 +1,11 @@
 ---
-title: google
+title: Google and GDD
 status: draft
 ---
+
+As a developer one of the most important skills you need to learn is how to GDD.
+
+GDD stands for is Google Driven Development, and it how every professional developer codes these days. Google's search engine is so powerful and effective that when coding (and learning), google can answer questions much faster than anything else (including tools )
 
 In the age of Google being a verb, where you 'google something', how much do you really know how to use it? How much do you know about why and how Google was so successful? How much  
 
