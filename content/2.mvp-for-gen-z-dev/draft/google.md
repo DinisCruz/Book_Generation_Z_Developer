@@ -5,12 +5,29 @@ status: draft
 
 As a developer one of the most important skills you need to learn is how to GDD.
 
-GDD stands for is Google Driven Development, and it how every professional developer codes these days. Google's search engine is so powerful and effective, that when coding (and learning), google can answer questions much faster than anything else (including sites like [StackOverflow](https://stackoverflow.com) who is usually one of the answer's sources )
+GDD stands for is Google Driven Development, and it how every professional developer codes these days. Google's search engine is so powerful and effective, that when coding (and learning), Google's Search Engine can point to the correct answers much better than somebody else.
 
-There is much more to Google than is 
+#### But how does Google do it?
+
+Google's search magic is created by the PageRank algorithm which is how Google decides the order for the results. One of the first major innovations of this algorithm was to use the number of links that point to particular page as an indicator of the page relevance. The other major innovation was the feedback loop between what the users are clicking and the position of that link in the page. This means that every time you click on a link in Google you are voting on your best answer and teaching Google's PageRank algorithm. To see this in action, note how when you copy the link of an Google Search result, the link is not to the page you want to see. The link is to an google service that will capture and store your choice. It is the capture of this data that allows Google to provide custom search results to each user (yes, when you search for a particular topic, you will get different results than somebody else)
+ 
+The clever part of Google Business model is that it found a way for their product (which is the users) to actually 'work' for Google. Remember that for Google you (the entity doing the search) are not the client. You are the product. Google doesn't view you as a customer. You are the 'goods' that Google sells to their real customers. 
 
 
-In the age of Google being a verb, where you 'google something', how much do you really know how to use it? How much do you know about why and how Google was so successful? How much  
+### Who are Google customers?
+
+In most cases they are the companies that buy access to Google users to sell Advertisement. This is why Google wants to know more and more about what you (the user) is doing online, since that is what allows Google's clients to sell more and more targeted Ads.
+
+[Google Adwords](https://en.wikipedia.org/wiki/AdWords) is the tech stack and workflows that allows just about anybody to buy (and bid for) an Ad on a particular keyword, which is the highest income stream for Google (with $94 Billion in revenue in 2017). 
+
+
+### Do know how to use Google's Search Engine
+
+how much do you really know how to use it? How much do you know about why and how Google was so successful? How much  
+
+Have you [learned how to search using Google](https://support.google.com/websearch/answer/134479?hl=en&ref_topic=3081620)
+
+Google place to start https://www.google.com/advanced_search
 
 Google is one of the best Software engineering companies in the world, one of the first companies to do 'Scale' well. 
 
@@ -19,6 +36,7 @@ Google is one of the best Software engineering companies in the world, one of th
 
 **Topics to cover and ideas**
  
+- Mention Alphabet (how it become to be)
  - angular JS and Kubernetes, Chrome, Android
  - Google open source https://opensource.google.com/   Python founder and lead developer worked at Google
  - do you know how to use google?
@@ -52,4 +70,6 @@ Google is one of the best Software engineering companies in the world, one of th
 - mention Alphabet
 - explain how Google Links works (how they capture the link that you clicked)
 - How Google Analytics works (gs.js)
+- mention the idea that users should be paid for the work they give for free
+- you are the product not the customer (Google sells access to you). 
 
