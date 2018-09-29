@@ -5,7 +5,7 @@ alwaysopen: true
 status    : content
 ---
 
-Hi Generation Z Developer, if you are one and who want to learn as much as you can about your craft, this is the book for you.
+Hi Generation Z Developer, if you are one and want to learn as much as you can about your craft, this is the book for you.
 
 I decided to write this book after doing a series of presentations to Gen Z audiences. As part of this process I discovered gaps in your generation's understanding of the history behind a number of key ideas and technologies that underpin the technological revolution that we are the in middle of. I also wanted to share a number of real-world concepts, practices and technologies that will make you a much better and effective professional in today's highly competitive tech world. 
 
