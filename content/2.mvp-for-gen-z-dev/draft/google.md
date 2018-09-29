@@ -25,20 +25,30 @@ In most cases they are the companies that buy access to Google users to sell Adv
 
 how much do you really know how to use it? How much do you know about why and how Google was so successful? How much  
 
-Have you [learned how to search using Google](https://support.google.com/websearch/answer/134479?hl=en&ref_topic=3081620)
+Have you [learned how to search using Google](https://support.google.com/websearch/answer/134479?hl=en&ref_topic=3081620). Google is a tool and you need to spend time learning how to use it and become a master at how to access and query the wealth of information that Google stores.
 
-Google place to start https://www.google.com/advanced_search
+A great place to start is the [Advanced Search](https://www.google.com/advanced_search) page and this great list of [Google Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
 
-Google is one of the best Software engineering companies in the world, one of the first companies to do 'Scale' well. 
+Next steps is to look into [Google Dorks](https://en.wikipedia.org/wiki/Google_hacking) which is a Google Hacking technique that searches for sensitive data exposed by Google's Crawlers. To get an and idea of what is possible check out the [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) which has sections like: Sensitive Directories, Files Containing Passwords, Sensitive Online Shopping Info , Network or Vulnerability Data and much more. I always find that the best way to learn a technology is using the techniques and patterns used to exploit it (because security tends to go deeper into what is 'really' possible, not just how it is supposed to be used). In this case, the Google Hacking Database will give you tons of examples of WTF how is this exposed to the internet, and more interesting, will make you ask the question, 'How did that work?' (which is the best way to learn)
+
+
+
+
+### Google's history and scale
+
+Google is one of the best Software engineering companies in the world, and one of the first companies to do 'Internet Scale' really well. 
+
+Google is also massive on open source with highly successful [hundreds of projects](https://opensource.google.com/) projects like Android or Kubernetes. Google also hired some of the best Open Source developers to work on internal projects related to their passion, for example the [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) Python founder and lead developer worked at Google ..... TCB
+
+Google's profits from the Search Engine were able to fund so many different areas and companies that in 2015 the founders of Google created the [Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc.) parent company. This is a really cleaver move since it should make each division (from self-driving cars, to drone deliveries) more accountable and focused.
 
 
 ---
 
 **Topics to cover and ideas**
  
-- Mention Alphabet (how it become to be)
  - angular JS and Kubernetes, Chrome, Android
- - Google open source https://opensource.google.com/   Python founder and lead developer worked at Google
+ - 
  - do you know how to use google?
     - show examples of powerful google searches
     - google docks (and finding vulns and credentials via google)
