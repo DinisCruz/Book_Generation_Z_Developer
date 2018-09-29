@@ -7,6 +7,7 @@ hidden: true
 
 - Content fixes and contributions by: Mark Regensberg and Sarah Cruz
 - New/Improved chapters 
+  - Google Search, GDD and SRE
 
 **v0.40**
 
