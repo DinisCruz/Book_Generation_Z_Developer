@@ -3,7 +3,7 @@ title : Dopamine
 status: draft
 ---
 
-[![](/images/dopamine.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dopamine.svg/220px-Dopamine.svg.png)
+[![](images/dopamine.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dopamine.svg/220px-Dopamine.svg.png)
 
 Do you know what Dopamine is? Do you know why mobile phone notifications are so addictive?
 

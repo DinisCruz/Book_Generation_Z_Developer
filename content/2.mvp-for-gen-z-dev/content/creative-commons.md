@@ -50,7 +50,7 @@ Although all CC licenses allow content to be shared, some have more restrictions
 
  For reference here is a table with the multiple license's variations:
 
- [![](/images/wikipedia-creative-commons-licenses.png)](https://en.wikipedia.org/wiki/Creative_Commons_license)
+ [![](images/wikipedia-creative-commons-licenses.png)](https://en.wikipedia.org/wiki/Creative_Commons_license)
 
 
 ### Obscurity is your biggest threat

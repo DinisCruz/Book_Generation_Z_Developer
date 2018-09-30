@@ -11,7 +11,7 @@ I decided to write this book after doing a series of presentations to Gen Z audi
 
 Here is the slide that started it all, how many do you recognize?
 
-![](/images/list-of-icons.png)
+![](images/list-of-icons.png)
 
 My presentation started by asking the audience if they recognized those logos, and then realising that not only did they not recognize most of the logos, they didn't know the history behind them. More importantly, they didn't understand the story of **why** they where created, and what was the problem (or itch) they originally addressed.
 

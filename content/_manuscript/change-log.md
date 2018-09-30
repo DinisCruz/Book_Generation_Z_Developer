@@ -3,11 +3,12 @@ title : Change log
 hidden: true
 ---
 
-**v0.41**
+**v0.50**
 
 - Content fixes and contributions by: Mark Regensberg and Sarah Cruz
-- New/Improved chapters 
-  - Google Search, GDD and SRE
+- Removed draft content from Leanpub version
+- New book cover 
+- Improved chapter: Google Search, GDD and SRE
 
 **v0.40**
 
