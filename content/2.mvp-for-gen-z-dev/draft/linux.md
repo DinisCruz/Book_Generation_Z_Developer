@@ -3,6 +3,7 @@ title: linux
 status: draft
 ---
 
+Linux is the Operating System that is used by billions of computers, servers, mobiles and IOT devices.
 
 **Topics to cover and ideas**
 
