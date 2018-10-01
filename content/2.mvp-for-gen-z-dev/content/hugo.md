@@ -64,5 +64,5 @@ Here is a more advanced usage of Hugo, where we are using Hugo to create VisJs v
 
 Although I prefer Hugo to Jekyll, here are two amazing examples of using Jekyll at scale:
 
- - HealthCare.gov - see '[It's Called Jekyll, and It Works(https://developmentseed.org/blog/2013/10/24/its-called-jekyll/)'
- - Obama's fundraising website - see '[Meet the Obama campaign's $250 million fundraising platform](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)'
+ - HealthCare.gov - see _[It's Called Jekyll, and It Works](https://developmentseed.org/blog/2013/10/24/its-called-jekyll/)_
+ - Obama's fundraising website - see _[Meet the Obama campaign's $250 million fundraising platform](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/)_

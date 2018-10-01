@@ -76,18 +76,21 @@ The irony is that Visio's main features are actually its main drawbacks. Due to 
 
  - **very time consuming** - it is normal to take hours (if not days) to create an detailed diagrams 
  - **created from somebody's interpretation of reality** - the author of the Visio diagram will have a massive impact on the design, taxonomies, conventions and depth of detail, which means that it's personal bias and agenda will be reflected in the diagram
+ - **a work of art** - yes some diagrams look really beautiful, but the point of a diagram is to help with data communication,   understanding and collaboration. The point should be to empower decisions, not to look good
  - **not created from dynamic data** - all elements in the Visio diagram are manually added, which means that once the original data/scenario/architecture changes, the diagram will be out-of-data
  - **layout is pixel based** - which means that moving anything can become really hard because the actually location of a particular element is 'hard-coded' to a particular location in the page (i.e. its pixel). This is one of the reasons why changes are so hard, since it is easy to hit clashes between elements, when moving/adding new elements
  - **locked to a particular design convention** - due to the fact that the design is hard-coded and the creator of the Visio diagram has enormous scope for applying its creative interpretation to the diagram's data, what ever convention the author used, becomes the one that everybody has to use. This becomes a massive issue when it is required to see the diagram's data from differnt points of view or different levels of abstraction 
  - **very easy to mix abstraction layers** - another common problem with Visio is the used of multiple abstractions in the same diagram (for example mixing network flows, with application flows, with user journey flows). This tends to be an side effect of not being able to reuse part of the diagram in new diagrams for example focused on a particular use-case or user-journey.
  - **stored in binary or xml format (very hard to diff)** - not only these files are hard/impossible to diff, some of the file formats are proprietary (i.e. not open) and sometimes on online services the data is not even available.
- - **data and design stored in same file** - to effectively diff data it is key to store the data and the design in different files. Not only this will make the version diffing possible, it allows the creation of standard design templates (which will create a consistency of design, making it easier to consume)
+ - **mixes data and design in same file** - to effectively diff data it is key to store the data and the design in different files. Not only this will make the version diffing possible, it allows the creation of standard design templates (which will create a consistency of design, making it easier to consume)
  - **very hard to update** - once a diagram grows to a particular size, simple changes, can required considerate time (and big changes even more)
- - **not an accurate representation of reality** - due to the fact that these diagrams are hard to update, even in the unlikely situation that the diagrams were accurate on day 0 (i.e. when they were completed for the first time), due to the natural rate of change
- - **not used everyday by developers**
- - **they are usually not maps**
+ - **not an accurate representation of reality** - due to the fact that these diagrams are hard to update, even in the unlikely situation that the diagrams were accurate on day 0 (i.e. when they were completed for the first time), due to the natural rate of change in development and systems, it is inevitable that the diagrams will start to go out of date. Them, unless they are significant efforts put in maintaining those diagrams, they stop being sources of truth (and valuable for teams)
+ - **not used everyday (by developers, architects or managers)** - usually the reason for all the properties listed above, is the simple fact that the diagrams created are not part of the multiple day-to-day conversations and decisions that occur between the multiple players
+ - **they are usually not maps** - finally the worse part of 99% of the diagrams out there is that that are not Maps, since they don't have visual, context (i.e. specific to purpose / perspective), anchor, position (relative to anchor), consistency of movement and components
 
-The fact that you can't control the diagram layout (in the same way you do in Visio) is actually a major feature
+#### Not being able to control the layout is a feature
+
+When you stat using text based diagraming tools like DOT one behaviors that will drive you crazy is the fact that The fact that you can't control the diagram layout (in the same way you do in Visio) is actually a major feature
 
 #### Why diagrams are so important
 
