@@ -1,6 +1,7 @@
 ---
 title: Google Search, GDD and SRE
 status: content
+weight: 40
 what  : Search engine and development workflows
 task  : Write scripts to automate and analyse Google search results
 price : 0

@@ -4,7 +4,22 @@ status: draft
 weight: 100
 ---
 
-...
+[AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (Abstract Syntax Tree) is a graph representation of source code used by compilers to understand what is going on.
+
+For example, the AST of this code sample:
+```
+while b ≠ 0
+    if a > b
+       a := a − b
+    else
+        b := b − a
+    return a
+```
+Will look like this:
+
+![](images/800px-Abstract_syntax_tree_for_Euclidean_algorithm.svg.png)
+
+
 
 ---
 

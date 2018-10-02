@@ -1,6 +1,10 @@
 ---
 title : Dot Language
-status: draft
+status: content
+weight: 40
+what  : Text based diagram tool
+task  : Create DOT diagrams and publish them in a blog
+price : zero
 ---
 
 As a new developer joining the market, one of the real-world patterns that will surprise you the most is the lack of up-to-date documentation and diagrams about how the applications, services and even code behave (and even when they exists, they are usually out-of-date and not used on day-to-day decisions and coding). When you take a step back and think about this, you should realise that it is insane. What we do when developing software is to create large interconnected and complex structures without accurate maps and a solid understanding of what already exists and we are supposed to be building.
@@ -202,3 +206,9 @@ The [Diagram in R](http://rich-iannone.github.io/DiagrammeR/index.html) integrat
 ![](https://user-images.githubusercontent.com/656739/46255638-41551180-c497-11e8-88b8-26ab35aacedf.png)
 
 Btw, if you have not learned how to code in [R](https://en.wikipedia.org/wiki/R_(programming_language)), you definitely should, since it is a great way to manipulate and visualise data. 
+
+#### Try it! (learn DOT and Mermaid with real-time preview)
+
+A good tech stack to learn DOT Language (and mermaid) is the [Atom editor](https://atom.io/) with the [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced) package installed.
+
+This is create an [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) environment where you have an highly effective split screen where once you make a code change you see in less than a sec the rended diagram (on the left you have the markdown page, and on the right the rended page)
