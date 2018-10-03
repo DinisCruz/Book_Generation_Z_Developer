@@ -16,6 +16,14 @@ status: draft
  - expand on the concept of 'Steady state' (and write tests for it)
     - how we want tests to replicate it
 
+(from Miles)
+- **Chaos Engineering is Experimentation and Testing** : In part of the definition of chaos engineering it is useful to state that the technique is made up of experimentation, to explore and discover weaknesses, and testing, to validate that a known weakness is in fact overcome.
+- **Chaos Engineering and Resilience Engineering** - People practicing Chaos Engineering are part of the Resilience Engineering capability of an organisation. Chaos Engineering is a key discipline for learning and validating a system's robustness in the face of turbulent conditions, and it provides a pre-emptive motivation to learn and improve as part of the overall sociotechnical system's resiliency.
+- **Make sure to reference the Principles of Chaos** - For me, this is the authoritative definition for Chaos Engineering: http://principlesofchaos.org/ I'd also argue any sufficiently complex system, distributed or not, can gain from pre-emptively exploring and discovering sociotechnical system weaknesses.
+- **Game Days and Automated Chaos Experiments part of a Chaos Engineers toolbox** - Game Days are manually executed chaos experiments. Automated Chaos Experiments and Tests are where you'd like to execute your experiments and tests continuously (Continuous Chaos) and so automation enables that without distracting everyone from their other valuable work.
+- **Chaos Engineering and the overall Software Development Lifecycle** - Chaos experimentation can begin even before anything has arrived in production by exploring the potential for system weaknesses in a solution, mentally or actually running Game Day experiments. It is a great architecture, design and organisational exploration technique to find weaknesses early.
+- **Continuous Chaos (Engineering)** - Chaos experimentation and testing is often executed as frequently as possible as the turbulent conditions of the target (production) system are often sufficiently dynamic that weaknesses can surface and be discovered by a chaos experiment at any time. This also informs the relationship between CI/CD and continuous chaos. While there is value in adding chaos testing and experimentation into the CI/CD pipeline, "delivery" is only one cause of conditions that you might want to trigger chaos experiments to explore. Traffic changes, infrastructure failure, platform conditions; the system is under the stress of transient turbulent conditions between releases and so often it is desirable to execute chaos on an entirely different cadence to delivery, often more frequently, to explore these interim conditions as well.
+- **Chaos Engineering and Observability** - Chaos Engineering frequently encourages better system observability, and takes advantage of that greater observability, so the two techniques are mutual forcing-factors for improvement.
 
 
 **references**:
