@@ -18,7 +18,7 @@ Find what you are passionate for, what you really care about, and align your car
 
 **Having one competitive advantage**
 
-The best way to get a job is to have ONE competitive advantage. One activity or task that you can do better than the person or company hiring you. For example in the 1990s for a lot of companies it was simply that you could use a computer! In the 2000s is was using the Internet. In the early days of software development or security, all it took was good programming or hacking experience. Although it might look that the bar was lower those days, the reality is that those who could do it were the ones who proactively embraced the technologies and learned them against all odds. Individuals can become experts at new technology faster than the tech companies. You can be first in line for a job when they need that expertise. These days, it is technologies like:
+The best way to get a job is to have ONE competitive advantage. One activity or task that you can do better than the person or company hiring you. For example in the 1990s for a lot of companies it was simply that you could use a computer! In the 2000s is was using the Internet. In the early days of software development or security, all it took was good programming or hacking experience. Although it might look that the bar was lower those days, the reality is that those who could do it were the ones who proactively embraced the technologies and learned them against all odds. Individuals can become experts at new technology faster than the tech companies. You can be first in line for a job when they need that expertise. These days, it is technologies and ideas like (all covered in this book):
 
 - ML/AI
 - Graphs
@@ -30,8 +30,6 @@ The best way to get a job is to have ONE competitive advantage. One activity or 
 - Continuous Integration
 - AWS
 - WallabyJs
-
-Of course, there are other ideas covered in this book too :)
 
 **Own your career development**
 
