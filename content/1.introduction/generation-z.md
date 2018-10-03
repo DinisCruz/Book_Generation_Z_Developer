@@ -4,7 +4,7 @@ status: content
 weight : 10
 ---
 
-Generation Z is the generation born after 1996](https://twitter.com/PaoliCGPI/status/961121404048601088). Like all generation boundaries, their differences may be generalized and there will always be exceptions to this rule. That said, when viewed constructively, it represents an interesting mix of great values and digital capabilities.
+Generation Z is the generation born after [1996](https://twitter.com/PaoliCGPI/status/961121404048601088). Like all generation boundaries, their differences may be generalized and there will always be exceptions to this rule. That said, when viewed constructively, it represents an interesting mix of great values and digital capabilities.
 
 The older members of this generation (at the time of writing, 2018) are about 22 years old. They don't remember the 9/11 attackes, were 11 when the first iPhone came out (2007) and are the first real 'born online' generation. In parts of the world privileged enough to enjoy ubiquitous access to technology, many members of this generation have not experienced a world without ready access to the internet on some kind of device. This is the generation that is entering the job market right now.
 
