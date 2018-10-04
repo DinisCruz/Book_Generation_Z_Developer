@@ -10,7 +10,7 @@ This is not about an [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator))
 
 This is about the next major revolution in technology and whether you are going to be a player or a pawn in what is happening next.
 
-I highly recomend that you read Kevin Kelly's [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089) book where he provides a really clean mapping of what (most likely) will happen next.
+I highly recommend that you read Kevin Kelly's [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](https://www.amazon.co.uk/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089) book where he provides a really clean mapping of what (most likely) will happen next.
 
 One area that Kevin talks in detail and you can already see it happening around us is the introduction of AI capabilities in all sort of devices and business activities.
 
