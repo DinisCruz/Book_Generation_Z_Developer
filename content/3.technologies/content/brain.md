@@ -24,13 +24,13 @@ A good place to start is the [Freakonomics: A Rogue Economist Explores the Hidde
 
 The [Predictably Irrational: The Hidden Forces That Shape Our Decisions](https://www.amazon.co.uk/Predictably-Irrational-Hidden-Forces-Decisions/dp/0007256531) takes that to another level, where it shows example after example how we are not rational at all in a number of decisions we make everyday
 
- The best one I've read is the [Incognito - The Secret lives of the brain](https://www.amazon.co.uk/Incognito-Secret-Lives-Brain-Canons/dp/1782112464) which not only explains really well how the brain works, it really challenges our understanding of how the brain works.
+ The best one I've read is [Incognito - The Secret lives of the brain](https://www.amazon.co.uk/Incognito-Secret-Lives-Brain-Canons/dp/1782112464) which not only explains really well how the brain works, it really challenges our understanding of how the brain works.
 
  **How I think**
 
  When self analysing how I think (from an engineering point of view), I found that I have two types of thinking techniques.
 
-   - A slow(ish) type of thinking - where I'm basically taking to myself in my head. This is also how I tend to read (I heard the text I'm reading in my head)
+   - A slow(ish) type of thinking - where I'm basically talking to myself in my head. This is also how I tend to read (I heard the text I'm reading in my head)
    - A fast type of thinking - where I 'somehow' am making a large number of analysis and decisions, and 'know' what I'm thinking without really needing to articulate in my head all the explanations of what I'm doing. This is the kind of thinking that one tends to get when in 'the Zone' (which is that magical place where ideas 'just flow' and we are hyper productive)
 
 The more time you can spend on the 2nd type the more productive you will be.
