@@ -19,7 +19,7 @@ Even if you are not using Python as your main development language, due to it ma
 
 A perfect example of the power of Python is in the development of Serverless functions (executed as an [AWS Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/python-programming-model-handler-types.html)) or in advanced customization's of event-driven workflows (like the one provided by [Zapier Python support](https://zapier.com/help/code-python/))
 
-The [AWS SDL for python (boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) is something you should spend quite a lot of time with and really explore its capabilities (while learning to take python into another level). 
+The [AWS SDK for python (boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) is something you should spend quite a lot of time with and really explore its capabilities (while learning to take python into another level). 
 
 This API gives you access to just about everything you can do in AWS, and as a developer you need to really start thinking of AWS as an 'app' that you code your application on top of its capabilities. You need to get into the practice of writing code (driven by tests) vs clicking on things.
 
