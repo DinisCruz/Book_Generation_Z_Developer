@@ -36,9 +36,9 @@ Hugo also makes it really easy to create (and understand) an CD (Continuous Depl
 
 Another key feature is the integration with [LiveReload](https://github.com/livereload/livereload-js) (which very important to experience in a practical/personal way). Assuming you have the editor and web browser side-by-side in your screen, Hugo+LiveReload creates an environment where you can see your content changes immediately reflected in the browser, in an quasi-real-time way (i.e as soon as the file is saved, the browser is reloaded and the new content in rendered)
 
-Hugo is also a great case-study of how modern development techniques, technologies, and open source innovation create products/apis that are miles ahead of the competition (with killer features)
+Hugo is also a great case-study of how modern development techniques, technologies, and open source innovation create products/apis that are miles ahead of the competition, with killer features.
 
-After using (and developing) all sorts of CMS (Content Management Systems), I have to say that it gives me a spectacular and highly-productive content creation/editing workflow. 
+After using and developing all sorts of CMS (Content Management Systems), I have to say that it gives me a spectacular and highly-productive content creation/editing workflow. 
 
 I use Hugo a lot these days, in all sort of internal and external sites, here are some examples:
 
@@ -50,7 +50,7 @@ I use Hugo a lot these days, in all sort of internal and external sites, here ar
 
 ### Simple example (MVP)
 
-Here is simple example of my very first test of using Hugo where changes on the left are shown automagically on the right (I always start learning a new technology by creating the simplest possible version that works, i.e. an MVP)
+Here is simple example of my very first test of using Hugo where changes on the left are shown automagically on the right. I always start learning a new technology by creating the simplest possible version that works, i.e. an MVP.
 
 ![](images/hugo-simple-example.jpg)
 
