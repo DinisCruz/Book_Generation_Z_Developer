@@ -22,7 +22,7 @@ An Open Source licence is a copyright license that gives you the right to access
 
 As with the Creative Commons license, Open Source is a way of thinking and behaving about code. 
 
-You has a developer should be releasing everything you do with an Open Source license. This will make sure that your 'future self' can still access that code, while maximizing the potential usage and exposure of that code.
+You as a developer should be releasing everything you do with an Open Source license. This will make sure that your 'future self' can still access that code, while maximizing the potential usage and exposure of that code.
 
 You should also be an active contributor to Open Source projects! 
 

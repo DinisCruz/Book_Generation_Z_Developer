@@ -24,5 +24,5 @@ It is great when you review your older notebooks (could be from last week or yea
 
 My favourite are the [Moleskin books](https://www.amazon.co.uk/Moleskine-Sapphire-Large-Plain-Notebook/dp/B015NG45Q0/) plain A5 notebooks, since they represent a nice balance of white space and portability ( I use them everyday)
 
-A nice site effect of having mobile phones with cameras, is that it's easy to share a picture of one of the notebook's pages.
+A nice side effect of having mobile phones with cameras, is that it's easy to share a picture of one of the notebook's pages.
 
