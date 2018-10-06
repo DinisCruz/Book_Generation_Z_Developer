@@ -1,7 +1,7 @@
 ---
 title : Dot Language
 status: content
-weight: 40
+weight: 43
 what  : Text based diagram tool
 task  : Create DOT diagrams and publish them in a blog
 price : zero

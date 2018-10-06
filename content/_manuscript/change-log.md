@@ -1,14 +1,18 @@
 ---
 title : Change log
-hidden: true
+hidden: false
 ---
 
-**v0.50**
+**v0.55**
+ - Content fixes and contributions by: Mike Eriksson, Michael Chadwick and Claudio Camerino
+ - New book cover 
+ - Improved chapter: DOT Language
 
+**v0.50**
 - Content fixes and contributions by: Mark Regensberg and Sarah Cruz
 - Removed draft content from Leanpub version
 - New book cover 
-- Improved chapter: Google Search, GDD and SRE
+- Improved chapter: Google Search, GDD and SRE   
 
 **v0.40**
 
