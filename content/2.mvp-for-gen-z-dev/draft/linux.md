@@ -16,5 +16,6 @@ Linux is the Operating System that is used by billions of computers, servers, mo
  - you need to learn it, how to install kernel drivers, how to hack it, how to rebuilt it
  - power of raspberry pi is that it gives you a linux environment for you to play with
  - Mac is 'just about' linux under the hood (same heritage), but with a better UI and integrations
+ - How it started [images/linus-linux-post.png]
 
 
