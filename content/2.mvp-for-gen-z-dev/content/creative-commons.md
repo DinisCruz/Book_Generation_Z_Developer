@@ -8,11 +8,11 @@ price : zero
 image : images/logo-creative-commons.png
 ---
 
-Choosing which license you chose to share your work is one of the most important decisions you make in your professional life.
+Choosing which license you chose to share your work with, is one of the most important decisions you make in your professional life.
 
-You can either go down a path where you think that everything you create (outside paid work) is super precious and you need to protect it; or you can realise that your value is on your ability to think about ideas and, more importantly, your ability to execute those ideas.
+You can either go down a path where you think everything you create (outside paid work) is super precious and needs protecting or you soon realise that your ability to think about ideas, and (more importantly) to execute upon those ideas, is extremely valuable.
 
-In the first path you are afraid that your ideas will be copied and you don't share them; on the second path you are happy to share your ideas as much as possible. 
+Often, with the former approach you may be afraid that your ideas will be copied so you don't share them. In the latter approach you are happy to share your ideas as much as possible. 
 
 The best way to share your ideas and way of thinking is to release your content and ideas under an Create Commons Copyright License 
 
@@ -22,7 +22,7 @@ Let's start by looking at the definition of [Creative Commons](https://en.wikipe
 
 > A Creative Commons (CC) license is one of several public copyright licenses that enable the free distribution of an otherwise copyrighted work. A CC license is used when an author wants to give people the right to share, use, and build upon a work that they have created. CC provides an author flexibility (for example, they might choose to allow only non-commercial uses of their own work) and protects the people who use or redistribute an author's work from concerns of copyright infringement as long as they abide by the conditions that are specified in the license by which the author distributes the work
 
-This license is basically defining the rules of the game that are applied to the content that you publish. By releasing your content under this license (and your code under Open Source) you are sending a strong message of your values and positioning. You are also maximizing the potential reach and impact of your ideas. Like Steve Jobs said in his [Stanford Commencement address](https://news.stanford.edu/2005/06/14/jobs-061505/) in 2005 _"...you can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future..."_ , you could be generating a number of opportunities for your future self, or you could even be teaching something to your future self (it's amazing how much we forget)
+Basically, this license is defining the rules of the game that are applied to the content that you publish. By releasing your content under this license (and your code under Open Source) you are sending a strong message of your values and positioning. You are also maximizing the potential for you ideas to be far reaching and impactful. Like Steve Jobs said in his [Stanford Commencement address](https://news.stanford.edu/2005/06/14/jobs-061505/) in 2005 _"...you can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future..."_ , you could be generating a number of opportunities for your future self, or you could even be teaching something to your future self (it's amazing how much we forget over time)
 
 ### Creative Commons license variations and this book
 
@@ -34,7 +34,7 @@ This book is released under the [Creative Commons Attribution 4.0 International 
 > - Adapt — remix, transform, and build upon the material for any purpose, even commercially.
 >
 > Under the following terms:
->  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+>  - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your intended use as licensee.
 >
 > The licensor cannot revoke these freedoms as long as you follow the license terms.
 >
@@ -43,12 +43,12 @@ This book is released under the [Creative Commons Attribution 4.0 International 
 Although all CC licenses allow content to be shared, some have more restrictions:
  
  - **Attribution-ShareAlike 4.0** - need to attribute and use the same CC license (this has a 'viral' effect since it forces changes to also have a CC license)
- - **Attribution-NoDerivatives 4.0** - need to attribute and don't allow changes
- - **Attribution-NonCommercial-NoDerivatives 4.0** -  need to attribute, don't allow commercial use and don't allow changes 
+ - **Attribution-NoDerivatives 4.0** - need to attribute and to not allow changes
+ - **Attribution-NonCommercial-NoDerivatives 4.0** -  need to attribute, to not allow commercial use and to not allow changes 
  
- I don't like the licenses above since they put restrictions on how the content can be used. It's against my views of sharing, but for companies or individuals that are new to CC these are good first steps.
+I don't like the licenses above since they put restrictions on how the content can be used (which is against my views of sharing) but for companies or individuals that are new to CC, these are good first steps.
 
- For reference here is a table with the multiple license's variations:
+For reference here is a table with the multiple license's variations:
 
  [![](images/wikipedia-creative-commons-licenses.png)](https://en.wikipedia.org/wiki/Creative_Commons_license)
 
@@ -61,11 +61,11 @@ Although all CC licenses allow content to be shared, some have more restrictions
 
 ### Creative Commons is changing science
 
- Ironically, most modern science was built on the idea of sharing ideas, cross-verification and healthy challenges of assumptions/theories. For a number of reasons science started to become a closed world with large amounts of information and data only being available to a selected group.
+Ironically, the majority of modern science was built on the princple of sharing ideas, cross-verification and healthy challenges of assumptions/theories. But for a while, science (due to a number of reasons) started to become a closed world, with large amounts of information and data only being available to a selected few.
  
- Good news is that in the last decade this has started to change. Thanks in large part to the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow. Its culture, effectiveness has helped to push for a much more open and collaborative environment between teams. See for example the collaboration of code and data-sets that is happening in areas like cancer research.
+Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See, for example, the collaboration of code and data-sets that is happening on areas like cancer research.
 
- Also amazing is the massive amount of data being shared today by government's agencies. See these books for amazing info-graphics created from this data:
+Also, amazing is the massive amount of data that is being shared today by government's agencies. See these books for amazing info-graphics created from this data:
 
  - [Information is Beautiful](https://www.amazon.co.uk/Information-Beautiful-New-David-McCandless/dp/0007492898)
  - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.co.uk/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
@@ -73,42 +73,41 @@ Although all CC licenses allow content to be shared, some have more restrictions
 
 See the https://data.gov.uk/ website for data-sets provided by the Uk Government (released under the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) which is compatible with Creative Commons Attribution License 4.0 )
 
-It is key that you learn how to play in this world where massive amounts of data are available. Increasingly there is an moral and technical argument that all data created by government should be released under an creative commons license, and all code paid by the government should be released under an open source license. Think about the implications this will have on industries and professions that rely of data to make decisions.
+It is key that you learn how to play in this world where massive amounts of data is available. Increasingly so, there is an moral and technical argument that all data created by government should be released under a creative commons license, and all code paid by the government should be released under an open source license. Think about the implications that this would have on industries and professions that rely on data to make decisions.
 
 ### The importance of creating commercially viable models
 
-Note that it doesn't mean that there should no financial return (ever) from sharing your ideas or content.
+Note, that this doesn't mean that there should no financial return (ever) from sharing your ideas or content.
 
-I'm a big believer that for behaviors to scale and be sustainable there needs to be an working economic and financial model behind those open workflows.
+I'm a big believer that for any trend to scale and become sustainable, there needs to be a working economic and financial model behind those open workflows.
 
-Basically authors should be paid for their work.
+Basically, authors should be paid for their work.
 
-Also key is that operational teams who support authors are also paid; for example Wikipedia or Mozilla have highly skilled and well paid professionals working as employees. 
+Also, it is key that the operational teams that support those authors are also paid (for example Wikipedia or Mozilla have highly skilled and well paid professionals working as employees). 
 
 Sometimes the payment is hard cash (i.e. the authors/teams are paid to create that content).  Sometimes the 'payment' happens in terms of: future opportunities, personal development or karma points (i.e. doing the right thing or sharing knowledge with others the same way it was shared with you).
 
-One of the big myths behind open source and creative commons is that its authors are all working for free in their bedroom by amateurs. In reality most of the value is created during paid jobs, by highly skilled professionals, with companies supporting the creating of the released code or content.
+One of the big myths behind open source and creative commons is that its authors are all working for free in their bedroom by amateurs. In reality most of the value is created during paid jobs, by highly skilled professionals, with companies supporting the creation of the released code or content.
 
 ### It is harder than it looks
 
-Don't let the thought that what you have created has little value prevent you from publishing it. This Impostor Syndrome effect can be very damaging and paralyzing, and you need to take a pragmatic view of what will happen.
+Don't let you perception prevent you from publishing content you deem of little value. This Impostor Syndrome effect can be very damaging and paralyzing, and you need to take a pragmatic view of what would happen if you do share.
 
- - If what you wrote is not that interesting or valuable to others, then your will have a small amount of readers and you have not lost anything
- - If what you have created does get some readers and more importantly, feedback or comments, then you gained a bit and moved the needle foreward a little bit. Remember it's all about incremental gains and there is no such thing as 'overnight success'.
+ - If what you wrote is not that interesting or valuable to others, then your will have a small amount of readers and you have not lost anything.
+ - If what you have created does get some readers and more importantly, feedback or comments, then you gained a bit and moved the needle a little bit (remember that it is all about incremental gains, and there is no such thing as 'overnight success')
 
-The bottom line is that publishing your research under an CC license is harder than it looks. 
+The bottom line is: publishing your research under a CC license is harder than it looks. 
 
-You actually have to do it, and that first step (and the next 100) are the hardest part.
+You actually have to do it, and remember that taking the first step, is often the hardest part
 
-Doing that journey under an Creative Commons path, means that you have made the paradigm shift from close to open It means that you now view your value as someone who can execute ideas and are happy to share your creations.
+Doing that journey under an Creative Commons path, means that you have shifted your paradigm from close to open. It means that you now view your value as someone who can execute ideas (and is happy to share your creations)
 
 Anybody can have ideas, execution is the hard part.    
 
 ### Align your future with Creative Commons
 
-Finally, when choosing which company to work for take into account their current Creative Commons and Open Source strategy culture for internally developed technology ideas. This should have an impact on your choices.
+Finally, when choosing which company to work for take into account their current Creative Commons and Open Source strategy culture for internally developed technology ideas. This should have an impact on your choices).
 
 In most companies, only a very small part of what they create should be closed and proprietary. The rest should released under open licenses. 
 
 Remember that these days, especially in technology, you will be changing jobs and companies regularly. Your really want to make sure that you still have access to those ideas and code when you move off; since there is nothing more soul-destroying than having to re-do something you have already created or not having access to good ideas you had in the past.
-
