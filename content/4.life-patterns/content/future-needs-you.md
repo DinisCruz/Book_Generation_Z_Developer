@@ -29,7 +29,7 @@ Gen Z dev, if you are looking for a place to start replicating this idea, here i
 
 That is not a problem that has been solved today, and not only you would let a lot about how git works, you would be creating a tool very useful to you and the development community. As an example that would allow for the easily discovery of secrets stored in git repos that have been 'deleted' using commits (which means that the secrets still exist in that repo and are available to anybody that can clone it)
 
-**Pick a vision and be the one that makes the deference**
+**Pick a vision and be the one that makes the difference**
 
 Part of your path as a Gen Z developer, is to find something that you are really passionate for which you can execute. The win-win scenario is when you pick an idea that either is quite new (like chaos engineering) or has been around for a while but the momentum has been lost. For example the Zoetrope mentioned here, or SAST technology (Static analysis of software/applications/infrastructure for finding security issues)
 

@@ -14,7 +14,7 @@ Ask yourself:
 
  _**"If I was a founder of the company/department/section I work now, with the responsibilities that I have at the moment: "**_
 
-   - _"Wow would I behave everyday?"_
+   - _"How would I behave everyday?"_
    - _"What needs to be done now, that will make a big difference?"_
    - _"What can I do that will help?"_
    - _"What would I do differently?"_
