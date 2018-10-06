@@ -5,7 +5,7 @@ weight : 20
 what   : Containerization technology that is super fast at applications or micro-services execution
 task   : Install Docker and try the ubuntu, apache, elk and gogs images 
 price  : free
-image  : images/logo_Docker.png
+image  : images/logo_docker.png
 ---
 
 As a developer it is critical that you understand how Docker works and how it became so successful and widely used. Docker is one of those revolutions that occur regularly in the IT industry where the right product comes at the right time and meets a number of very specific pain points for developers.
@@ -24,7 +24,6 @@ Docker starts in second(s) because it is just a process. The magic sauce is crea
 
 1. a number of linux kernel technologies that are able create a sandboxed environment for that process (for files and network access and other key parts of the OS)
 2. a layered file system, where each layer contains a diff with the previous layer. This is a powerful graph db, where each file location is dynamically calculated when you are inside the Docker image. Basically what is happening is that each layer is immutable, and when a file is changed inside Docker it is either a) saved as new Docker image or b) discarded when the Docker image stops. A final 'Docker image' is just a collection of multiple images, all stacked up, one of top of the other. 
- 
 
 ### Kubernetes
 
@@ -32,7 +31,7 @@ Say you want to:
 
 1. use multiple Docker images in parallel (for example an image for the web server, an image for file system and an image with a database) or 
 
-2. start multiple images at the same time (for example a web server behind an load balancer) 
+2. Start multiple images at the same time (for example a web server behind an load balancer) 
 
 You will need to start looking at what are called 'orchestration technologies'.
 
@@ -60,13 +59,13 @@ Docker also makes possible to safely run 3rd party code in isolated (i.e. sandbo
 
 ### Testing and visualizing Docker
 
-One area where we are still quite immature (as an industry) is the testing of Docker images and Kubernetes setups.
+One area where we are still quite immature, as an industry, is the testing of Docker images and Kubernetes setups.
 
 There aren't enough good tools, IDEs and Test Runners for Docker and Kubernetes. Basically we need a TDD workflow for Docker development!
 
 If I was you, this would definitely be an area I would focus my research on (while blogging about your efforts). 
 
-Another great research area is the visualization and mapping of Kubernetes environment (i.e. who is speaking to who, and how is that traffic authentication and authorized) [Weave Scope - Troubleshooting & Monitoring for Docker & Kubernetes](https://github.com/weaveworks/scope)
+Another great research area is the visualization and mapping of Kubernetes environment (i.e. who is speaking to who, and how is that traffic authentication and authorized). See _[Weave Scope - Troubleshooting & Monitoring for Docker & Kubernetes](https://github.com/weaveworks/scope)_ for an interesting Open Source project in this space.
 
 You would have a big competitive advantage in the market place if you understood these concepts and had practical experience at solving them.
 

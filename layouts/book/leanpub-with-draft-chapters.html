@@ -27,3 +27,27 @@
         {{ end }}
     {{ end }}
 {{- end }}
+
+
+
+-# Draft Chapters
+
+{{- range .Site.Home.Sections.ByWeight}}
+    {{ $other   := where .Pages.ByWeight ".Params.status" "!=" "content"}}
+    {{ if gt (len $other) 0 }}
+
+        {{ if .Params.Title }}
+# {{ .Params.Title}}
+        {{ end }}
+        {{range $other }}
+
+            {{ if .Params.Title }}
+                {{ if ne .Params.hidden true }}
+## {{.Params.title}}
+
+{{ safeHTML .RawContent }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{- end }}

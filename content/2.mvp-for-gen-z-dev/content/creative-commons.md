@@ -46,11 +46,11 @@ Although all CC licenses allow content to be shared, some have more restrictions
  - **Attribution-NoDerivatives 4.0** - need to attribute and to not allow changes
  - **Attribution-NonCommercial-NoDerivatives 4.0** -  need to attribute, to not allow commercial use and to not allow changes 
  
- I don't like the licenses above since they put restrictions on how the content can be used (which is against my views of sharing) but for companies or individuals that are new to CC, these are good first steps.
+I don't like the licenses above since they put restrictions on how the content can be used (which is against my views of sharing) but for companies or individuals that are new to CC, these are good first steps.
 
- For reference here is a table with the multiple license's variations:
+For reference here is a table with the multiple license's variations:
 
- [![](/images/wikipedia-creative-commons-licenses.png)](https://en.wikipedia.org/wiki/Creative_Commons_license)
+ [![](images/wikipedia-creative-commons-licenses.png)](https://en.wikipedia.org/wiki/Creative_Commons_license)
 
 
 ### Obscurity is your biggest threat
@@ -61,11 +61,11 @@ Although all CC licenses allow content to be shared, some have more restrictions
 
 ### Creative Commons is changing science
 
- Ironically, the majority of modern science was built on the princple of sharing ideas, cross-verification and healthy challenges of assumptions/theories. But for a while, science (due to a number of reasons) started to become a closed world, with large amounts of information and data only being available to a selected few.
+Ironically, the majority of modern science was built on the princple of sharing ideas, cross-verification and healthy challenges of assumptions/theories. But for a while, science (due to a number of reasons) started to become a closed world, with large amounts of information and data only being available to a selected few.
  
- Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See, for example, the collaboration of code and data-sets that is happening on areas like cancer research.
+Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See, for example, the collaboration of code and data-sets that is happening on areas like cancer research.
 
- Also, amazing is the massive amount of data that is being shared today by government's agencies. See these books for amazing info-graphics created from this data:
+Also, amazing is the massive amount of data that is being shared today by government's agencies. See these books for amazing info-graphics created from this data:
 
  - [Information is Beautiful](https://www.amazon.co.uk/Information-Beautiful-New-David-McCandless/dp/0007492898)
  - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.co.uk/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
@@ -91,23 +91,23 @@ One of the big myths behind open source and creative commons is that its authors
 
 ### It is harder than it looks
 
-Don't let you parcepption prevent you from publishing content you deem of little value. This Impostor Syndrome effect can be very damaging and paralyzing, and you need to take a pragmatic view of what would happen if you do share.
+Don't let you perception prevent you from publishing content you deem of little value. This Impostor Syndrome effect can be very damaging and paralyzing, and you need to take a pragmatic view of what would happen if you do share.
 
  - If what you wrote is not that interesting or valuable to others, then your will have a small amount of readers and you have not lost anything.
  - If what you have created does get some readers and more importantly, feedback or comments, then you gained a bit and moved the needle a little bit (remember that it is all about incremental gains, and there is no such thing as 'overnight success')
 
 The bottom line is: publishing your research under a CC license is harder than it looks. 
 
-You actually have to do it, and that making the first step is often the hardest part
+You actually have to do it, and remember that taking the first step, is often the hardest part
 
 Doing that journey under an Creative Commons path, means that you have shifted your paradigm from close to open. It means that you now view your value as someone who can execute ideas (and is happy to share your creations)
 
-Remember that anybody can have ideas, execution is the hard part.    
+Anybody can have ideas, execution is the hard part.    
 
 ### Align your future with Creative Commons
 
-Finally, when choosing which company to work for, take into account their current Creative Commons and Open Source strategy culture for internally developed technology ideas (this should have an impact on your choices).
+Finally, when choosing which company to work for take into account their current Creative Commons and Open Source strategy culture for internally developed technology ideas. This should have an impact on your choices).
 
-In most companies, only a very small part of what they create should be closed and proprietary. The rest should be released under open licenses. 
+In most companies, only a very small part of what they create should be closed and proprietary. The rest should released under open licenses. 
 
-Remember that these days (specially in technology) you will be changing jobs and companies regularly. You really want to make sure that you still have access to those ideas and code when you move of, since nothing is more soul-destroying than having to re-do something you have already created before (or not having access to good ideas you had in the past).
+Remember that these days, especially in technology, you will be changing jobs and companies regularly. Your really want to make sure that you still have access to those ideas and code when you move off; since there is nothing more soul-destroying than having to re-do something you have already created or not having access to good ideas you had in the past.

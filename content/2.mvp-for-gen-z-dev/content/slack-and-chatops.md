@@ -123,7 +123,7 @@ To get you going here are a couple scenarios:
 
 OWASP (Open Web Application Security Project) is an very friendly open source community that has migrated a large part of its digital interactions to Slack (see [OWASP chapter](https://github.com/DinisCruz/Book_Generation_Z_Developer/blob/master/content/2.mvp-for-gen-z-dev/content/owasp.md) for more details).
 
-I strongly advise you to join the Owasp Slack using the http://owaspslack.com/ registration form. 
+I strongly advise you to join the Owasp Slack using this [registration form](http://owaspslack.com). 
 
 Not only you will see examples of these integrations in real-world scenarios, in that workspace you will find a multiple Slack experts, who will be more than happy to help you. You can also find multiple opportunities (in OWASP project or chapters) to put your Slack integration skills in action.
 

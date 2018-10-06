@@ -39,7 +39,7 @@ Once you have a number of tests written, it is time to start looking at cloud/Sa
 
 ### Experiment with Machine Learning
 
-Apple has released _Core ML 2_ which is [described in Apple's site]((https://developer.apple.com/machine-learning/)) as an _'machine learning framework used across Apple products, including Siri, Camera, and QuickType. Core ML 2 delivers blazingly fast performance with easy integration of machine learning models, enabling you to build apps with intelligent features using just a few lines of code'_.
+Apple has released _Core ML 2_ which is [described in Apple's site](https://developer.apple.com/machine-learning/)) as an _'machine learning framework used across Apple products, including Siri, Camera, and QuickType. Core ML 2 delivers blazingly fast performance with easy integration of machine learning models, enabling you to build apps with intelligent features using just a few lines of code'_.
 
 This means that you can easily add features like _Vision_ or _Natural Language_ to your application. If you do this, make sure to write blog posts about your experiments, since I'm sure any potential employer would be very interested in reading them.
 

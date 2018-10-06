@@ -18,40 +18,40 @@ We basically use Jira as an graph database and [Confluence](https://www.atlassia
 
 The key point I want to make here is: in order to make the tools that we use in the enterprise work, they need to be customized and extended. 
 
-Being able to write these customization's and understanding at a much deeper level what is possible with these tools (when compared to 'normal' or 'power' users), is a massive competitive advantage. Customizing and extending tools should not be seen as an exception, it should be the rule. 
+Being able to write these customization's and understanding at a much deeper level what is possible with these tools, when compared to 'normal' or 'power' users, is a massive competitive advantage. Customizing and extending tools should not be seen as an exception, it should be the rule. 
 
 The reason this scales is due to the compound effect (i.e. increased returns) of the features implemented. The changes/features we make today, will make us more productive tomorrow, which will help us to make more changes, which make us even more productive.
 
-In fact as a developer, if you are able to write custom JIRA workflows that are usable by your team, that will be a massive competitive advantage for you, and it will make you highly employable today.
+In fact as a developer, if you are able to write custom JIRA workflows that are usable by your team, that will be another competitive advantage for you, and it will make you highly employable today.
 
-### Reality is the one that is complex
+### Reality is the complex one
 
 It is important to note that once the complexities and interconnections of reality start to be mapped in Jira, it can be very overwhelming. 
 
-For example we use Jira heavily in our incident handling process, where we can easily create 100+ issues during an incident, with each issue being a relevant question or action to be answers or executed during the incident. It is easy to look at that setup and think that it is too complex and a massive bureaucracy. But in reality that combination of issues (of type: Incident, Task, Vulnerability and Epics) represent an accurate representation of the complex reality and massive amount of information that is created during an incident (the alternative are completely unmanageable and unreadable email, slack threads or word docs). 
+For example we use Jira heavily in our incident handling process, where we can easily create 100+ issues during an incident, with each issue being a relevant question or action to be answers or executed during the incident. It is easy to look at that setup and think that it is too complex and a massive bureaucracy. But in reality that combination of issues (of type: Incident, Task, Vulnerability and Epics) is an accurate representation of the complex reality and massive amount of information that is created during an incident. The alternative are completely unmanageable and unreadable email, slack threads or word docs). 
 
-All the work comes together via powerful up-to-date  Confluence pages (which we convert to PDFs and distribute via slack/email) that answer the key questions of: 'What has happened?', 'What are the facts?', 'What are the hypothesis we are exploring?', 'What is happening now?' and 'What are the next steps?'. This is how we keep everybody involved in sync, and how we provide regular management updates.
+All the work comes together via powerful up-to-date Confluence pages (which we convert to PDFs and distribute via slack/email) to answer the key questions of: 'What has happened?', 'What are the facts?', 'What are the hypothesis we are exploring?', 'What is happening now?' and 'What are the next steps?'. This is how we keep everybody involved in sync, and how we provide regular management updates.
 
-The other massive advantages of this setup, is that it allows us to do very effective post-incident analysis and to create playbooks with predefined tasks to be executed when a similar incident occurs in the future. Basically our playbooks are not a word document with tasks and actions, our playbooks are a lists of Jira Tasks that are used to populate the incident set of tasks.
+The other big advantage of this setup is that it allows us to do very effective post-incident analysis and to create playbooks with predefined tasks to be executed when a similar incident occurs in the future. Basically our playbooks are not a word document with tasks and actions, our playbooks are a lists of Jira Tasks that are used to populate the incident set of tasks.
 
 For more ideas about this topic see the [SecDevOps Risk Workflow](https://leanpub.com/secdevops/) book that I'm also writing and the [SecDevOps Risk Workflow - v0.6](https://www.slideshare.net/DinisCruz/secdevops-risk-workflow-v06) presentation .
 
 
 ### Use Jira in your life
 
-Create Jira projects for your life activities (with Epics to track group of tasks)
+Create Jira projects for your life activities, with Epics to track group of tasks.
 
 Create a Kanban board for your personal tasks and Epics.
 
-Create custom workflows and learn how to manage Jira. This will give you tons of confidence when using Jira in the real world (or when intervening)
+Create custom workflows and learn how to manage Jira. This will give you tons of confidence when using Jira in the real world or when intervening.
 
-And since Atlassian has evaluation version for their cloud version of Jira, there isn't any cost to try this. You have no excuse to not having used Jira before (at a level more advanced that most corporate users and the developers interviewing you)
+And since Atlassian has evaluation version for their cloud version of Jira, there isn't any cost to try this. You have no excuse for not using Jira before, at a level more advanced that most corporate users and the developers interviewing you.
 
 ### What makes Jira so powerful
 
-Although Jira has tons of really annoying features and bugs, its feature set is very powerful, and with finely tunned process and customization's it will make the difference on your productivity and will change how you work.
+Although Jira has tons of really annoying features and bugs, its feature set is very powerful. With finely tunned process and customization's it will make the difference on your productivity and will change how you work.
 
-Here are some the really powerful features that Jira has:
+Here are some of Jira's really powerful features:
  
  - **Issues** - that can be easily linked to each other (i.e. nodes and edges)
  - **Links** - which can be named, and allow the creation of named edges, for example 'RISK-111 is-created-by VULN-222'
@@ -64,9 +64,9 @@ Here are some the really powerful features that Jira has:
 
 ### Its all about People, Process and Technology
 
-In order to create a successful Jira environment (the 'Technology' part) we have to start with the 'People' part (in this case you). It is the mindset of the individual user that helps to kickstart these workflows.
+In order to create a successful Jira environment, the 'Technology' part, we have to start with the 'People' part (in this case you). It is the mindset of the individual user that helps to kickstart these workflows.
 
-The other key element to make this work is the 'Process' of how things work. What I found is that it is very hard for participants to really 'get' these processes and to really understand at a deeper level how the hyperlinked graph-based architecture works. By nature there will be a lot of changes, not only of past workflows, but of existing workflows (i.e. change is the only constant)
+The 'Process' of how things work is the other key element. I found it's very hard for participants to really 'get' these processes and to really understand at a deeper level how the hyperlinked graph-based architecture works. By nature there will be a lot of changes, not only of past workflows, but of existing workflows. Change is the only constant.
 
 Ironically this means that Jira is not key to make this work. 
 
@@ -74,4 +74,4 @@ I have built similar systems using GitHub.
 
 Although GitHub doesn't have some of the most advanced features of Jira (like workflows), the fact that GitHub has native Markdown support, that all content is managed using git and that it is super fast, makes it also an effective graph database.
 
-With the right People and Process, lots of technologies can be used to make this work. As long as they can be used a Graph Database with every piece of data being available in an hyperlinkable way
+With the right People and Process, lots of Technologies can be used to make this work. As long as they can be used a Graph Database with every piece of data being available in an hyperlinkable way
