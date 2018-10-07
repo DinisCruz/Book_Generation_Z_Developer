@@ -4,7 +4,7 @@ status: content
 weight: 40
 ---
 
-[AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (Abstract Syntax Tree) is a graph representation of source code primarly used by compilers to read code and generate the target binaries.
+[AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree) (Abstract Syntax Tree) is a graph representation of source code primarily used by compilers to read code and generate the target binaries.
 
 For example, the AST of this code sample:
 ```
@@ -17,7 +17,7 @@ while b ≠ 0
 ```
 Will look like this:
 
-![](https://raw.githubusercontent.com/DinisCruz/Book_Generation_Z_Developer/master/static/images/800px-Abstract_syntax_tree_for_Euclidean_algorithm.svg.png)
+![](images/ast-abstract-syntax-tree/800px-Abstract_syntax_tree_for_Euclidean_algorithm.svg.png)
 
 
 The transformation from source code to an AST, is a very common pattern when processing any type of structured data. The typical workflow is based on _"Creating a parser that converts raw data into an graph-based format, that can then be consumed by an rendering engine"_. 
@@ -26,7 +26,7 @@ This is basically the process of converting raw data into in strongly typed in-m
 
 Here is a another example from the really cool online tool [astexplorer.net](https://astexplorer.net/):
 
-![](https://user-images.githubusercontent.com/656739/46580312-4c212080-ca1a-11e8-8426-26335bd7d9d9.png)
+![](images/ast-abstract-syntax-tree/46580312-4c212080-ca1a-11e8-8426-26335bd7d9d9.png)
 
 Note how in the image above the [DOT](https://github.com/DinisCruz/Book_Generation_Z_Developer/blob/master/content/2.mvp-for-gen-z-dev/content/dot-language.md) language raw text was converted into a object tree (which can also be consumed/saved as a json file).
 
@@ -121,11 +121,11 @@ Another really cool example of the power of AST manipulation is the PoC I wrote 
 
 Here is what the UI looked like, where the code on the left, was transformed programmatically to the code on the right (by adding the extra ```AntiXSS.HtmlEncode``` wrapper method)
 
-![](https://user-images.githubusercontent.com/656739/46583057-a933cb00-ca48-11e8-8525-122acf63bf81.png)
+![](images/ast-abstract-syntax-tree/46583057-a933cb00-ca48-11e8-8525-122acf63bf81.png)
 
 Here is the source code that does the transformation and code fix (note the round-trip of code):
 
-![image](https://user-images.githubusercontent.com/656739/46583215-fc0e8200-ca4a-11e8-94b6-c7d3a59e6d9d.png)
+![](images/ast-abstract-syntax-tree/46583215-fc0e8200-ca4a-11e8-94b6-c7d3a59e6d9d.png)
 
 In 2018, the way to implement this workflow in a developer friendly way, is to automatically create a Pull Request with those extra changes.
 

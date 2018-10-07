@@ -31,7 +31,7 @@ digraph G {
 
  Which looks like this when rendered (try this online at https://dreampuf.github.io/GraphvizOnline/)
 
- ![](https://user-images.githubusercontent.com/656739/46248785-ed561880-c415-11e8-8f07-6f5c83b4b03b.png)
+ ![](images/dot-language/46248785-ed561880-c415-11e8-8f07-6f5c83b4b03b.png)
 
 What I'm talking about is 'Diagrams as code', which is a major paradigm shift that very few developers and professionals have been able to make. 
 
@@ -178,7 +178,7 @@ For a great introduction to this kind of maps see [Wardley Mapping](http://wardl
 
 #### Explore Vis.js Javascript engine
 
-If you are looking for a great javascript-based DOT language visualization engine, then _[vis.js network](http://visjs.org/docs/network/)_ is the one I recommen you spend a lot of time learning and customizing (see my [neovis fork](https://github.com/pbx-gs/neovis.js) for an example of what those customization can look like)
+If you are looking for a great javascript-based DOT language visualization engine, then _[vis.js network](http://visjs.org/docs/network/)_ is the one I recommend you spend a lot of time learning and customizing (see my [neovis fork](https://github.com/pbx-gs/neovis.js) for an example of what those customization can look like)
 
 #### Mermaid and WebSequenceDiagrams.com
 
@@ -202,9 +202,9 @@ sequenceDiagram
 
 Which looks like this when rendered:
 
-![](https://user-images.githubusercontent.com/656739/46255423-a22f1a80-c494-11e8-8eb3-5c9c992e162c.png)
+![](images/dot-language/46255423-a22f1a80-c494-11e8-8eb3-5c9c992e162c.png)
 
-An alternative is the propriatary https://www.websequencediagrams.com service, which more feature rich that mermaid and has a nicer design (the free version is already very usable and practical):
+An alternative is the proprietary https://www.websequencediagrams.com service, which more feature rich that mermaid and has a nicer design (the free version is already very usable and practical):
 
 ```
 title Authentication Sequence
@@ -216,12 +216,12 @@ Bob->Alice: Authentication Response
 
 Will look like this
 
-![](https://user-images.githubusercontent.com/656739/46255585-abb98200-c496-11e8-93a7-7ac3abeaf535.png)
+![](images/dot-language/46255585-abb98200-c496-11e8-93a7-7ac3abeaf535.png)
 
 
 The [Diagram in R](http://rich-iannone.github.io/DiagrammeR/index.html) integration page contains a great video of DOT in action:
 
-![](https://user-images.githubusercontent.com/656739/46255638-41551180-c497-11e8-88b8-26ab35aacedf.png)
+![](images/dot-language/46255638-41551180-c497-11e8-88b8-26ab35aacedf.png)
 
 Btw, if you have not learned how to code in [R](https://en.wikipedia.org/wiki/R_(programming_language)), you definitely should, since it is a great way to manipulate and visualise data).
 
@@ -229,6 +229,6 @@ Btw, if you have not learned how to code in [R](https://en.wikipedia.org/wiki/R_
 
 A good tech stack to learn DOT Language (and mermaid) is the [Atom editor](https://atom.io/) with the [Markdown Preview Enhanced](https://atom.io/packages/markdown-preview-enhanced) package installed.
 
-This is create an [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) environment where you have an highly effective amd productive split screen (on the left you have the markdown page, and on the right the rended page/diagram). Once you make a code change, you will see the rended diagram in less than a second. This workflow makes it really easy to learn and to create diagrams in real-time.
+This is create an [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) environment where you have an highly effective and productive split screen (on the left you have the markdown page, and on the right the rendered page/diagram). Once you make a code change, you will see the rendered diagram in less than a second. This workflow makes it really easy to learn and to create diagrams in real-time.
 
 I have done Threat Modeling sessions in the past, where we have the UI described above projected on a wall, which allow us to create the diagrams in real-time, based on the information provided by the meeting attendees.

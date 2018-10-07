@@ -58,7 +58,7 @@ The way to do this is to reverse-engineer how somebody behaves and think, and ap
  - Thinking vs Feeling
  - Judging vs Perceiving
 
-![myersbriggstypes](https://user-images.githubusercontent.com/656739/46584081-fd45ac00-ca56-11e8-980c-a5bd7c4e7639.png)
+![](images/being-criticized-is-a-privilege/46584081-fd45ac00-ca56-11e8-980c-a5bd7c4e7639.png)
 
 Another related framework is the _[Big Five Personality Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits) which maps five factors:
 
@@ -68,15 +68,15 @@ Another related framework is the _[Big Five Personality Traits](https://en.wikip
 - Agreeableness (friendly/compassionate vs. challenging/detached)
 - Neuroticism  (sensitive/nervous vs. secure/confident)
 
-![image](https://user-images.githubusercontent.com/656739/46584313-cae97e00-ca59-11e8-91ee-10e17fb81612.png)
+![](images/being-criticized-is-a-privilege/46584313-cae97e00-ca59-11e8-91ee-10e17fb81612.png)
 
 To see both of these frameworks in action see the [16personalities.com](https://www.16personalities.com) website who have [merged these two frameworks](https://www.16personalities.com/articles/our-theory) and come up with with 16 different personalities:
 
-![image](https://user-images.githubusercontent.com/656739/46584306-a5f50b00-ca59-11e8-8f6d-4e5cddabbf0c.png)
+![](images/being-criticized-is-a-privilege/46584306-a5f50b00-ca59-11e8-8f6d-4e5cddabbf0c.png)
 
 For reference here is mine :)
 
-![image](https://user-images.githubusercontent.com/656739/46584346-e9e81000-ca59-11e8-9fd6-88acc7d8cfd3.png)
+![](images/being-criticized-is-a-privilege/46584346-e9e81000-ca59-11e8-9fd6-88acc7d8cfd3.png)
 
 Note that although these frameworks might not be 100% accurate, I found the results I've seen to be quite exact in practice.
 
@@ -101,7 +101,7 @@ Being aware of the team members personalities is a great way to ensure that the 
 
 As a framework to think about feedback I really like the ideas presented in the _[Radical Candor](https://www.amazon.com/Radical-Candor-Kickass-Without-Humanity/dp/1250103509)_ book, which provide a mental model based on two main axis of behavior: Care Personally and Challenge directly:
 
-![](https://user-images.githubusercontent.com/656739/46583619-b608ec80-ca51-11e8-997b-d55b10c6174d.png)
+![](images/being-criticized-is-a-privilege/46583619-b608ec80-ca51-11e8-997b-d55b10c6174d.png)
 
  - When you _Care Personally_, but Don't _Challenge directly_: you have _Ruinous Empathy_ (meaning that real feedback is not provided until it is usually too late)
  - When you Don't _Care Personally_ and  Don't _Challenge directly_: you have _Manipulative Insincerity_ (which is really something you don't want to be involved in)
@@ -156,7 +156,7 @@ Finally the positive feedback that is really, really, really valuable is the fee
 
 THAT is usually all that you should be looking for.
 
-THAT moment when one of your heros (or individuals you really respect) gives you a gentle nod of 'well done , that was good!'. 
+THAT moment when one of your heroes (or individuals you really respect) gives you a gentle nod of 'well done , that was good!'. 
 
 In your life, you will be on the receiving end of many magic moments like this. Unfortunately most miss it and fail to appreciate them. Make sure you celebrate them as they occur, since nothing else matters (money, success, fame). 
 
