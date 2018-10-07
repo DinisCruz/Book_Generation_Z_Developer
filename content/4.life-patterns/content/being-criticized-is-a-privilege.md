@@ -1,6 +1,7 @@
 ---
-title : Being criticized is an privilege
-status: draft
+title  : Being criticized is an privilege
+status : content
+weight : 40
 ---
 
 One of the most important life lessons you need to learn, is to how to give and receive feedback. Specially when the feedback is not positive, and it is criticizing something you've said or done.
@@ -103,41 +104,43 @@ As a framework to think about feedback I really like the ideas presented in the 
 ![](https://user-images.githubusercontent.com/656739/46583619-b608ec80-ca51-11e8-997b-d55b10c6174d.png)
 
  - When you _Care Personally_, but Don't _Challenge directly_: you have _Ruinous Empathy_ (meaning that real feedback is not provided until it is usually too late)
- - When you Don't _Care Personally'_ and  Don't _Challenge directly_: you have _Manipulative Insincerity' (which is really something you don't want to be involved in)
+ - When you Don't _Care Personally_ and  Don't _Challenge directly_: you have _Manipulative Insincerity_ (which is really something you don't want to be involved in)
  - When you Don't _Care Personally_ but _Challenge directly_: you have _Obnoxious Aggression_ (which is not a good way to communicate and is bound to make the recipient very reactive and even aggressive)
-- When you _Care Personally'_ and  _Challenge directly_: you have _Radical Candor_ (which is the sweet spot where the message has the maximum opportunity of being listened to)
+- When you _Care Personally_ and  _Challenge directly_: you have _Radical Candor_ (which is the sweet spot, when the message has the maximum opportunity of being listened to)
 
-Note that this is not easy at all to put in practice, where _Radical Candor_ does required a lot of work and effort from both parties. For example, we usually start by saying _'Ok I want to give you some Radical Candor...'_ which is usually a good way to kickstart the conversation and prime all parties for what is going to happen next
+Note that this is not easy at all to put in practice, _Radical Candor_ does required a lot of work and effort from both parties. For example, we usually start by saying _'Ok I want to give you some Radical Candor...'_ which is usually a good way to kickstart the conversation and prime all parties for what is going to happen next.
 
 
 ### It is not easy to give feedback
 
-Although for some personality types it seems that all they can do is to give feedback (which can also be a defence mechanism to cover up for insecurity), the best feedback you can receive is one that is hard to give. You need to be very humble when receiving feedback and appreciate that it is very hard for the other person to do it (since they are going on the record, and in most cases it is easier to not say anything)
+Although for some personality types it seems that all they can do is to give feedback (which can also be a defence mechanism to cover up for insecurity), the best feedback you can receive is one that is hard to give. You need to be very humble when receiving feedback and appreciate that it is very hard for the other person to do it (since they are going 'on the record', and in most cases it is easier to not say anything)
 
-Remember that if somebody has something to say to you, but is afraid to say it, or thinks that it wont matter because you will not listen, the real loser in this lack of communication is you (not them)
+Remember that if somebody has something to say to you, but is afraid to say it, or thinks that it wont matter because you will not listen, the real loser in this lack of communication is you (not them).
  
-The worse situation you can be in is being ignored and not knowing what is really going on. You want to make sure that your colleagues are conformable saying to your face, what they say (or think) behind your back
+The worse situation you can be in, is being ignored and not knowing what is really going on. You want to make sure that your colleagues are conformable saying to your face, what they say (or think) behind your back.
 
-### Learn to like it and use it to measure success
+### Learn to like criticism and use it to measure success
  
 The way I try to cope with criticism and comments, is to view them as positive things and even try to enjoy them (which is not easy at all to do, and it does require a lot of practice and soul searching)
 
-A good mental model is to accept that you will always be criticized and there will always somebody/somewhere that doesn't like what you have just done, or doesn't understand your point of view. With this in mind, what you need to do is to use the 'what' is being criticized as the benchmark of your progress.
+A good mental model is to accept that you will always be criticized, and there will always somebody/somewhere that doesn't like what you have just done, or doesn't understand your point of view. With this in mind, what you need to do is to use the 'what' is being criticized as the benchmark of your progress.
 
 Basically you should measure your evolution by what you are being criticized for. Learn to recognize what are side effects of your current path, and use that feedback to confirm your current trajectory.
 
 ### Always focus on the ideas
 
-Here is an amazing quote from [Eleanor Roosevelt](https://www.brainyquote.com/quotes/eleanor_roosevelt_385439): _"Great minds discuss ideas; average minds discuss events; small minds discuss people"_
+Here is an amazing quote from [Eleanor Roosevelt](https://www.brainyquote.com/quotes/eleanor_roosevelt_385439): _"Great minds discuss ideas; average minds discuss events; small minds discuss people"_.
 
-Always focus on _the Idea_, and don't worry about how that said (_the Event_) and who said it (_The People_)
+Always focus on _the Idea_, and don't worry about how that was said (_the Event_) and who said it (_The People_)
 
 
 ### Music and criticism 
 
-One of my first big lessons in the power of listening to the right people for what they say, is when I was playing drums professionally and I realized that the best feedback (and criticism) that we received, was not from other musicians (who could be very objective in what was wrong), but it was from audience members (and long standing fans) who really cared about the band and the music.
+One of my first big lessons in the power of listening to the right people for what they say, was when I was playing drums professionally and I realized that the best feedback (and criticism) that we received, was not from other musicians (who could be very objective in what was wrong), but it was from audience members (and long standing fans) who really cared about the band and the music.
 
-I was quite curious on why this happened. Why didn't the most qualified individuals to provide feedback, where the ones that did it best (in fact some of their comments would fall on the 'ignore' bucket). Here are some thoughts:
+I was quite curious on why this happened. Why didn't the most qualified individuals to provide feedback (the musicians or music critics), were the ones that really deserved to be listened to? (in fact some of their comments would fall on the 'ignore' bucket). 
+
+Here are some thoughts:
 
 - most musicians are not very good teachers and don't know how to give effective feedback (they usually to much focus on technical aspect of the playing)
 - they are not the target audience
@@ -147,16 +150,16 @@ Note that this doesn't mean that there wasn't value in those musicians comments,
 
 On the other hand, the criticisms from the audience, would be much more raw and consumable (if you talk to them and get them to give you real feedback).
 
-Related to this is the fact that what I don't really like is praise and compliments, since after the n variation of it, you don't really learn a lot (and most people will default to vanilla compliments).
+Related to this is the fact that what I don't really like is praise and compliments, since after the nth variation of _'you looked/sounded great'_, you don't really learn a lot (and most people will default to vanilla compliments).
 
-Finally the positive feedback that is really, really, really valuable is the positive feedback from the people that you respect the most (which are usually the ones that give you radical candor).
+Finally the positive feedback that is really, really, really valuable is the feedback from the people that you respect the most (which are usually the ones that give you radical candor).
 
 THAT is usually all that you should be looking for.
 
 THAT moment when one of your heros (or individuals you really respect) gives you a gentle nod of 'well done , that was good!'. 
 
-In your life, you will be on the receiving end of these. Make sure you celebrate them as they occur, since nothing else matters (money, success, fame). 
+In your life, you will be on the receiving end of many magic moments like this. Unfortunately most miss it and fail to appreciate them. Make sure you celebrate them as they occur, since nothing else matters (money, success, fame). 
 
-In life, always celebrate and enjoy the journey. 
+In life, always celebrate and enjoy the journey (and don't forget to do the _happy dance_ on your milestones and successes). 
 
 Because the moment you reach your destination, is the moment you start to look for the next challenge (with a new set of expectations)

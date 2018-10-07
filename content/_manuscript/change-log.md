@@ -3,12 +3,13 @@ title : Change log
 hidden: false
 ---
 
-**v0.55**
+**v0.60**
  - Content fixes and contributions by: Mike Eriksson, Michael Chadwick and Claudio Camerino
  - New book cover 
- - Improved chapter: 
+ - Improved chapters: 
     - DOT Language
     - AST (Abstract Syntax Tree)
+    - Being criticized is an privilege
 
 **v0.50**
 - Content fixes and contributions by: Mark Regensberg and Sarah Cruz
