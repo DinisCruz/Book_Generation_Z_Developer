@@ -6,7 +6,9 @@ hidden: false
 **v0.55**
  - Content fixes and contributions by: Mike Eriksson, Michael Chadwick and Claudio Camerino
  - New book cover 
- - Improved chapter: DOT Language
+ - Improved chapter: 
+    - DOT Language
+    - AST (Abstract Syntax Tree)
 
 **v0.50**
 - Content fixes and contributions by: Mark Regensberg and Sarah Cruz
