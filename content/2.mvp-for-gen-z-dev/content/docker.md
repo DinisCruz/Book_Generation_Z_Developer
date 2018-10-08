@@ -61,7 +61,7 @@ Docker also makes it possible to safely run 3rd party code in isolated (i.e. san
 
 One area where we are still quite immature, as an industry, is the testing of Docker images and Kubernetes setups.
 
-There aren't enough good tools, IDEs and Test Runners for Docker and Kubernetes. Basically we need a Test Drive Development (TDD) workflow for Docker development!
+There aren't enough good tools, IDEs and Test Runners for Docker and Kubernetes. Basically we need a Test Driven Development (TDD) workflow for Docker development!
 
 If I were you, this would definitely be an area I would focus my research on (while blogging about your efforts). 
 
