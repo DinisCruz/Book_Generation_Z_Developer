@@ -8,7 +8,7 @@ price : zero
 image : images/logo-creative-commons.png
 ---
 
-Deciding which license you choose to embrace is one of the most important decisions you make in your professional life.
+Deciding which license you choose to share your work with is one of the most important decisions you make in your professional life.
 
 You can either go down a path where you think everything you create (outside paid work) is super precious and needs protecting or you soon realise that your ability to think about ideas, and (more importantly) to execute upon those ideas, is extremely valuable.
 
