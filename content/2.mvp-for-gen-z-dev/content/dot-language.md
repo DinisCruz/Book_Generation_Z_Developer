@@ -29,7 +29,7 @@ digraph G {
 }
  ```
 
- Which looks like this when rendered (try this online at https://dreampuf.github.io/GraphvizOnline/)
+ Which looks like this when rendered (try this online at [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/)
 
  ![](images/dot-language/46248785-ed561880-c415-11e8-8f07-6f5c83b4b03b.png)
 
