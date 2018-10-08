@@ -16,7 +16,7 @@ The first time I saw and used Docker, I was massively impressed by its simplicit
 
 To understand Docker and its power, the first concept to master is how Docker is a _"process that exposes a multi-layered file system as an fully isolated OS"_
 
-It is easy to see Docker as just a faster VM environment or a faster Vagrant (which is a way to programmatically create VMs). I've seen companies that having automated VM deployments to a sigificant extent (i.e. they become really good at automating the creation and deployment of multi-gigabyte VMs) completely dismissed Docker as just another IT fad.
+It is easy to see Docker as just a faster VM environment or a faster Vagrant (which is a way to programmatically create VMs). I've seen companies that having automated VM deployments to a significant extent (i.e. they become really good at automating the creation and deployment of multi-gigabyte VMs) completely dismissed Docker as just another IT fad.
 
 The problem is that Docker is much more than just a faster VM and by fast, I mean super-fast. Normal VMs boot in minutes, Docker can give you a fully working Ubuntu box with Node installed in sub second start time (just run `Docker run -it node bash` and when inside the Docker container run `node -e 'console.log(20+22)'`).
 
@@ -35,7 +35,7 @@ Say you want to:
 
 You will need to start looking at what are called 'orchestration technologies'.
 
-The Docker team has published light orchestration frameworks called [Docker Compose](https://docs.Docker.com/compose/) and [Docker Swarm](https://docs.Docker.com/engine/swarm/). Whilst both solutions are relatively effective and have their share of pros and cons,[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is by far the most widly used container orchestration mechanism in production environemnts.
+The Docker team has published light orchestration frameworks called [Docker Compose](https://docs.Docker.com/compose/) and [Docker Swarm](https://docs.Docker.com/engine/swarm/). Whilst both solutions are relatively effective and have their share of pros and cons,[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is by far the most widely used container orchestration mechanism in production environments.
 
 Kubernetes (sometimes also called K8) was actually developed by Google and was inspired by [Google's Borg](https://ai.google/research/pubs/pub43438). The Borg is one of the key reasons why Google was able to massively scale services like its web search and GMail. Everything at Google is a container and as early as 2014 Google claimed to be starting [two billion](https://www.theregister.co.uk/2014/05/23/google_containerization_two_billion/) [containers per week](https://cloud.google.com/containers/)
 

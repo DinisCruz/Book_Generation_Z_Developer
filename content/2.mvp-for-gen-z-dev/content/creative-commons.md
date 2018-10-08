@@ -61,7 +61,7 @@ For reference here is a table with the multiple license's variations:
 
 ### Creative Commons is changing science
 
-Ironically, the majority of modern science was built on the princple of sharing ideas, cross-verification and healthy challenges of assumptions/theories. But for a while, science (due to a number of reasons) started to become a closed world, with large amounts of information and data only being available to a selected few.
+Ironically, the majority of modern science was built on the principle of sharing ideas, cross-verification and healthy challenges of assumptions/theories. But for a while, science (due to a number of reasons) started to become a closed world, with large amounts of information and data only being available to a selected few.
  
 Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See, for example, the collaboration of code and data-sets that is happening on areas like cancer research.
 

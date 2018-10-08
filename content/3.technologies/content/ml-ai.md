@@ -4,7 +4,7 @@ status : content
 weight : 30
 ---
 
-One of the most important areas that you need to gain a strong understaning in the next 5 years is Machine Learning and Artificial Intelligence (AI).
+One of the most important areas that you need to gain a strong understanding in the next 5 years is Machine Learning and Artificial Intelligence (AI).
 
 This is not about an [Skynet](https://en.wikipedia.org/wiki/Skynet_(Terminator)) kinda scenario where an super-intelligence [singularity](https://en.wikipedia.org/wiki/Technological_singularity) is going to take over the world and destroy humanity.
 

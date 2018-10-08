@@ -162,7 +162,7 @@ When you have a bug in your code that you don't understand the root cause, a com
 
 This just about works when you have direct access to the execution environment and you are looking at simple applications. 
 
-But as soon as you start working on distributed systems with lots of moving parts (for example with multiple web services and serverless functions), you stop having the ability to realy understand what is going on (namely the exact sequence of events and what the data looks like in those intermediate states) 
+But as soon as you start working on distributed systems with lots of moving parts (for example with multiple web services and serverless functions), you stop having the ability to really understand what is going on (namely the exact sequence of events and what the data looks like in those intermediate states) 
 
 Slack gives you an environment to receive logs/messages from those internal execution flow and states. To make this scale, you should create helper APIs that make it easy to send and receive data from Slack.
 

@@ -48,4 +48,4 @@ It is even worse when the interruption actually requires some extra activity (fo
 
 One area that these interruptions happen a lot in the normal developer's coding workflow is Testing. The simple fact of having to manually run a test (either via the command line, or by clinking on a web browser), will break your mental models and make you 'switch context'
 
-I can't explain (you need to experience it yourself) how productive is it to code in an environment where the context switching is minumal (which is what happens when coding using tools like [wallbyjs](wallabyjs.com) or [NCrunch](http://www.ncrunch.net/))
+I can't explain (you need to experience it yourself) how productive is it to code in an environment where the context switching is minimal (which is what happens when coding using tools like [wallbyjs](wallabyjs.com) or [NCrunch](http://www.ncrunch.net/))

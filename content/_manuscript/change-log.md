@@ -6,7 +6,7 @@ hidden: false
 **v0.60**
  - Content fixes and contributions by: Mike Eriksson, Michael Chadwick and Claudio Camerino
  - New book cover 
- - Improved chapters: 
+ - New chapters: 
     - DOT Language
     - AST (Abstract Syntax Tree)
     - Being criticized is an privilege
