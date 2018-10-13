@@ -1,0 +1,26 @@
+<style>
+    .shortcuts input {
+        margin-left: 50%;
+        width:200px;
+    }
+</style>
+<header>
+    <div class="logo">
+        {{ partial "header.html" . }}
+    </div>
+    <div class="shortcuts">
+        {{ partial "flex/before-content/search.html"     . }}
+    </div>
+    <div class="burger"><a href="javascript:void(0);" style="font-size:15px;">&#9776;</a></div>
+    {{- with .Site.Menus.shortcuts}}
+    <nav class="shortcuts">
+        {{- range sort . "Weight"}}
+        <li class="" role="">
+            <a href="{{.URL}}" {{if eq $.Site.Params.menushortcutsnewtab true}}target="_blank"{{end}} rel="noopener">
+                {{safeHTML .Name}}
+            </a>
+        </li>
+        {{- end}}
+    </nav>
+    {{- end}}
+</header>
