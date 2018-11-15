@@ -1,0 +1,19 @@
+@startuml
+
+start
+
+:<img:https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/first-tests/dude.png{scale=0.2}>;
+note left
+ In a note <img:https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/first-tests/dinis-dude.png{scale=0.2}>
+end note
+if (Should I do this?) then (yes)
+    :<img:https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/first-tests/dude-not-sure.png{scale=0.2}>;
+else (no)
+    :<img:https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/first-tests/dude-on-the-move.png{scale=0.2}>;
+endif
+: <img:https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/first-tests/dude-scratching-head.png>;
+
+stop
+
+
+@enduml
