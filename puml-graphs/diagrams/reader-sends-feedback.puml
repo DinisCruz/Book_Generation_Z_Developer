@@ -25,7 +25,7 @@
     cloud   "an bug or typo"                    as bug
     cloud   "an idea to add"                    as idea
     cloud   "merge pull request"                as merge_pr
-    cloud   "create kinde, \nebook and and pdf" as create_book
+    cloud   "create kindle, \nebook and pdf" as create_book
 
     reader            -r->    book               : buys or downloads
     book              -d->    finds_issue        : while reading
