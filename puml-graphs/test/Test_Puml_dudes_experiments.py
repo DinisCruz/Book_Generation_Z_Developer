@@ -20,12 +20,13 @@ class Test_Puml_dudes_experiments(TestCase):
 
 
     def test_create_puml____reader_sends_feedback(self):
-        puml_file = '../diagrams/reader-sends-feedback.puml'
-        png_file  =  '/tmp/{0}.png'.format(Files.file_name(puml_file))
-        puml      = Files.contents(puml_file)
-        img_url   = 'https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/dudes/puml/'
-        puml      = puml.replace("<img:","<img:{0}".format(img_url))
-        self.plantuml.puml_to_png_using_lambda_function(puml, png_file)
+        png_file = self.create_local_png('../diagrams/reader-sends-feedback.puml')
+        # puml_file = '../diagrams/reader-sends-feedback.puml'
+        # png_file  =  '/tmp/{0}.png'.format(Files.file_name(puml_file))
+        # puml      = Files.contents(puml_file)
+        # img_url   = 'https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/dudes/puml/'
+        # puml      = puml.replace("<img:","<img:{0}".format(img_url))
+        # self.plantuml.puml_to_png_using_lambda_function(puml, png_file)
 
     def test_create_puml_use_content_from_book(self):
         png_file = self.create_local_png('../dudes/diagrams/use-content-from-book.puml')
