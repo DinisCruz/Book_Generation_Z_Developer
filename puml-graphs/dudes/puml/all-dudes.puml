@@ -1,0 +1,24 @@
+@startuml
+
+skinparam CardBackgroundColor white
+skinparam CardBorderColor white
+skinparam CardBorderThickness 0
+skinparam Shadowing false
+
+card "<img:../img/others/book-cover-small.jpg>"        as book
+
+card "Reader\n<img:../img/dudes/dude.png>"             as reader
+
+
+card "<img:../img/dudes/dinis-dude.png>"               as dinis
+
+card "<img:../img/dudes/dude-holding-something.png>"   as holding
+card "<img:../img/dudes/dude-not-sure.png>"            as not_sure
+card "<img:../img/dudes/dude-on-the-move.png>"         as on_move
+card "<img:../img/dudes/dude-scratching-head.png>"     as head
+
+
+reader -down-> book
+
+
+@enduml
