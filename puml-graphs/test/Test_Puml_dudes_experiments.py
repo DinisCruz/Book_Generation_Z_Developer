@@ -11,17 +11,27 @@ class Test_Puml_dudes_experiments(TestCase):
     def setUp(self):
         self.plantuml    = API_Plant_UML()
 
+    def create_local_png(self, puml_file):
+        png_file = '/tmp/{0}.png'.format(Files.file_name(puml_file))
+        puml = Files.contents(puml_file)
+        img_url = 'https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/dudes/puml/'
+        puml = puml.replace("<img:", "<img:{0}".format(img_url))
+        return self.plantuml.puml_to_png_using_lambda_function(puml, png_file)
+
+
     def test_create_puml____reader_sends_feedback(self):
         puml_file = '../diagrams/reader-sends-feedback.puml'
         png_file  =  '/tmp/{0}.png'.format(Files.file_name(puml_file))
         puml      = Files.contents(puml_file)
         img_url   = 'https://github.com/DinisCruz/Book_Generation_Z_Developer/raw/dudes-test/puml-graphs/dudes/puml/'
         puml      = puml.replace("<img:","<img:{0}".format(img_url))
-
-        puml_to_png = Lambdas('utils.puml_to_png').invoke
-
-
         self.plantuml.puml_to_png_using_lambda_function(puml, png_file)
+
+    def test_create_puml_use_content_from_book(self):
+        png_file = self.create_local_png('../dudes/diagrams/use-content-from-book.puml')
+        Dev.pprint(png_file)
+
+
 
     # dudes
     def test_puml___dudes_creation(self):

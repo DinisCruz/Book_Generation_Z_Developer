@@ -1,0 +1,44 @@
+@startuml
+
+    skinparam RectangleBackgroundColor white
+    skinparam StorageBackgroundColor   white
+    skinparam CardBackgroundColor      white
+    skinparam CardBorderColor          white
+    skinparam CardBorderThickness      0
+    skinparam Shadowing                false
+    skinparam DefaultTextAlignment     center
+    skinparam Padding                  2
+
+    card "<img:../img/dudes/dude-not-sure.png>          \nReader\n<b>Option A: 'dude not sure'             " as reader_1
+    card "<img:../img/dudes/dude-scratching-head.png>   \nReader\n<b>Option A: 'dude scratching head'      " as reader_2
+    card "<img:../img/others/linkedin-logo.png>"                                                             as linkedin
+    note right: <i>"...I was wondering if you would allow me to use a paragraph \nfrom your book in one of my LinkedIn posts\n\n I would of course mention the source and use quotation marks."
+    card "<img:../img/dudes/dude-dinis.png>            \nAuthor\n(Dinis Cruz)                              " as author
+    card "<img:../img/dudes/dude-dinis.png>            \nAuthor\n(Dinis Cruz)                              " as author
+    card "<img:../img/others/cc-logo.png>                       " as cc_logo
+    card "<img:../img/others/cc-by-logo.png>                    " as cc_by
+    card "<img:../img/others/cc-by-details-1.png>               " as cc_by_details_1
+    card "<img:../img/others/cc-by-details-2.png>               " as cc_by_details_2
+
+
+    card "<size:80>YES                " as short_answer
+    cloud "yes and here is why        " as long_answer
+
+
+    reader_1    -->     linkedin      : asks via
+    reader_2    -->     linkedin      : asks via
+
+    linkedin    -->     author
+    author      -->     short_answer  : short answer
+    author      -r->     long_answer   : longer answer
+
+    long_answer -r-> cc_logo
+    note right: all book's content is\nreleased under an\n Creative Commons (CC) \ncopyright licence
+    cc_logo     --> cc_by
+    note right: more specifically the CC BY 4.0 license \n which basically means that you can do anything with the content\n and somewhere in your text you acknowledge the source
+
+    cc_by --> cc_by_details_1
+    cc_by --> cc_by_details_2
+
+@enduml
+
