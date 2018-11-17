@@ -1,12 +1,4 @@
 @startuml
-    skinparam RectangleBackgroundColor white
-    skinparam StorageBackgroundColor   white
-    skinparam CardBackgroundColor      white
-    skinparam CardBorderColor          white
-    skinparam CardBorderThickness      0
-    skinparam Shadowing                false
-    skinparam DefaultTextAlignment     center
-    skinparam Padding                  2
 
     card "<img:../img/others/book-cover.jpg>                                    " as book
     card "<img:../img/dudes/dude.png>           \nReader\n(you)                 " as reader
@@ -25,7 +17,7 @@
     cloud   "an bug or typo"                    as bug
     cloud   "an idea to add"                    as idea
     cloud   "merge pull request"                as merge_pr
-    cloud   "create kinde, \nebook and and pdf" as create_book
+    cloud   "create kindle, \nebook and pdf" as create_book
 
     reader            -r->    book               : buys or downloads
     book              -d->    finds_issue        : while reading

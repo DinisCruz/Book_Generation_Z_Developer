@@ -9,8 +9,7 @@
     skinparam DefaultTextAlignment     center
     skinparam Padding                  2
 
-    card "<img:../img/dudes/dude-not-sure.png>          \nReader\n<b>Option A: 'dude not sure'             " as reader_1
-    card "<img:../img/dudes/dude-scratching-head.png>   \nReader\n<b>Option A: 'dude scratching head'      " as reader_2
+    card "<img:../img/dudes/dude-scratching-head.png>   \nReader with question "                             as reader
     card "<img:../img/others/linkedin-logo.png>"                                                             as linkedin
     note right: <i>"...I was wondering if you would allow me to use a paragraph \nfrom your book in one of my LinkedIn posts\n\n I would of course mention the source and use quotation marks."
     card "<img:../img/dudes/dude-dinis.png>            \nAuthor\n(Dinis Cruz)                              " as author
@@ -25,9 +24,7 @@
     cloud "yes and here is why        " as long_answer
 
 
-    reader_1    -->     linkedin      : asks via
-    reader_2    -->     linkedin      : asks via
-
+    reader    -->     linkedin      : asks via
     linkedin    -->     author
     author      -->     short_answer  : short answer
     author      -r->     long_answer   : longer answer
