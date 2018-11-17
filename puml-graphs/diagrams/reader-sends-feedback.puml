@@ -1,12 +1,4 @@
 @startuml
-    skinparam RectangleBackgroundColor white
-    skinparam StorageBackgroundColor   white
-    skinparam CardBackgroundColor      white
-    skinparam CardBorderColor          white
-    skinparam CardBorderThickness      0
-    skinparam Shadowing                false
-    skinparam DefaultTextAlignment     center
-    skinparam Padding                  2
 
     card "<img:../img/others/book-cover.jpg>                                    " as book
     card "<img:../img/dudes/dude.png>           \nReader\n(you)                 " as reader
