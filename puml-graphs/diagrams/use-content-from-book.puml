@@ -1,13 +1,8 @@
 @startuml
 
-    skinparam RectangleBackgroundColor white
-    skinparam StorageBackgroundColor   white
-    skinparam CardBackgroundColor      white
-    skinparam CardBorderColor          white
-    skinparam CardBorderThickness      0
-    skinparam Shadowing                false
-    skinparam DefaultTextAlignment     center
-    skinparam Padding                  2
+    !include default-params.iuml
+
+    skinparam DefaultFontSize          20
 
     card "<img:../img/dudes/dude-scratching-head.png>   \nReader with question "                             as reader
     card "<img:../img/others/linkedin-logo.png>"                                                             as linkedin
