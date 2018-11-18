@@ -32,6 +32,11 @@ class Test_Puml_dudes_experiments(TestCase):
         png_file = self.create_local_png('../dudes/diagrams/use-content-from-book.puml')
         Dev.pprint(png_file)
 
+    def test_create_puml_use_content_from_book(self):
+        png_file = self.create_local_png('../puml/STEM-tech-stack.puml')
+        Dev.pprint(png_file)
+
+
 
 
     # dudes

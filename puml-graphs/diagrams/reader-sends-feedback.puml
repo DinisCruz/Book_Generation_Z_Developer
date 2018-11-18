@@ -1,5 +1,7 @@
 @startuml
 
+    !include default-params.iuml
+
     card "<img:../img/others/book-cover.jpg>                                    " as book
     card "<img:../img/dudes/dude.png>           \nReader\n(you)                 " as reader
     card "<img:../img/dudes/dude-dinis.png>     \nAuthor\n(Dinis Cruz)          " as author

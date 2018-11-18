@@ -1,8 +1,21 @@
-    skinparam RectangleBackgroundColor white
-    skinparam StorageBackgroundColor   white
-    skinparam CardBackgroundColor      white
-    skinparam CardBorderColor          white
-    skinparam CardBorderThickness      0
-    skinparam Shadowing                false
-    skinparam DefaultTextAlignment     center
-    skinparam Padding                  2
+' **************************************
+' *** default settings for diagrams  ***
+
+skinparam RectangleBackgroundColor white
+skinparam StorageBackgroundColor   white
+skinparam CardBackgroundColor      white
+skinparam CardBorderColor          white
+skinparam CardBorderThickness      0
+skinparam Shadowing                false
+skinparam DefaultTextAlignment     center
+skinparam Padding                  2
+'skinparam DefaultFontSize          30
+
+
+
+!define card_person   card "<img:../img/dudes/dude.png>                                          " as person
+!define card_author   card "<img:../img/dudes/dude-dinis.png>             \nAuthor               " as author
+!define card_reader   card "<img:../img/dudes/dude-scratching-head.png>   \nReader               " as reader
+!define card_group    card "<img:../img/dudes/dudes-group.png>                                   " as group
+!define card_linkedin card "<img:../img/others/linkedin-logo.png>                                " as linkedin
+!define card_github   card "<img:../img/github/logo.png>                                         " as github

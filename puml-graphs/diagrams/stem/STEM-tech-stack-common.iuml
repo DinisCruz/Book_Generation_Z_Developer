@@ -1,0 +1,11 @@
+!include ../../diagrams/default-params.iuml
+
+scale 500 width
+skinparam rectangleRoundCorner 55
+'skinparam nodeFontSize         40
+
+skinparam node {
+                   fontSize        60
+                   backgroundColor #007BB7
+                   fontColor       #white
+               }

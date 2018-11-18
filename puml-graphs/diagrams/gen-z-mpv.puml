@@ -1,0 +1,60 @@
+@startuml
+
+!include ../diagrams/default-params.iuml
+
+skinparam Title {
+    BorderColor     white
+    FontColor       white
+    BackgroundColor black
+}
+
+skinparam ComponentBorderColor  black
+skinparam NoteBorderColor       black
+skinparam ArrowColor            black
+
+title
+=GenZ MVP Technologies and Workflows
+   (MVP = Minimum Viable Product)
+end title
+
+card_person
+
+person -l-> [Creative Commons\nand Open Source]
+person -u-> [Slack and Chatops]
+person -u-> [Dot Language]
+person -u-> [Docker]
+person -u-> [Python]
+person -d-> [Google]
+person -d-> [JIRA]
+person -d-> [OWASP]
+person -d-> [Hugo]
+
+
+
+
+
+note right of person
+MVP is a term used regularly in the software
+industry to  represent the minimum set of
+features and capabilities that a particular
+deliverable should have in order to add value.
+
+From a Gen Z Dev point of view, the
+technologies and workflows described in
+this section are key to make you highly
+productive and effective team player.
+end note
+
+footer
+
+
+---------------------------------------------------------------------------
+
+<img:../img/genz-logo-small.png>    <img:../img/others/cc-by-logo-small.png>
+
+Diagram from  "Generation Z Developers" book (released on Nov 2018, v0.7)
+
+Available at Amazon and Leanpub - https://leanpub.com/generation-z
+end footer
+
+@enduml
