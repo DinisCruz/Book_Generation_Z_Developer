@@ -1,0 +1,66 @@
+@startuml
+
+!include ../diagrams/default-params.iuml
+
+skinparam Title {
+    BorderColor     white
+    FontColor       white
+    BackgroundColor black
+}
+
+skinparam ComponentBorderColor  black
+skinparam NoteBorderColor       black
+skinparam ArrowColor            black
+
+title
+=Why Visio doesn't Scale
+end title
+
+
+artifact "Visio Diagram" as visio
+
+visio     -l-> (design)
+visio     -d-> (data)
+visio     -r-> (workflow)
+
+design    -d-> [a work of art]
+design    -l-> [created from \nsomebody's \ninterpretation \nof reality]
+design    -u-> [very time \nconsuming]
+design    -u-> [layout \nis pixel based]
+design    -d-> [locked to a particular \ndesign convention]
+
+data      -d-> [not created \nfrom dynamic data]
+data      -d-> [very easy to \nmix abstraction layers]
+data      -d-> [stored in binary or xml format\n (very hard to diff)]
+data      -d-> [mix data and design \nin same file]
+
+workflow  -u-> [very hard \nto update]
+workflow  -u-> [not an accurate \nrepresentation of reality]
+workflow  -r-> [not used everyday\n (by developers, \narchitects or \nmanagers)]
+workflow  -d-> [they are usually \nnot maps]
+
+note top of visio
+Visio (or one of its online/offline variations like draw.io or
+Lucidchart) diagrams  are the current industry standard for
+creating detailed technical and workflow diagrams.
+
+The irony is that Visio's main features are actually
+its main drawbacks.
+
+The fact that Visio allows the creation of very detailed
+diagrams means that they are:
+end note
+
+footer
+
+
+---------------------------------------------------------------------------
+
+<img:../img/genz-logo-small.png>    <img:../img/others/cc-by-logo-small.png>
+
+Diagram from  "Generation Z Developers" book (released on Nov 2018, v0.7)
+
+Available at Amazon and Leanpub - https://leanpub.com/generation-z
+end footer
+
+@enduml
