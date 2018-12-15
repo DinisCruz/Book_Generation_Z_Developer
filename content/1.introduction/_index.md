@@ -17,7 +17,7 @@ The presentation started with me asking the audience if the logos looked familia
 
 Why is the **why** important? All of these icons were 'catalysts for change'. It is important to understand the history behind them, why they occurred and the change they drove. Each one of these icons changed the world of technology, and created paradigms shifts that still impact our world today.
 
-For example, one of the really significant innovations was the creation of the Creative Commons license - an adaption of a traditional copyright license. This was one of my initial _'WFT! you don't know what Creation Commons is???'_ realizations. 
+For example, one of the really significant innovations was the creation of the Creative Commons license - an adaption of a traditional copyright license. This was one of my initial _'WTF! you don't know what Creation Commons is???'_ realizations. 
 
 Creative Commons licensing gives a number of rights to the consumer of creations (rather than the originator of a creation holding onto the rights). It allows ideas, creations and concepts to spread easily and without limitation. 
 
