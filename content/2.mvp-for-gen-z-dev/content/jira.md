@@ -10,15 +10,15 @@ image : images/logo-creative-commons.png
 
 [Jira](https://www.atlassian.com/software/jira) is a web application that is widely used by development, engineering and technical teams to manage their day to day tasks and activities.
 
-There is massive worldwide adoption by all types of companies, and we (at Photobox Group Security) use Jira extensively in our day-to-day. We use it for example to manage: vulnerabilities, risks, task management, incident handling, OKRs management, asset register, threat modeling, data journeys and even to create an pseudo org chart for the stakeholders of risks. 
+There is massive worldwide adoption by all types of companies, and we (at Photobox Group Security) use Jira extensively in our day-to-day. We use it for example to manage: vulnerabilities, risks, task management, incident handling, OKRs (Objectives and Key Results) management, asset register, threat modeling, data journeys and even to create a pseudo org chart for the stakeholders of risks. 
 
 To make this work we are very advanced users of Jira, where we create tons of custom Workflows and even write custom applications that consume Jira's APIs.
 
-We basically use Jira as an graph database and [Confluence](https://www.atlassian.com/software/confluence) as a way to display the information stored in JIRA. See the [Creating a Graph Based Security Organization](https://www.slideshare.net/DinisCruz/creating-a-graph-based-security-organisation-devseccon-keynote-81345667) presentation for more ideas on how we do this.
+We basically use Jira as a graph database and [Confluence](https://www.atlassian.com/software/confluence) as a way to display the information stored in JIRA. See the [Creating a Graph Based Security Organization](https://www.slideshare.net/DinisCruz/creating-a-graph-based-security-organisation-devseccon-keynote-81345667) presentation for more ideas on how we do this.
 
 The key point I want to make here is: in order to make the tools that we use in the enterprise work, they need to be customized and extended. 
 
-Being able to write these customization's and understanding at a much deeper level what is possible with these tools, when compared to 'normal' or 'power' users, is a massive competitive advantage. Customizing and extending tools should not be seen as an exception, it should be the rule. 
+Being able to write these customizations and understanding at a much deeper level what is possible with these tools is a massive competitive advantage, when compared to 'normal' or 'power' users. Customizing and extending tools should not be seen as an exception, it should be the rule. 
 
 The reason this scales is due to the compound effect (i.e. increased returns) of the features implemented. The changes/features we make today, will make us more productive tomorrow, which will help us to make more changes, which make us even more productive.
 
@@ -28,7 +28,7 @@ In fact as a developer, if you are able to write custom JIRA workflows that are 
 
 It is important to note that once the complexities and interconnections of reality start to be mapped in Jira, it can be very overwhelming. 
 
-For example we use Jira heavily in our incident handling process, where we can easily create 100+ issues during an incident, with each issue being a relevant question or action to be answers or executed during the incident. It is easy to look at that setup and think that it is too complex and a massive bureaucracy. But in reality that combination of issues (of type: Incident, Task, Vulnerability and Epics) is an accurate representation of the complex reality and massive amount of information that is created during an incident. The alternative are completely unmanageable and unreadable email, slack threads or word docs). 
+For example we use Jira heavily in our incident handling process, where we can easily create 100+ issues during an incident, with each issue being a relevant question or action to be answered or executed during the incident. It is easy to look at that setup and think that it is too complex and a massive bureaucracy. But in reality that combination of issues (of type: Incident, Task, Vulnerability and Epics) is an accurate representation of the complex reality and massive amount of information that is created during an incident. The alternatives are completely unmanageable and unreadable email, slack threads or word docs). 
 
 All the work comes together via powerful up-to-date Confluence pages (which we convert to PDFs and distribute via slack/email) to answer the key questions of: 'What has happened?', 'What are the facts?', 'What are the hypothesis we are exploring?', 'What is happening now?' and 'What are the next steps?'. This is how we keep everybody involved in sync, and how we provide regular management updates.
 
@@ -45,11 +45,11 @@ Create a Kanban board for your personal tasks and Epics.
 
 Create custom workflows and learn how to manage Jira. This will give you tons of confidence when using Jira in the real world or when intervening.
 
-And since Atlassian has evaluation version for their cloud version of Jira, there isn't any cost to try this. You have no excuse for not using Jira before, at a level more advanced that most corporate users and the developers interviewing you.
+And since Atlassian has evaluation version for their cloud version of Jira, there isn't any cost to try this. You have no excuse for not using Jira before, at a level more advanced than most corporate users and the developers interviewing you.
 
 ### What makes Jira so powerful
 
-Although Jira has tons of really annoying features and bugs, its feature set is very powerful. With finely tunned process and customization's it will make the difference on your productivity and will change how you work.
+Although Jira has tons of really annoying features and bugs, its feature set is very powerful. With finely tuned process and customizations it will make the difference on your productivity and will change how you work.
 
 Here are some of Jira's really powerful features:
  
