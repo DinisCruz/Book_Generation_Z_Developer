@@ -10,7 +10,7 @@ It is very important to realise that if you are in a job (or school) where your 
 
 There is a lot of competition out there and if you look at what is coming next, namely AI and the next billion internet users, you'll need to maximise your chances and opportunities.
 
-I really like the Gen Z realization that a job is something that should be rewarding and not just a way to make money. After all, the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happened by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
+I really like the Gen Z realisation that a job is something that should be rewarding and not just a way to make money. After all, the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happen by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
 
 **Being passionate and loving your job**
 
