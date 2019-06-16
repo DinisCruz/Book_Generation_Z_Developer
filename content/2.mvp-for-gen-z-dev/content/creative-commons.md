@@ -65,7 +65,7 @@ Ironically, the majority of modern science was built on the principle of sharing
  
 Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See for example the collaboration of code and data-sets that is happening on areas like cancer research.
 
-Also, amazing is the massive amount of data that is being shared today by government agencies. See these books for amazing info-graphics created from this data:
+Also amazing is the massive amount of data that is being shared today by government agencies. See these books for amazing info-graphics created from this data:
 
  - [Information is Beautiful](https://www.amazon.co.uk/Information-Beautiful-New-David-McCandless/dp/0007492898)
  - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.co.uk/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
