@@ -1,11 +1,20 @@
-!include ../../diagrams/default-params.iuml
+'!include ../../diagrams/default-params.iuml
 
-scale 500 width
-skinparam rectangleRoundCorner 55
-'skinparam nodeFontSize         40
+scale 800 width
+skinparam Padding   2
+skinparam card      {
+                        fontSize 15
+                    }
+skinparam rectangle {
+                        roundCorner 25
+                    }
 
-skinparam node {
-                   fontSize        60
-                   backgroundColor #007BB7
-                   fontColor       #white
-               }
+skinparam node      {
+                        fontSize        40
+                        backgroundColor #007BB7
+                        fontColor       #white
+                    }
+
+!define card_brain      card Brain  as brain
+!define card_pen        card Pen    as pen
+!define card_book       card Book   as book

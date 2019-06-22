@@ -3,103 +3,155 @@
     !include_many ./STEM-tech-stack-common.iuml
 
     title
-    <img:../../img/others/3rd-party/stem-logo.png{scale=0.3}>
+    <img:../../img/others/3rd-party/stem-logo.png{scale=0.2}>
               Tech Stack
     end title
 
 
+'    newpage
+'    !include_many ./STEM-tech-stack-common.iuml
+'    rectangle " " as gen_x_box {
+'
+'        node "1975-1995"                    as gen_x
+'        cloud "**Natural habitat of GenX** \n(Born between 1965–1976)"  as x_born
+'
+'        card_brain
+'        card_pen
+'        card_book
+'
+'
+'        card "Scientific Calculator"    as x_calculator
+'
+'        gen_x       -l->    x_born #white
+'        gen_x       -->     brain
+'        brain       -->     pen
+'        brain       -->     book
+'        gen_x       -r->    x_calculator
+'    }
+'    newpage
+'
+'    !include_many ./STEM-tech-stack-common.iuml
+'
+'    rectangle " " as gen_y_box {
+'
+'        node "GEN Y"                    as gen_y
+'        cloud "Born between 1977–1995"  as y_born
+'
+'        card Pen                        as y_pen
+'        card Paper                      as y_paper
+'        card Brain                      as y_brain
+'        card Email                      as y_email
+'        card Computer                   as y_computer
+'        card Mobile                     as y_mobile
+'        card Internet                   as y_internet
+'        card Spreadsheets               as y_spreadsheets
+'        card "Data Centers"             as y_data_centers
+'
+'
+'        gen_y       -l->    y_born  #white
+'        gen_y       -->     y_brain
+'        y_brain     -->     y_pen
+'        y_brain      -->    y_paper
+'        y_computer  -->     y_email
+'        y_mobile    -->     y_email
+'        y_mobile    -->     y_internet
+'        gen_y       -->     y_computer
+'        gen_y       -->     y_mobile
+'        y_computer  -->     y_internet
+'        y_computer  -->     y_data_centers
+'        gen_y       -r->    y_spreadsheets
+'    }
+'    newpage
+
     newpage
+
     !include_many ./STEM-tech-stack-common.iuml
-    rectangle " " as gen_x_box {
 
-        node "GEN X"                    as gen_x
-        cloud "Born between 1965–1976"  as x_born
+    cloud "**Natural habitat of GenY** \n(Born between 1977–1995)" as date
+    node "2005 - 2015" as GenZ
 
-        card Pen                        as x_pen
-        card Paper                      as x_paper
-        card Brain                      as x_brain
-        card "Scientific Calculator"    as x_calculator
+    GenZ -l->  date
 
-        gen_x      -l->    x_born #white
-        gen_x      -->     x_brain
-        x_brain    -->     x_pen
-        x_brain    -->     x_paper
-        gen_x      -r->    x_calculator
+    GenZ -d-> Manual
+    GenZ -d-> Custom
+    GenZ -d-> Product
+    GenZ -d-> Invisible
 
+    rectangle "Manual" {
+        card brain
+        card pen
+        card books
+        card ideas
+
+        books -[#white]-> brain
+        pen   -[#white]-> ideas
+    }
+
+    rectangle "Customized" as Custom {
+        card "abc"
+    }
+
+    rectangle "Product or Service" as Product {
+        card "abcd"
+    }
+
+    rectangle "Commodity or Invisible" as "Invisible" {
+        card Maths
+        card "Data Centers"
+        card Internet
     }
     newpage
 
     !include_many ./STEM-tech-stack-common.iuml
 
-    rectangle " " as gen_y_box {
+    cloud "**Natural habitat of GenZ** \n(Born between 1996–2012)" as date
+    node "2018 - 2023" as GenZ
 
-        node "GEN Y"                    as gen_y
-        cloud "Born between 1977–1995"  as y_born
+    GenZ -l->  date
 
-        card Pen                        as y_pen
-        card Paper                      as y_paper
-        card Brain                      as y_brain
-        card Email                      as y_email
-        card Computer                   as y_computer
-        card Mobile                     as y_mobile
-        card Internet                   as y_internet
-        card Spreadsheets               as y_spreadsheets
-        card "Data Centers"             as y_data_centers
+    GenZ -d-> Manual
+    GenZ -d-> Custom
+    GenZ -d-> Product
+    GenZ -d-> Invisible
 
+    rectangle "Manual" {
+        card brain
+        card pen
+        card books
+        card ideas
 
-        gen_y       -l->    y_born  #white
-        gen_y       -->     y_brain
-        y_brain     -->     y_pen
-        y_brain      -->    y_paper
-        y_computer  -->     y_email
-        y_mobile    -->     y_email
-        y_mobile    -->     y_internet
-        gen_y       -->     y_computer
-        gen_y       -->     y_mobile
-        y_computer  -->     y_internet
-        y_computer  -->     y_data_centers
-        gen_y       -r->    y_spreadsheets
-    }
-    newpage
-
-    !include_many ./STEM-tech-stack-common.iuml
-
-    rectangle " " as gen_z_box {
-        node "GEN Z" as gen_z
-        cloud "Born between 1996–TBD "  as z_born
-
-
-        card Pen                        as z_pen
-        card Paper                      as z_paper
-        card Brain                      as z_brain
-        card "Slack"                    as z_slack
-        card "Bots"                     as z_bots
-        card "AI and ML"                as z_ai_ml
-        card "Apps"                     as z_apps
-        card "Python"                   as z_python
-        card "Hash DB and Graphs (ELK)"  as z_elk
-        card "Cloud / Serverless"       as z_cloud
-
-        gen_z       -l->    z_born   #white
-        gen_z       -->     z_brain
-        z_brain     -->     z_pen
-        z_brain     -->     z_paper
-        z_brain     -->     z_ai_ml
-        gen_z       -->     z_apps
-        z_apps      -->    z_slack
-        z_apps      -->    z_bots
-        gen_z       -r->    z_elk
-        z_apps      -->     z_cloud
-        gen_z       -->    z_python
-        z_python   --> z_cloud
-
+        books -[#white]-> brain
+        pen   -[#white]-> ideas
     }
 
+    rectangle "Customized" as Custom {
+        card Scripting
+        'card "Data Science"
+        card "Bots"
+        card Voice
+    }
 
-    'gen_z_box -d-> gen_y_box
+    rectangle "Product or Service" as Product {
+        card "Apps"
+        card "Serverless and cloud" as Serverless
+        card "AI and ML"            as AI
+        card "Slack"
+        card "ELK"
+        Apps       --> ELK
+        Apps       --> Slack
+        Serverless --> AI
+    }
 
-    'gen_z_box -u-> gen_x_box
+    rectangle "Commodity or Invisible" as "Invisible" {
 
+        card "Computers"
+        card "Mobile"
+        card Email
 
+        card "Spreadsheets"
+
+        Email --> Spreadsheets
+        Mobile --> Computers
+    }
 
 @enduml

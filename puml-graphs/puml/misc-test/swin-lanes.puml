@@ -1,0 +1,40 @@
+@startuml
+
+cloud "GEN Z (born on ...)" as date
+actor "2015 - 2025" as GenZ
+
+GenZ -l->  date
+
+GenZ -d-> Manual
+GenZ -d-> Custom
+GenZ -d-> Product
+GenZ -d-> Invisible
+
+rectangle "Manual" {
+    interface brain
+    interface pen
+    interface books
+}
+
+rectangle "Custom" {
+    interface Scripting
+}
+
+rectangle "Product" {
+        interface Voice
+        interface "AI and ML"
+        }
+
+rectangle "Invisible" {
+        interface Computer
+        interface Email
+        interface Mobile
+        interface Internet
+        interface Maths
+        interface "Data Centers"
+        interface "Spreadsheets"
+}
+
+
+@enduml
+

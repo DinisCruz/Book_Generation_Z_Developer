@@ -1,0 +1,65 @@
+@startuml
+
+!include ../diagrams/default-params.iuml
+
+skinparam Title {
+    BorderColor     white
+    FontColor       white
+    BackgroundColor black
+}
+
+skinparam ComponentBorderColor  black
+skinparam NoteBorderColor       black
+skinparam ArrowColor            black
+skinparam RectangleBorderColor  #c0c0c0
+skinparam RectangleBorderStyle  dashed
+skinparam UsecaseBorderColor    #c0c0c0
+
+title
+=GenZ - Life Patterns
+end title
+
+card_person
+
+person -u-> [Backup \nyour life]
+person -u-> [Be a \nfounder]
+person -u-> [Being criticized \nis an privilege]
+person -u-> (published chapters) #white
+person -u-> [The future \nneeds you]
+person -u-> [Talking to yourself \ndigitally]
+person -u-> [Continuous\nLearning]
+
+rectangle {
+person -d-> [Automate your \nWorkflows]
+person -d-> [Civic \nresponsibility]
+person -d-> [Learn to \nHack]
+person -[hidden]-> (draft chapters)
+person -d-> [Publish, Publish \nPublish]
+person -d-> [The \nZone]
+person -d-> [Continuous\nRefactoring]
+
+
+}
+
+
+
+
+
+note right of person
+See book's Section IV for a detailed exploration
+of these life patterns
+end note
+
+footer
+
+
+---------------------------------------------------------------------------
+
+<img:../img/genz-logo-small.png>    <img:../img/others/cc-by-logo-small.png>
+
+Diagram from  "Generation Z Developers" book (released on Nov 2018, v0.7)
+
+Available at Amazon and Leanpub - https://leanpub.com/generation-z
+end footer
+
+@enduml
