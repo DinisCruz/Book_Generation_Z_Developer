@@ -28,7 +28,7 @@ Also very interesting is the [evolution](https://medium.com/s/story/what-google-
  
 The clever part of Google Search business model is their turning of the product (i.e. the users doing the searches) into actual 'workers' for Google. Remember that for Google you are not the client. Google's primary focus and center of gravity is not you.
 
-[Google Adwords](https://en.wikipedia.org/wiki/AdWords) is the system that allows everybody to buy (and bid for) the placement of Ads on a particular Google search keyword. Adwords is by far the highest income stream for Google, with $94 Billion in revenue in 2017 [*reference needed*]. A key problem with Ad based services that are seemingly 'free' (but generate billions for the owners of the network) is the reality that you (the user) are the product. You are the 'goods' that Google sells to their real customers (the companies buying the ads). 
+[Google Adwords](https://en.wikipedia.org/wiki/AdWords) is the system that allows everybody to buy (and bid for) the placement of Ads on a particular Google search keyword. A key problem with Ad based services that are seemingly 'free' (but generate billions for the owners of the network) is the reality that you (the user) are the product. You are the 'goods' that Google sells to their real customers (the companies buying the ads).
 
 This is why Google's business model is at odds with privacy. From Google's (and Facebook, Twitter, LinkedIn, etc..) point of view, the less Privacy you have the more they know about you and the more valuable an asset you become (an asset that they will sell to the highest bidder). 
 
@@ -60,7 +60,7 @@ Google is one of the best Software engineering companies in the world, and one o
 
 Google is also massive in open source with highly successful [hundreds of projects](https://opensource.google.com/) projects like Angular JS, Android or Kubernetes. Google hires some of the best Open Source developers to work on internal projects related to their passion. For example [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), Python's founder and lead developer, worked at Google. By the way, being hired to work on Open Source projects is a very common practice for companies that actively use a particular technology or language. This is a great way to get a dream job: write an Open Source tool/package and get hired by a company that uses it.
 
-Google's profits from the Search Engine are so high that it was able to fund a large number of ideas and industries. It got so big that in 2015 the founders of Google created [Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc.) as Google parent company. This is a really clever move since it will make each susequent division (from self-driving cars, to drone deliveries) more accountable and focused.
+Google's profits from the Search Engine are so high that it was able to fund a large number of ideas and industries. It got so big that in 2015 the founders of Google created [Alphabet](https://en.wikipedia.org/wiki/Alphabet_Inc.) as Google parent company. This is a really clever move since it will make each subsequent division (from self-driving cars, to drone deliveries) more accountable and focused.
 
 ### Learn from Google's focus on engineering and SRE
 
