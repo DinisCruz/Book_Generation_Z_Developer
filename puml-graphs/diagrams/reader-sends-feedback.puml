@@ -1,0 +1,46 @@
+@startuml
+
+    !include default-params.iuml
+
+    card "<img:../img/others/book-cover.jpg>                                    " as book
+    card "<img:../img/dudes/dude.png>           \nReader\n(you)                 " as reader
+    card "<img:../img/dudes/dude-dinis.png>     \nAuthor\n(Dinis Cruz)          " as author
+    card "<img:../img/others/linkedin-logo.png> \nLinkedIn \n tag: Dinis Cruz   " as linkedin
+    card "<img:../img/others/twitter-logo.png>  \nTwitter \ntag: @diniscruz     " as twitter
+    card "<img:../img/others/leanpub-logo.png>                                  " as leanpub
+    card "<img:../img/others/amazon-store.png>                                  " as amazon_store
+    card "<img:../img/others/leanpub-store.png>                                 " as leanpub_store
+    card "<img:../img/github/logo.png>          \nGitHub                        " as github
+    card "<img:../img/github/fork-repo.png>     \n(fork repo)                   " as gh_fork
+    card "<img:../img/github/pull-request.png>  \n(Pull Request)                " as gh_pr
+
+    storage "finds something"                   as finds_issue
+    storage "share it?"                         as take_action
+    cloud   "an bug or typo"                    as bug
+    cloud   "an idea to add"                    as idea
+    cloud   "merge pull request"                as merge_pr
+    cloud   "create kindle, \nebook and pdf" as create_book
+
+    reader            -r->    book               : buys or downloads
+    book              -d->    finds_issue        : while reading
+    finds_issue       -d->    bug                : maybe
+    finds_issue       -d->    idea               : maybe
+    bug               -d->    take_action
+    idea              -d->    take_action
+    take_action       -l->    book               : no
+    take_action       -d->    github             : yes
+
+    take_action       -r->    twitter            : yes
+    take_action       -u->    linkedin           : yes
+
+    twitter           -r->    author
+    linkedin          -r->    author
+    github            -r->    gh_fork            : Gen Z Dev repo
+    gh_fork           -r->    gh_pr              : create and send
+    gh_pr             -u->    author             : notification
+    author            -u->    merge_pr           : review propsed \n changes and ideas
+    merge_pr          -u->    leanpub            : send build \ncommand to
+    leanpub           -u->    create_book        : pull latest version \nfrom github
+    create_book       -u->    leanpub_store      : publish \nto Leanpub store
+    create_book       -r->    amazon_store       : publish \nto Amazon store
+@enduml

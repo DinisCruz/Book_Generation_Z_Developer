@@ -1,0 +1,21 @@
+@startuml
+
+    !include ../diagrams/default-params.iuml
+
+    !define card_author   card "<img:../img/dudes/dude-dinis.png>             \nAuthor               " as author
+    !define card_reader   card "<img:../img/dudes/dude-scratching-head.png>   \nReader               " as reader
+    !define card_linkedin card "<img:../img/others/linkedin-logo.png>                                " as linkedin
+    !define card_github   card "<img:../img/github/logo.png>                                         " as github
+
+    card_author
+    card_reader
+    card_linkedin
+    card_github
+
+    author   --> linkedin
+    linkedin --> reader
+    author   -> reader
+    reader   -> github
+    github   -> author
+
+@enduml

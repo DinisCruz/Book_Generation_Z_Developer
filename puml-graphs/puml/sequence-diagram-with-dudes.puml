@@ -1,0 +1,20 @@
+@startuml
+
+start
+:
+:<img:../img/dude.png{scale=0.3}>;
+note right
+ I'm a note <img:../img/dinis-dude.png{scale=0.2}>
+end note
+
+if (Should I do this?) then (yes)
+    :<img:../img/dude-not-sure.png{scale=0.2}>;
+else (no)
+    :<img:../img//dude-on-the-move.png{scale=0.2}>;
+endif
+: <img:../img/dude-scratching-head.png{scale=0.1}>;
+stop
+
+
+@enduml
+

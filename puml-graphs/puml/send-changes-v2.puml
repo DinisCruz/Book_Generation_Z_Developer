@@ -1,0 +1,37 @@
+@startuml
+
+
+
+skinparam ActivityBackgroundColor        white
+skinparam ActivityBorderColor            white
+skinparam ActivityBorderThickness        1
+skinparam Shadowing                      false
+skinparam ArrowColor                     #0A2D3E
+skinparam ActivityDiamondBorderColor     #0A2D3E
+skinparam ActivityDiamondBackgroundColor white
+skinparam DefaultTextAlignment           center
+
+
+repeat
+: **Read Interface**;
+: **Read Interfaceaa**;
+repeat while(interfaces?)
+: **Generate Interfaces Code**;
+
+
+:Reader \n<img:../img/dudes/dude.png{scale=0.6}>;
+:<img:../img/others/book-cover-small.jpg{scale=0.5}>;
+if (Finds issue)
+  :bug;
+else
+  :idea;
+endif
+
+
+if ("take action?") then (yes)
+  :book;
+else (no)
+  'send message;
+endif
+
+@enduml

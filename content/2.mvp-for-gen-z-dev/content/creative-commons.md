@@ -55,7 +55,7 @@ For reference here is a table which shows the various types of Creative Commons 
 
 ### Obscurity is your biggest threat
 
- Tim O'Reilly on [Piracy is Progressive Taxation, and Other Thoughts on the Evolution of Online Distribution](http://www.openp2p.com/pub/a/p2p/2002/12/11/piracy.html) provides this amazing quite: _'For a typical author, obscurity is a far greater threat than piracy.'_. 
+ Tim O'Reilly on [Piracy is Progressive Taxation, and Other Thoughts on the Evolution of Online Distribution](http://www.openp2p.com/pub/a/p2p/2002/12/11/piracy.html) provides this amazing quote: _'For a typical author, obscurity is a far greater threat than piracy.'_. 
 
  What this means is that you have more to lose by not publishing your ideas, music, or art. 
 

@@ -104,30 +104,30 @@ So how do you Open Source some code?
 
 And then, after you Open Sourced your app or code, what will happen next is: Nothing!
 
-The reality is that it is very hard to create a community around an open source project (most open source projects have been created and are maintained by a very small number of developers)
+The reality is that it is very hard to create a community around an open source project. Most open source projects have been created and are maintained by a very small number of developers.
 
 What you will have done by adding the license file to your code, is to create future opportunities for that code and sent a strong message about your agenda (i.e. you are not going to lock in the future the users that are using your current code today):
 
- - you are allowing somebody (which could be you) in the future to use your code
- - you are also protecting your research, so that if you move companies, you can still use that code (there is nothing worse for a programmer than to having to rewrite something that was working ok (specially when it is a framework that supports a particular workflow)
+ - you are allowing somebody, which could be you, in the future to use your code
+ - you are also protecting your research so that if you move companies you can still use that code. There is nothing worse for a programmer than to having to rewrite something that was working ok, especially when it is a framework that supports a particular workflow.
 
 I believe that we have moral imperative to share our ideas.  I don't want to be the one that close ideas and don't let other benefit and learn from them. These days everything you do is a variation of what somebody has done before (i.e. you are adding an incremental change), after all you are sitting in shoulders of the giants that come before you.  
 
 ### Open Source as a way for companies to collaborate and find talent    
 
-There has been big success stories of companies collaborating internally externally (i.e. internal collaboration between different teams via open source code)
+There have been big success stories of companies collaborating internally externally (i.e. internal collaboration between different teams via open source code)
 
 Ironically, although most developers have internal access to all code, the number of cross-team pull requests is very low. Publishing the same code under an Open Source license will help a lot in its internal reach, usage and collaboration.
 
-This also means that by allowing others to use their code, cleaver companies are creating a great way to find programmers to hire (or companies to buy). As a developer you should take advantage of this and be an active contributor on the open source projects of the companies you want to work for (this is a great way to meet the key developers from those organizations, which might turn up to be key decision makers in your job application)
+This also means that by allowing others to use their code, cleaver companies are creating a great way to find programmers to hire, or companies to buy. As a developer you should take advantage of this and be an active contributor on the open source projects of the companies you want to work for. This is a great way to meet the key developers from those organizations, who may turn out to be key decision makers in your job application.
 
 ### Open Source as a way to define the agenda
 
-When I see code (or applications) that are not released under an Open Source license, namely the scenarios when the application is provided for 'free; (as in zero cost, not as in freedom), I always think 'What is their agenda?', 'Why are they not Open Sourcing the code?', 'Is this a plan to hook the users, make the dependent on the technology and then start charging at a later stage?'.
+When I see code or applications that are not released under an Open Source license, namely the scenarios when the application is provided for 'free; (as in zero cost, not as in freedom), I always think 'What is their agenda?'. 'Why are they not Open Sourcing the code?'. 'Is this a plan to hook the users, make the dependent on the technology and then start charging at a later stage?'.
 
-When the companies (or authors) release code under an Open Source license they allow their users to have the ability (if they want) to control their own destiny. 
+When the companies or authors release code under an Open Source license they allow their users to have the ability, if they want, to control their own destiny. 
 
-Although hard to quantify, I have seen lots of examples where much better engineering decisions have been made due to the fact that ability to lock the user in restrictive licenses is not there.
+Although hard to quantify, I have seen lots of examples where much better engineering decisions have been made because there is no ability to lock the user in restrictive licenses.
 
 
 ### The Cathedral and the Bazaar
@@ -145,12 +145,12 @@ Here are some of the best ones:
 
 In the book Eric compares the creation of proprietary applications to an Cathedral and the development of open source to an Bazaar. 
 
-In Eric's view, Cathedrals are: massive and expensive undertakings, take ages to create, don't have much innovation (apart from a couple major areas), have all sorts of top-down management problems, are super expensive , don't usually work very well (for the intended purposes) and don't usually turn up the way they were originally designed.
+In Eric's view, Cathedrals are: massive and expensive undertakings, take ages to create, don't have much innovation (apart from a couple major areas), have all sorts of top-down management problems, are super expensive, don't usually work very well (for the intended purposes) and don't usually turn up the way they were originally designed.
 
 On the other hand the Bazaars behave like living organisms, always innovating and with always somebody somewhere trying something new.
 
 I actually prefer to see the beauty in both Cathedrals and Bazaars. Each has it magic and situations when they are exactly what is required.
 
-What I find interesting about this analogy, is that with the understanding that we now have of developing software in ways that are super-effective, that promote continuous refactoring and that are constantly deploying one small/medium change at the time (which is what we get from effective TDD and DevOps environments), we can actually 'build amazing Cathedrals out of Bazaar' (i.e. create an Cathedrals by continuously refactor and improve what started has an Bazaar). 
+This analogy is interesting because with the latest super-effective ways of developing software we can now build amazing cathedrals out of the Bazaar. Made possible by continuous refactoring and constant deployment of small/medium changes (which is what we get from effective TDD and DevOps environments). We create Cathedrals by continuously refactoring and improving what had started as a Bazaar. 
 
-This goes to the heart of what I have noticed in effective development environments with crazy-high code coverage: 'the more code and capabilities are added to the application, the faster changes can be made' (which is the opposite of what happens in a lot of projects, where the higher the quantity of code, the slower everything becomes).
+This goes to the heart of what I have noticed in effective development environments with crazy-high code coverage. The more code and capabilities are added to the application, the faster changes can be made. The opposite of what happens in a lot of projects where the higher the quantity of code, the slower everything becomes.
