@@ -10,7 +10,7 @@ It is very important to realise that if you are in a job (or school) where your 
 
 There is a lot of competition out there and if you look at what is coming next, namely AI and the next billion internet users, you'll need to maximise your chances and opportunities.
 
-I really like the Gen Z realization that a job is something that should be rewarding and not just a way to make money. After all, the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happened by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
+I really like the Gen Z realization that a job is something that should be rewarding and not just a way to make money. After all, the best job is when you are paid to do something that you would do for free. Although I am very fortunate to be in that situation, where I love my job and what I do every day, it didn't happen by accident. I made a number of key decisions in my life, some with very short-term negative implications, that allowed me to align what I love to do with what the market wants to pay.
 
 **Being passionate and loving your job**
 
@@ -18,7 +18,7 @@ Find what you are passionate for, what you really care about and align your care
 
 **Having one competitive advantage**
 
-The best way to get a job is to have ONE competitive advantage. One activity or task that you can do better than the person or company hiring you. For example in the 1990s for a lot of companies it was simply that you could use a computer! In the 2000s is was using the Internet. In the early days of software development or security, all it took was good programming or hacking experience. Although it might look that the bar was lower those days, the reality is that those who could do it were the ones who proactively embraced the technologies and learned them against all odds. Individuals can become experts at new technology faster than the tech companies. You can be first in line for a job when they need that expertise. These days, it is technologies and ideas like (all covered in this book):
+The best way to get a job is to have ONE competitive advantage. One activity or task that you can do better than the person or company hiring you. For example in the 1990s for a lot of companies it was simply that you could use a computer! In the 2000s is was using the Internet. In the early days of software development or security, all it took was good programming or hacking experience. Although it might seem that the bar was lower then, the reality is that those who could do it were the ones who proactively embraced the technologies and learned them against all odds. Individuals can become experts at new technology faster than the tech companies. You can be first in line for a job when they need that expertise. These days, it is technologies and ideas like (all covered in this book):
 
 - ML/AI
 - Graphs
