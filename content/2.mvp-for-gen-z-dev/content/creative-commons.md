@@ -55,7 +55,7 @@ For reference here is a table which shows the various types of Creative Commons 
 
 ### Obscurity is your biggest threat
 
- Tim O'Reilly on [Piracy is Progressive Taxation, and Other Thoughts on the Evolution of Online Distribution](http://www.openp2p.com/pub/a/p2p/2002/12/11/piracy.html) provides this amazing quite: _'For a typical author, obscurity is a far greater threat than piracy.'_. 
+ Tim O'Reilly on [Piracy is Progressive Taxation, and Other Thoughts on the Evolution of Online Distribution](http://www.openp2p.com/pub/a/p2p/2002/12/11/piracy.html) provides this amazing quote: _'For a typical author, obscurity is a far greater threat than piracy.'_. 
 
  What this means is that you have more to lose by not publishing your ideas, music, or art. 
 
@@ -65,7 +65,7 @@ Ironically, the majority of modern science was built on the principle of sharing
  
 Good news is, in the last decade this has started to change. I think a big part of it was caused by the cross fertilization of practices brought to science by developers who were exposed to the Open Source workflow (and culture and effectiveness) and help to push for a much more open and collaborative environment between teams. See for example the collaboration of code and data-sets that is happening on areas like cancer research.
 
-Also, amazing is the massive amount of data that is being shared today by government agencies. See these books for amazing info-graphics created from this data:
+Also amazing is the massive amount of data that is being shared today by government agencies. See these books for amazing info-graphics created from this data:
 
  - [Information is Beautiful](https://www.amazon.co.uk/Information-Beautiful-New-David-McCandless/dp/0007492898)
  - [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.co.uk/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)

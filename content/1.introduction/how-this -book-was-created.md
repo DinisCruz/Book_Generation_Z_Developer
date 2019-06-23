@@ -8,7 +8,7 @@ This book is being created using the principles and technologies described in th
 
  - All content is available under an CC License (Creative Commons)
  - Markdown is used to write the content
- - All content is managed using git and published under an public GitHub repository
+ - All content is managed using git and published under a public GitHub repository
  - GitHub Issues are used to track bugs, issues and ideas 
  - Leanpub is used to create and publish the digital versions of this book
  - Content is being published early and often on Leanpub and on some blogs (to share the ideas, get feedback and build community) 

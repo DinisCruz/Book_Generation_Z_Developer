@@ -18,7 +18,7 @@ This is where you need to take a proactive approach and start learning about how
 
 The great news is that in the last couple years the major cloud providers have been investing really hard on these technologies and are now providing environments where you can easily play around and learn how machine learning and AI works
 
-See for example all the different tools and technolgies that AWS is already offering in the [machine learning](https://aws.amazon.com/machine-learning/) space (Microsoft is also providing some really cool capabilities on [Azure](https://azure.microsoft.com/en-gb/overview/machine-learning/))
+See for example all the different tools and technologies that AWS is already offering in the [machine learning](https://aws.amazon.com/machine-learning/) space (Microsoft is also providing some really cool capabilities on [Azure](https://azure.microsoft.com/en-gb/overview/machine-learning/))
 
 As a developer, you will be soon be asked to write code that integrates with Machine Learning technology to process large amounts of data or to integrate an app with AI services like voice, image recognition or domain-specific analysis (for example in medicine)
 
