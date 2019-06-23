@@ -14,7 +14,7 @@ From a practical point of view, Docker makes it very easy for you to try and use
 
 The first time I saw and used Docker, I was massively impressed by its simplicity and its potential to change how applications are developed and deployed.
 
-To understand Docker and its power, the first concept to master is how Docker is a _"process that exposes a multi-layered file system as an fully isolated OS"_
+To understand Docker and its power, the first concept to master is how Docker is a _"process that exposes a multi-layered file system as a fully isolated OS"_
 
 It is easy to see Docker as just a faster VM environment or a faster Vagrant (which is a way to programmatically create VMs). I've seen companies that having automated VM deployments to a significant extent (i.e. they become really good at automating the creation and deployment of multi-gigabyte VMs) completely dismissed Docker as just another IT fad.
 
@@ -22,7 +22,7 @@ The problem is that Docker is much more than just a faster VM and by fast, I mea
 
 Docker starts in second(s) because it is just a process. The magic sauce is created by:
 
-1. a number of Linux kernel technologies that are able create a sandboxed environment for that process (for files and network access and other key parts of the OS)
+1. a number of Linux kernel technologies that are able to create a sandboxed environment for that process (for files and network access and other key parts of the OS)
 2. a layered file system, where each layer contains a diff of the previous layer. This is a powerful graph db, where each file location is dynamically calculated when you are inside the Docker image. Basically what is happening is that each layer is immutable, and when a file is changed inside Docker it is either a) saved as a new Docker image or b) discarded when the Docker image stops. A final 'Docker image' is just a collection of multiple images, all stacked up, one on top of the other. 
 
 ### Kubernetes
@@ -61,7 +61,7 @@ Docker also makes it possible to safely run 3rd party code in isolated (i.e. san
 
 One area where we are still quite immature, as an industry, is the testing of Docker images and Kubernetes setups.
 
-There aren't enough good tools, IDEs and Test Runners for Docker and Kubernetes. Basically we need a Test Driven Development (TDD) workflow for Docker development!
+There aren't enough good tools, integrated development envorinments (IDEs) and Test Runners for Docker and Kubernetes. Basically we need a Test Driven Development (TDD) workflow for Docker development!
 
 If I were you, this would definitely be an area I would focus my research on (while blogging about your efforts). 
 
@@ -69,7 +69,7 @@ Another great research area is the visualization and mapping of Kubernetes envir
 
 You would have a big competitive advantage in the market place if you understood these concepts and had practical experience at implementing them.
 
-### It all stated with physical containers
+### It all started with physical containers
 
 For a great introduction to Containers see MAYA Design's [Containerization](https://vimeo.com/49392667) animation, and the Wendover Productions' [Containerization: The Most Influential Invention That You've Never Heard Of](https://www.youtube.com/watch?v=F-ZskaqBshs) video
 
