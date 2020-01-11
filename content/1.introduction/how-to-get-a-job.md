@@ -4,9 +4,9 @@ status: content
 weight : 20
 ---
 
-One of my objectives with this book is to help you to find a great job. One that you will love going to everyday; one where you are in for a steep learning curve and one that aligns what you are passionate about with what your employer is happy to pay for.
+One of my objectives with this book is to help you to find a great job. One that you will love going to every day; one where you are in for a steep learning curve and one that aligns what you are passionate about with what your employer is happy to pay for.
 
-It is very important to realise that if you are in a job (or school) where your learning curve is not off-the-charts, you are short-changing your life and your career. Nobody cares as much about your career as you do, and you are the only one that has full control over your attitude to learning. You can chose everyday on how engaged and receptive you are to learn and to be taught by others. It is not exaggeration to say that you decide your future's direction and path with every decision you make.
+It is very important to realise that if you are in a job (or school) where your learning curve is not off-the-charts, you are short-changing your life and your career. Nobody cares as much about your career as you do, and you are the only one that has full control over your attitude to learning. You can choose every day on how engaged and receptive you are to learn and to be taught by others. It is not exaggeration to say that you decide your future's direction and path with every decision you make.
 
 There is a lot of competition out there and if you look at what is coming next, namely AI and the next billion internet users, you'll need to maximise your chances and opportunities.
 
