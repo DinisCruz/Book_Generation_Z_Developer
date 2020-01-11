@@ -24,7 +24,7 @@ My hope with this book is to fill these gaps and provide context and references 
 
 **Overwhelming curiosity**
 
-How will I know if this book has succeded? I'm hopeful that the reader can enjoy a few moments of overwhelming curiosity and go on learning more about a certain topic. Moments when you follow link after link about a particular topic, and think 'WOW, that is fr**** awesome!'.
+How will I know if this book has succeeded? I'm hopeful that the reader can enjoy a few moments of overwhelming curiosity and go on learning more about a certain topic. Moments when you follow link after link about a particular topic, and think 'WOW, that is fr**** awesome!'.
 
 If you are lucky enough to find yourself in this place, congratulations! You just found 'the zone'. An amazing mental place where you have the chance to be single minded and 100% absorbed. This is the best way to learn.
 
