@@ -28,4 +28,4 @@ Due to its open nature and focus on finding solutions for hard problems (related
 
 This means that regardless if you want to want to get a job in an security team, active participation in OWASP projects is a perfect and very effective way to meet individuals that can help you find the job you want.
 
-That said, there is a massive skills shortage in the market for Application Security specialists. The main reason is because you can't really do Application Security unless you have a developer background. My advise to all developers I meet, is to seriously consider an Application Security carer. Not only it is an industry that is on a massive growth curve, it really needs new talent, energy , development skill and ideas.
+That said, there is a massive skills shortage in the market for Application Security specialists. The main reason is because you can't really do Application Security unless you have a developer background. My advise to all developers I meet, is to seriously consider an Application Security carer. Not only it is an industry that is on a massive growth curve, it really needs new talent, energy, development skill and ideas.
