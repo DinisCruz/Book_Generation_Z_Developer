@@ -73,7 +73,7 @@ Visio diagrams are the current industry standard for creating detailed technical
 The irony is that Visio's main features are actually its main drawbacks. Due to the fact that Visio allows the creation of very detailed diagrams means that it is:
 
  - **very time consuming** - it is normal to take hours (if not days) to create detailed diagrams 
- - **created from somebody's interpretation of reality** - the author of the Visio diagram will have a massive impact on the design, taxonomies, conventions and depth of detail, which means that it's personal bias and agenda will be reflected in the diagram
+ - **created from somebody's interpretation of reality** - the author of the Visio diagram will have a massive impact on the design, taxonomies, conventions and depth of detail, which means that his or her personal bias and agenda will be reflected in the diagram
  - **a work of art** - yes some diagrams look really beautiful, but the point of a diagram is to help with data communication,   understanding and collaboration. The point should be to empower decisions, not to look good
  - **not created from dynamic data** - all elements in the Visio diagram are manually added, which means that once the original data/scenario/architecture changes, the diagram will be out-of-data
  - **layout is pixel based** - which means that moving anything can become really hard because the actually location of a particular element is 'hard-coded' to a particular location in the page (i.e. its pixel). This is one of the reasons why changes are so hard, since it is easy to hit clashes between elements, when moving/adding new elements

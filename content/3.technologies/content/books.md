@@ -20,7 +20,7 @@ The digital world is really good at promoting [group think](https://en.wikipedia
 
 My experience is that books (and printed materials) are much better technologies for the consumption of information. One area where the advantages of the digital books can be significant are novels and fictional stories (namely the convenience of access and the weight difference), in this case the books are just a transient medium that is being used to tell a story, just like in a movie (in most cases, what the reader is getting are emotional connections with the characters/story, and not really learning from the text)
 
-The reality is if you want to learn, you are better of using a book or printed materials.
+The reality is if you want to learn, you are better off using a book or printed materials.
 
 The same happens with reviewing materials. It not coincidence that we all have experiences of writing content in a digital medium (i.e. the computer) and while reading it on a screen it kinda looks ok. Then once we print it, and enjoy the unidirectional, offline and 100% focused activity experience that is _'reading a piece of paper'_, we find tons of errors and _'WTF was I thinking when I wrote that!'_ moments. In fact making notes on printed versions of digital content, is exactly how I am writing and reviewing this book's content.
 
@@ -28,7 +28,7 @@ Yes, the fact that books are offline is one of the book's main competitive advan
 
 The book's _'features'_ of not being interrupted by a constant stream of apps/websites notifications and not having a browser at hand, does wonders for your ability to focus and to consume information.
 
-Another powerful feature of books (in addition of rendering contentin HD with real-time refresh rate), is that they allow your brain to consume information in a 3D format and with more senses. For example, notice how when you flick back pages looking for a particular passage or diagram, your eyes will be looking at a particular section of the page. This means that your brain not only is capturing the content that it is reading, it is also capturing (and storing) the location of that content, and how it relates to the rest of the page. One of the reasons that lead me to the epiphany of the value of books was how I noticed that it was bothering me the fact that the kindle reorders paragraphs and pages when you flick back (and how it was affecting my ability to find content I've already read)
+Another powerful feature of books (in addition of rendering content in HD with real-time refresh rate), is that they allow your brain to consume information in a 3D format and with more senses. For example, notice how when you flick back pages looking for a particular passage or diagram, your eyes will be looking at a particular section of the page. This means that your brain not only is capturing the content that it is reading, it is also capturing (and storing) the location of that content, and how it relates to the rest of the page. One of the reasons that lead me to the epiphany of the value of books was how I noticed that it was bothering me the fact that the kindle reorders paragraphs and pages when you flick back (and how it was affecting my ability to find content I've already read)
 
 **Environmental impact of books**
 

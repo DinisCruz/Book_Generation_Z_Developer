@@ -17,7 +17,7 @@ A great feature added early on was the REPL (Read Eval Print Loop) environment. 
 
 Even if you are not using Python as your main development language, due to it massive adoption and powerful ability to write small apps/function, you should use it often (for all sorts of automation tasks).
 
-A perfect example of the power of Python is in the development of Serverless functions (executed as an [AWS Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/python-programming-model-handler-types.html)) or in advanced customization's of event-driven workflows (like the one provided by [Zapier Python support](https://zapier.com/help/code-python/))
+A perfect example of the power of Python is in the development of Serverless functions (executed as an [AWS Lambda function](https://docs.aws.amazon.com/lambda/latest/dg/python-programming-model-handler-types.html)) or in advanced customizations of event-driven workflows (like the one provided by [Zapier Python support](https://zapier.com/help/code-python/))
 
 The [AWS SDK for python (boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) is something you should spend quite a lot of time with and really explore its capabilities (while learning to take python into another level). 
 

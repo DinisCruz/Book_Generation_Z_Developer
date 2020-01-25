@@ -35,7 +35,7 @@ Say you want to:
 
 You will need to start looking at what are called 'orchestration technologies'.
 
-The Docker team has published light orchestration frameworks called [Docker Compose](https://docs.Docker.com/compose/) and [Docker Swarm](https://docs.Docker.com/engine/swarm/). Whilst both solutions are relatively effective and have their share of pros and cons,[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is by far the most widely used container orchestration mechanism in production environments.
+The Docker team has published light orchestration frameworks called [Docker Compose](https://docs.Docker.com/compose/) and [Docker Swarm](https://docs.Docker.com/engine/swarm/). Whilst both solutions are relatively effective and have their share of pros and cons, [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) is by far the most widely used container orchestration mechanism in production environments.
 
 Kubernetes (sometimes also called K8) was actually developed by Google and was inspired by [Google's Borg](https://ai.google/research/pubs/pub43438). The Borg is one of the key reasons why Google was able to massively scale services like its web search and Gmail. Everything at Google is a container and as early as 2014 Google claimed to be starting [two billion](https://www.theregister.co.uk/2014/05/23/google_containerization_two_billion/) [containers per week](https://cloud.google.com/containers/)
 

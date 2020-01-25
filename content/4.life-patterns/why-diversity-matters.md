@@ -33,7 +33,7 @@ status: draft
 
     - (the reverse of the above)
     - 'hero'syndrome (he/she will 'save the day')
-    - superiority complex (everybody is not as cleaver has him/her)
+    - superiority complex (everybody is not as clever has him/her)
     - very complex design (which nobody real understands)
 
 Looking at the two lists, it is obvious why we need more women to get into programming
