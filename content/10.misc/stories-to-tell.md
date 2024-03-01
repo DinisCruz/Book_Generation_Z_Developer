@@ -5,11 +5,11 @@ title: Stories to tell
 
 **Topics to cover and ideas**
 
- - Monkey in cage that don't get the bananas from celling
+ - Monkey in cage that don't get the bananas from ceiling
  - My dad's "Building a university in field story"
  - FISH! 4 concepts
     - Be present
-    - Chose your attitude
+    - Choose your attitude
     - make their day
     - play
  - curse of knowledge (find book where I read it)
